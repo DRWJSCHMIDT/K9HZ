@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
+%TF.CreationDate,2025-07-28T11:32:36-05:00*%
+%TF.ProjectId,K9HZ_100W_11band_LPF-Control,4b39485a-5f31-4303-9057-5f313162616e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2025-07-28 11:32:36*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X60000000Y-43000000D02*
+X160000000Y-43000000D01*
+X160000000Y-143000000D01*
+X60000000Y-143000000D01*
+X60000000Y-43000000D01*
+M02*

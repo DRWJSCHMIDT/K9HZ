@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "c030dcd0-6287-4f43-b3d4-f70f35414eb1")
 	(paper "User" 447.319 458.089)
+	(title_block
+		(title "K9HZ 100W Antenna Tuner for T41 V12")
+		(date "2025-07-19")
+		(rev "V1.10")
+		(comment 1 "Copyright C 2025")
+	)
 	(lib_symbols
 		(symbol "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+12V"
 			(power)
@@ -7713,7 +7719,7 @@
 	)
 	(text "+5V"
 		(exclude_from_sim no)
-		(at 317.82 361.89 0)
+		(at 320.36 333.95 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7724,7 +7730,7 @@
 	)
 	(text "+5V"
 		(exclude_from_sim no)
-		(at 343.22 312.19 0)
+		(at 345.76 284.25 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7735,7 +7741,7 @@
 	)
 	(text "J11"
 		(exclude_from_sim no)
-		(at 301.244 412.681 90)
+		(at 303.784 384.741 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7746,7 +7752,7 @@
 	)
 	(text "C20"
 		(exclude_from_sim no)
-		(at 100.971 184.796 90)
+		(at 106.051 173.366 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7768,7 +7774,7 @@
 	)
 	(text "SCL"
 		(exclude_from_sim no)
-		(at 22.86 396.24 0)
+		(at 25.4 368.3 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7779,7 +7785,7 @@
 	)
 	(text "A1"
 		(exclude_from_sim no)
-		(at 284.48 414.02 0)
+		(at 287.02 386.08 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7790,7 +7796,7 @@
 	)
 	(text "A2"
 		(exclude_from_sim no)
-		(at 271.78 414.02 0)
+		(at 274.32 386.08 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7812,7 +7818,7 @@
 	)
 	(text "+5V"
 		(exclude_from_sim no)
-		(at 86.68 314.73 0)
+		(at 89.22 286.79 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7823,7 +7829,7 @@
 	)
 	(text "REF"
 		(exclude_from_sim no)
-		(at 45.72 398.78 0)
+		(at 48.26 370.84 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7845,7 +7851,7 @@
 	)
 	(text "C7"
 		(exclude_from_sim no)
-		(at 284.48 223.52 0)
+		(at 287.02 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7856,7 +7862,7 @@
 	)
 	(text "FOR"
 		(exclude_from_sim no)
-		(at 45.72 396.24 0)
+		(at 48.26 368.3 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7889,7 +7895,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 74.295 240.544 90)
+		(at 76.835 212.604 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7900,7 +7906,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 347.218 304.298 90)
+		(at 349.758 276.358 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7911,7 +7917,7 @@
 	)
 	(text "C4"
 		(exclude_from_sim no)
-		(at 246.38 223.52 0)
+		(at 248.92 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7922,7 +7928,7 @@
 	)
 	(text "C16"
 		(exclude_from_sim no)
-		(at 150.727 358.769 0)
+		(at 153.267 330.829 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7933,7 +7939,7 @@
 	)
 	(text "BALANCED OUT"
 		(exclude_from_sim no)
-		(at 355.6 223.52 0)
+		(at 358.14 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7944,7 +7950,7 @@
 	)
 	(text "L5"
 		(exclude_from_sim no)
-		(at 142.24 223.52 0)
+		(at 144.78 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7955,7 +7961,7 @@
 	)
 	(text "K1.2"
 		(exclude_from_sim no)
-		(at 81.915 241.648 90)
+		(at 102.87 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7977,7 +7983,7 @@
 	)
 	(text "J5"
 		(exclude_from_sim no)
-		(at 34.562 387.252 0)
+		(at 37.102 359.312 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -7999,7 +8005,7 @@
 	)
 	(text "L2"
 		(exclude_from_sim no)
-		(at 104.14 223.52 0)
+		(at 106.68 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8021,7 +8027,7 @@
 	)
 	(text "3.3K Ohm"
 		(exclude_from_sim no)
-		(at 113.03 378.924 90)
+		(at 115.57 350.984 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8032,7 +8038,7 @@
 	)
 	(text "L1"
 		(exclude_from_sim no)
-		(at 93.98 223.52 0)
+		(at 96.52 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8043,7 +8049,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 160.268 318.135 0)
+		(at 162.808 290.195 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8054,7 +8060,7 @@
 	)
 	(text "U1"
 		(exclude_from_sim no)
-		(at 151.471 375.92 0)
+		(at 154.011 347.98 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8065,7 +8071,7 @@
 	)
 	(text "K4.2"
 		(exclude_from_sim no)
-		(at 120.015 242.012 90)
+		(at 140.97 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8076,7 +8082,7 @@
 	)
 	(text "C2"
 		(exclude_from_sim no)
-		(at 220.98 223.52 0)
+		(at 223.52 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8098,7 +8104,7 @@
 	)
 	(text "+12V"
 		(exclude_from_sim no)
-		(at 340.262 275.53 0)
+		(at 342.802 247.59 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8120,7 +8126,7 @@
 	)
 	(text "K5.2"
 		(exclude_from_sim no)
-		(at 132.715 241.975 90)
+		(at 153.67 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8153,7 +8159,7 @@
 	)
 	(text "C18"
 		(exclude_from_sim no)
-		(at 113.671 184.467 90)
+		(at 118.751 173.037 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8175,7 +8181,7 @@
 	)
 	(text "0.1uf 50V"
 		(exclude_from_sim no)
-		(at 146.95 362.591 0)
+		(at 149.49 334.651 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8186,7 +8192,7 @@
 	)
 	(text "0,1uf 50V"
 		(exclude_from_sim no)
-		(at 225.431 317.87 90)
+		(at 227.971 289.93 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8197,7 +8203,7 @@
 	)
 	(text "MCP23017_SO"
 		(exclude_from_sim no)
-		(at 144.397 421.64 0)
+		(at 146.937 393.7 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8208,7 +8214,7 @@
 	)
 	(text "U3"
 		(exclude_from_sim no)
-		(at 336.564 383.54 0)
+		(at 339.104 355.6 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8219,7 +8225,7 @@
 	)
 	(text "C19"
 		(exclude_from_sim no)
-		(at 61.589 184.432 90)
+		(at 66.669 173.002 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8241,7 +8247,7 @@
 	)
 	(text "R4"
 		(exclude_from_sim no)
-		(at 300.99 379.752 90)
+		(at 303.53 351.812 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8285,7 +8291,7 @@
 	)
 	(text "K10.2"
 		(exclude_from_sim no)
-		(at 211.455 242.394 90)
+		(at 232.41 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8318,7 +8324,7 @@
 	)
 	(text "K14.2"
 		(exclude_from_sim no)
-		(at 262.255 242.43 90)
+		(at 283.21 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8340,7 +8346,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 39.472 139.77 90)
+		(at 44.552 128.34 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8351,7 +8357,7 @@
 	)
 	(text "R5"
 		(exclude_from_sim no)
-		(at 288.29 379.716 90)
+		(at 290.83 351.776 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8362,7 +8368,7 @@
 	)
 	(text "L7805ABD2T-TR"
 		(exclude_from_sim no)
-		(at 71.911 181.61 0)
+		(at 76.991 170.18 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8395,7 +8401,7 @@
 	)
 	(text "J7"
 		(exclude_from_sim no)
-		(at 105.664 397.35 90)
+		(at 108.204 369.41 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8406,7 +8412,7 @@
 	)
 	(text "K9.2"
 		(exclude_from_sim no)
-		(at 198.755 241.939 90)
+		(at 219.71 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8417,7 +8423,7 @@
 	)
 	(text "J8"
 		(exclude_from_sim no)
-		(at 118.364 397.35 90)
+		(at 120.904 369.41 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8428,7 +8434,7 @@
 	)
 	(text "K20.2"
 		(exclude_from_sim no)
-		(at 381.635 242.721 90)
+		(at 402.59 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8439,7 +8445,7 @@
 	)
 	(text "K16.1"
 		(exclude_from_sim no)
-		(at 311.945 94.696 90)
+		(at 313.69 97.79 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8461,7 +8467,7 @@
 	)
 	(text "K15.2"
 		(exclude_from_sim no)
-		(at 274.955 242.394 90)
+		(at 295.91 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8472,7 +8478,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 25.4 401.32 0)
+		(at 27.94 373.38 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8505,7 +8511,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 103.378 309.378 90)
+		(at 105.918 281.438 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8516,7 +8522,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 323.215 428.504 90)
+		(at 325.755 400.564 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8527,7 +8533,7 @@
 	)
 	(text "U6"
 		(exclude_from_sim no)
-		(at 80.061 167.64 0)
+		(at 85.141 156.21 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8538,7 +8544,7 @@
 	)
 	(text "K3.2"
 		(exclude_from_sim no)
-		(at 107.315 241.975 90)
+		(at 128.27 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8560,7 +8566,7 @@
 	)
 	(text "K16.2"
 		(exclude_from_sim no)
-		(at 287.655 242.356 90)
+		(at 308.61 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8571,7 +8577,7 @@
 	)
 	(text "K20.1"
 		(exclude_from_sim no)
-		(at 340.835 76.929 90)
+		(at 342.9 87.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8593,7 +8599,7 @@
 	)
 	(text "1uF 25V"
 		(exclude_from_sim no)
-		(at 65.411 187.336 90)
+		(at 70.491 175.906 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8615,7 +8621,7 @@
 	)
 	(text "SDA"
 		(exclude_from_sim no)
-		(at 22.86 393.7 0)
+		(at 25.4 365.76 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8626,7 +8632,7 @@
 	)
 	(text "K17.2"
 		(exclude_from_sim no)
-		(at 335.915 242.394 90)
+		(at 356.87 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8648,7 +8654,7 @@
 	)
 	(text "J6"
 		(exclude_from_sim no)
-		(at 92.964 397.313 90)
+		(at 95.504 369.373 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8659,7 +8665,7 @@
 	)
 	(text "C13"
 		(exclude_from_sim no)
-		(at 107.309 298.89 90)
+		(at 109.849 270.95 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8670,7 +8676,7 @@
 	)
 	(text "K2.2"
 		(exclude_from_sim no)
-		(at 94.615 241.975 90)
+		(at 115.57 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8681,7 +8687,7 @@
 	)
 	(text "L3"
 		(exclude_from_sim no)
-		(at 119.38 223.52 0)
+		(at 121.92 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8689,6 +8695,17 @@
 			(justify left top)
 		)
 		(uuid "64a31b15-70fb-4b9f-b676-e6f9a113e84b")
+	)
+	(text "K18.1"
+		(exclude_from_sim no)
+		(at 363.22 81.28 90)
+		(effects
+			(font
+				(size 1.48 1.48)
+			)
+			(justify right top)
+		)
+		(uuid "68d7dd2d-0927-44c0-b96f-ac9c9be0fdb4")
 	)
 	(text "J4"
 		(exclude_from_sim no)
@@ -8703,7 +8720,7 @@
 	)
 	(text "C8"
 		(exclude_from_sim no)
-		(at 297.18 223.52 0)
+		(at 299.72 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8714,7 +8731,7 @@
 	)
 	(text "3.3K Ohm"
 		(exclude_from_sim no)
-		(at 87.63 378.924 90)
+		(at 90.17 350.984 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8725,7 +8742,7 @@
 	)
 	(text "A0"
 		(exclude_from_sim no)
-		(at 114.3 398.78 0)
+		(at 116.84 370.84 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8736,7 +8753,7 @@
 	)
 	(text "C5"
 		(exclude_from_sim no)
-		(at 259.08 223.52 0)
+		(at 261.62 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8769,7 +8786,7 @@
 	)
 	(text "C1"
 		(exclude_from_sim no)
-		(at 208.28 223.52 0)
+		(at 210.82 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8802,7 +8819,7 @@
 	)
 	(text "C11"
 		(exclude_from_sim no)
-		(at 221.609 298.563 90)
+		(at 224.149 270.623 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8813,7 +8830,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 315.595 240.544 90)
+		(at 318.135 212.604 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8835,7 +8852,7 @@
 	)
 	(text "A0"
 		(exclude_from_sim no)
-		(at 297.18 414.02 0)
+		(at 299.72 386.08 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8857,7 +8874,7 @@
 	)
 	(text "K8.2"
 		(exclude_from_sim no)
-		(at 170.815 241.975 90)
+		(at 191.77 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8879,7 +8896,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 407.035 240.544 90)
+		(at 409.575 212.604 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8890,7 +8907,7 @@
 	)
 	(text "U4"
 		(exclude_from_sim no)
-		(at 234.95 306.092 90)
+		(at 237.49 278.152 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8901,7 +8918,7 @@
 	)
 	(text "3.3K Ohm"
 		(exclude_from_sim no)
-		(at 303.53 384.004 90)
+		(at 306.07 356.064 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8923,7 +8940,7 @@
 	)
 	(text "L4"
 		(exclude_from_sim no)
-		(at 129.54 223.52 0)
+		(at 132.08 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8945,7 +8962,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 125.095 428.504 90)
+		(at 127.635 400.564 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -8978,7 +8995,7 @@
 	)
 	(text "IDC2x5"
 		(exclude_from_sim no)
-		(at 33.312 387.486 0)
+		(at 35.852 359.546 0)
 		(effects
 			(font
 				(size 0.987 0.987)
@@ -9000,7 +9017,7 @@
 	)
 	(text "K19.2"
 		(exclude_from_sim no)
-		(at 366.395 242.357 90)
+		(at 387.35 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9011,7 +9028,7 @@
 	)
 	(text "R6"
 		(exclude_from_sim no)
-		(at 275.59 379.679 90)
+		(at 278.13 351.739 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9033,7 +9050,7 @@
 	)
 	(text "L8"
 		(exclude_from_sim no)
-		(at 180.34 223.52 0)
+		(at 182.88 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9044,7 +9061,7 @@
 	)
 	(text "R1"
 		(exclude_from_sim no)
-		(at 110.49 374.309 90)
+		(at 113.03 346.369 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9077,7 +9094,7 @@
 	)
 	(text "3.3K Ohm"
 		(exclude_from_sim no)
-		(at 100.33 378.924 90)
+		(at 102.87 350.984 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9088,7 +9105,7 @@
 	)
 	(text "J9"
 		(exclude_from_sim no)
-		(at 275.844 412.554 90)
+		(at 278.384 384.614 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9099,7 +9116,7 @@
 	)
 	(text "K18.2"
 		(exclude_from_sim no)
-		(at 351.155 242.393 90)
+		(at 372.11 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9110,7 +9127,7 @@
 	)
 	(text "R3"
 		(exclude_from_sim no)
-		(at 85.09 374.636 90)
+		(at 87.63 346.696 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9121,7 +9138,7 @@
 	)
 	(text "+12V"
 		(exclude_from_sim no)
-		(at 60.862 154.588 0)
+		(at 65.942 143.158 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9132,7 +9149,7 @@
 	)
 	(text "C3"
 		(exclude_from_sim no)
-		(at 233.68 223.52 0)
+		(at 236.22 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9176,7 +9193,7 @@
 	)
 	(text "A1"
 		(exclude_from_sim no)
-		(at 101.6 398.78 0)
+		(at 104.14 370.84 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9187,7 +9204,7 @@
 	)
 	(text "L7"
 		(exclude_from_sim no)
-		(at 167.64 223.52 0)
+		(at 170.18 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9198,7 +9215,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 165.602 358.521 0)
+		(at 168.142 330.581 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9220,7 +9237,7 @@
 	)
 	(text "0,1uf 50V"
 		(exclude_from_sim no)
-		(at 360.051 315.33 90)
+		(at 362.591 287.39 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9242,7 +9259,7 @@
 	)
 	(text "BANDS"
 		(exclude_from_sim no)
-		(at 32.105 405.032 0)
+		(at 34.645 377.092 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9261,17 +9278,6 @@
 			(justify left bottom)
 		)
 		(uuid "a997e5b9-bc92-4d2a-80e1-9fe9b7cd14ae")
-	)
-	(text "K18.1"
-		(exclude_from_sim no)
-		(at 358.615 111.36 90)
-		(effects
-			(font
-				(size 1.48 1.48)
-			)
-			(justify right bottom)
-		)
-		(uuid "a9e15cef-fc26-484d-a8fc-04b4d6548fd0")
 	)
 	(text "0.45uH"
 		(exclude_from_sim no)
@@ -9297,7 +9303,7 @@
 	)
 	(text "K7.2"
 		(exclude_from_sim no)
-		(at 158.115 241.975 90)
+		(at 179.07 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9308,7 +9314,7 @@
 	)
 	(text "C6"
 		(exclude_from_sim no)
-		(at 271.78 223.52 0)
+		(at 274.32 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9319,7 +9325,7 @@
 	)
 	(text "+5V"
 		(exclude_from_sim no)
-		(at 96.84 154.974 0)
+		(at 101.92 143.544 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9330,7 +9336,7 @@
 	)
 	(text "L6"
 		(exclude_from_sim no)
-		(at 154.94 223.52 0)
+		(at 157.48 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9341,7 +9347,7 @@
 	)
 	(text "LC-CL"
 		(exclude_from_sim no)
-		(at 342.9 223.52 0)
+		(at 345.44 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9407,7 +9413,7 @@
 	)
 	(text "BYPASS"
 		(exclude_from_sim no)
-		(at 381 223.52 0)
+		(at 383.54 195.58 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9418,7 +9424,7 @@
 	)
 	(text "C10"
 		(exclude_from_sim no)
-		(at 107.309 319.21 90)
+		(at 109.849 291.27 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9429,7 +9435,7 @@
 	)
 	(text "0.1uF 50V"
 		(exclude_from_sim no)
-		(at 111.131 323.133 90)
+		(at 113.671 295.193 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9440,7 +9446,7 @@
 	)
 	(text "+5V"
 		(exclude_from_sim no)
-		(at 129.86 354.27 0)
+		(at 132.4 326.33 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9451,7 +9457,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 411.728 315.595 0)
+		(at 414.268 287.655 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9495,7 +9501,7 @@
 	)
 	(text "PWR"
 		(exclude_from_sim no)
-		(at 22.883 150.006 0)
+		(at 27.963 138.576 0)
 		(effects
 			(font
 				(size 2.467 2.467)
@@ -9506,7 +9512,7 @@
 	)
 	(text "U2"
 		(exclude_from_sim no)
-		(at 118.11 306.056 90)
+		(at 120.65 278.116 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9561,7 +9567,7 @@
 	)
 	(text "220uf 16V"
 		(exclude_from_sim no)
-		(at 109.849 188.608 90)
+		(at 114.929 177.178 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9572,7 +9578,7 @@
 	)
 	(text "C17"
 		(exclude_from_sim no)
-		(at 336.11 366.389 0)
+		(at 338.65 338.449 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9594,7 +9600,7 @@
 	)
 	(text "K6.2"
 		(exclude_from_sim no)
-		(at 145.415 241.938 90)
+		(at 166.37 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9627,7 +9633,7 @@
 	)
 	(text "K12.2"
 		(exclude_from_sim no)
-		(at 236.855 242.394 90)
+		(at 257.81 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9638,7 +9644,7 @@
 	)
 	(text "J20"
 		(exclude_from_sim no)
-		(at 37.025 149.853 0)
+		(at 42.105 138.423 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9649,7 +9655,7 @@
 	)
 	(text "0,1uf 50V"
 		(exclude_from_sim no)
-		(at 225.431 302.63 90)
+		(at 227.971 274.69 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9682,7 +9688,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 350.768 366.395 0)
+		(at 353.308 338.455 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9693,7 +9699,7 @@
 	)
 	(text "C15"
 		(exclude_from_sim no)
-		(at 356.229 311.59 90)
+		(at 358.769 283.65 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9704,7 +9710,7 @@
 	)
 	(text "U5"
 		(exclude_from_sim no)
-		(at 369.57 303.516 90)
+		(at 372.11 275.576 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9726,7 +9732,7 @@
 	)
 	(text "RXTX"
 		(exclude_from_sim no)
-		(at 45.72 401.32 0)
+		(at 48.26 373.38 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9737,7 +9743,7 @@
 	)
 	(text "0,1uf 50V"
 		(exclude_from_sim no)
-		(at 360.051 300.09 90)
+		(at 362.591 272.15 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9748,7 +9754,7 @@
 	)
 	(text "+12V"
 		(exclude_from_sim no)
-		(at 205.642 278.07 0)
+		(at 208.182 250.13 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9781,7 +9787,7 @@
 	)
 	(text "C12"
 		(exclude_from_sim no)
-		(at 221.609 314.13 90)
+		(at 224.149 286.19 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9814,7 +9820,7 @@
 	)
 	(text "A2"
 		(exclude_from_sim no)
-		(at 88.9 398.78 0)
+		(at 91.44 370.84 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9825,7 +9831,7 @@
 	)
 	(text "0,1uf 50V"
 		(exclude_from_sim no)
-		(at 111.131 302.63 90)
+		(at 113.671 274.69 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9836,7 +9842,7 @@
 	)
 	(text "K11.2"
 		(exclude_from_sim no)
-		(at 224.155 242.066 90)
+		(at 245.11 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9847,7 +9853,7 @@
 	)
 	(text "C14"
 		(exclude_from_sim no)
-		(at 356.229 296.387 90)
+		(at 358.769 268.447 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9858,7 +9864,7 @@
 	)
 	(text "3.3K Ohm"
 		(exclude_from_sim no)
-		(at 278.13 384.004 90)
+		(at 280.67 356.064 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9869,7 +9875,7 @@
 	)
 	(text "+5V"
 		(exclude_from_sim no)
-		(at 208.6 314.73 0)
+		(at 211.14 286.79 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9891,7 +9897,7 @@
 	)
 	(text "J10"
 		(exclude_from_sim no)
-		(at 288.544 413.009 90)
+		(at 291.084 385.069 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9902,7 +9908,7 @@
 	)
 	(text "1uF 16V"
 		(exclude_from_sim no)
-		(at 97.149 186.972 90)
+		(at 102.229 175.542 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9913,7 +9919,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 212.598 306.838 90)
+		(at 215.138 278.898 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9924,7 +9930,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 196.215 240.544 90)
+		(at 198.755 212.604 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9935,7 +9941,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 79.375 199.782 90)
+		(at 84.455 188.352 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9968,7 +9974,7 @@
 	)
 	(text "K13.2"
 		(exclude_from_sim no)
-		(at 249.555 242.394 90)
+		(at 270.51 214.63 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9979,7 +9985,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 277.108 318.135 0)
+		(at 279.648 290.195 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9990,7 +9996,7 @@
 	)
 	(text "+12V"
 		(exclude_from_sim no)
-		(at 106.582 283.15 0)
+		(at 109.122 255.21 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -10001,7 +10007,7 @@
 	)
 	(text "3.3K Ohm"
 		(exclude_from_sim no)
-		(at 290.83 384.004 90)
+		(at 293.37 356.064 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -10012,7 +10018,7 @@
 	)
 	(text "R2"
 		(exclude_from_sim no)
-		(at 97.79 374.636 90)
+		(at 100.33 346.696 90)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -10022,13 +10028,13 @@
 		(uuid "faf44c01-787f-4bc7-b3b0-573ee4de00c5")
 	)
 	(junction
-		(at 170.18 228.6)
+		(at 172.72 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "00601cbe-b09e-4531-979f-edbb951ef266")
 	)
 	(junction
-		(at 276.86 368.3)
+		(at 279.4 340.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "00b50f41-e146-4114-8e78-3c88ffa08161")
@@ -10040,13 +10046,13 @@
 		(uuid "01526eae-c4e9-4662-9501-710c6b5cd3a2")
 	)
 	(junction
-		(at 106.68 414.02)
+		(at 109.22 386.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "036f16b2-8718-4554-9f1e-44930377282f")
 	)
 	(junction
-		(at 119.38 228.6)
+		(at 121.92 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04adbaa9-45eb-4e36-8a6f-db446354bd28")
@@ -10064,7 +10070,7 @@
 		(uuid "0935bc6f-ced7-4d58-95d3-e74073ec0994")
 	)
 	(junction
-		(at 210.82 228.6)
+		(at 213.36 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0ca387de-9a30-4108-83cc-816e6913808c")
@@ -10076,7 +10082,7 @@
 		(uuid "0d962546-845d-416a-be13-82c0d7b0060a")
 	)
 	(junction
-		(at 358.14 284.48)
+		(at 360.68 256.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e75a98e-cf16-436f-9222-817b0cb19e0c")
@@ -10088,25 +10094,25 @@
 		(uuid "1322eb1f-6282-4b12-883d-260b3b56935e")
 	)
 	(junction
-		(at 99.06 170.18)
+		(at 104.14 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "14568450-f44a-49eb-9cb0-5ac37b795395")
 	)
 	(junction
-		(at 109.22 307.34)
+		(at 111.76 279.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1496e95e-e4bc-46e6-850c-195a876f3669")
 	)
 	(junction
-		(at 363.22 228.6)
+		(at 365.76 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "156187fa-fde2-40a0-b224-4f312d6452c1")
 	)
 	(junction
-		(at 302.26 421.64)
+		(at 304.8 393.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "159a28f8-513c-4fec-9c22-d380a224aecd")
@@ -10118,55 +10124,55 @@
 		(uuid "188e45da-dee1-450a-bdea-d6a5b6955e8c")
 	)
 	(junction
-		(at 223.52 228.6)
+		(at 226.06 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "192cc11e-de84-40dd-897b-02d30f2d52f9")
 	)
 	(junction
-		(at 86.36 360.68)
+		(at 88.9 332.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1de0eb10-26e9-476a-991b-9b48b2d2fac6")
 	)
 	(junction
-		(at 320.04 368.3)
+		(at 322.58 340.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1fe61b82-84d7-4a03-bc50-091280644ae1")
 	)
 	(junction
-		(at 289.56 393.7)
+		(at 292.1 365.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "229eb44e-cd41-4092-9cb4-d3fc171044b3")
 	)
 	(junction
-		(at 106.68 386.08)
+		(at 109.22 358.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22d3e7cd-10f6-41ab-9f93-4e00f12bfa5e")
 	)
 	(junction
-		(at 317.5 228.6)
+		(at 320.04 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25c0231f-2a1b-4225-a246-8eb62b9a9ce8")
 	)
 	(junction
-		(at 20.32 396.144)
+		(at 22.86 368.204)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "263dd610-0d29-492f-979c-a40be7810271")
 	)
 	(junction
-		(at 63.5 170.18)
+		(at 68.58 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "28b33541-da57-41d1-8476-0c0d178cf25c")
 	)
 	(junction
-		(at 393.7 228.6)
+		(at 396.24 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b9c9e1f-55aa-459c-afa0-0eb90973f332")
@@ -10178,25 +10184,31 @@
 		(uuid "2c0e0d47-7f82-4a49-9713-78acf2b429ae")
 	)
 	(junction
-		(at 236.22 228.6)
+		(at 238.76 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2de3fe0c-2968-48d5-be8b-9b97748858e2")
 	)
 	(junction
-		(at 274.32 228.6)
+		(at 276.86 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e20618e-5874-4ae4-b2b3-d70ae740fd60")
 	)
 	(junction
-		(at 20.32 419.1)
+		(at 22.86 391.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30710dbf-ef34-445b-b55f-e5fdbc0326d7")
 	)
 	(junction
-		(at 93.98 388.62)
+		(at 31.748 368.204)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3077fc60-fb04-4c19-9dc1-a294f4c92d51")
+	)
+	(junction
+		(at 96.52 360.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "320471f7-970c-470d-a13e-4ba13a36787e")
@@ -10214,13 +10226,13 @@
 		(uuid "328c15b1-eeac-4353-8bcf-2dcbaf78b0de")
 	)
 	(junction
-		(at 132.08 228.6)
+		(at 134.62 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "384f1d5b-7170-4f9d-adc0-b4a499c6087c")
 	)
 	(junction
-		(at 223.52 287.02)
+		(at 226.06 259.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "38acd4d2-9e77-4a27-aefc-3ca89641e0b2")
@@ -10232,22 +10244,28 @@
 		(uuid "3b7e42c0-b0d4-4043-a8c3-84309c8a8143")
 	)
 	(junction
-		(at 119.38 383.54)
+		(at 121.92 355.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3eee7f61-8fb0-4eae-aaba-2172084341b8")
 	)
 	(junction
-		(at 223.52 322.58)
+		(at 226.06 294.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4498772d-379c-4d2a-8402-31adb1f2e8b1")
 	)
 	(junction
-		(at 99.06 360.68)
+		(at 101.6 332.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "451f2cde-ce59-4b2b-9d5a-ee6749b07a33")
+	)
+	(junction
+		(at 116.84 167.517)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45ae9614-fab3-4eef-b52d-571c575f5b84")
 	)
 	(junction
 		(at 222.79 68.58)
@@ -10262,55 +10280,55 @@
 		(uuid "48b99ed8-be39-4ba1-a2de-87432889f11b")
 	)
 	(junction
-		(at 347.98 228.6)
+		(at 350.52 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d45b978-e9a0-4daf-870f-0de213ad0eb4")
 	)
 	(junction
-		(at 287.02 228.6)
+		(at 289.56 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5dfa943d-a083-4ec2-b3db-85d68bd32003")
 	)
 	(junction
-		(at 299.72 228.6)
+		(at 302.26 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65188051-ec89-4098-82fe-45c7f8fd0866")
 	)
 	(junction
-		(at 127 419.1)
+		(at 129.54 391.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65762098-337e-4076-bf35-5054622792f8")
 	)
 	(junction
-		(at 93.98 228.6)
+		(at 96.52 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6880e0b0-606e-4046-8456-724d53ae25bf")
 	)
 	(junction
-		(at 289.56 368.3)
+		(at 292.1 340.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "68dccdea-3351-45c9-9d2e-5361b72f8235")
 	)
 	(junction
-		(at 378.46 228.6)
+		(at 381 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "733108a8-d6cf-40ab-bca1-539251426134")
 	)
 	(junction
-		(at 81.28 191.558)
+		(at 86.36 180.128)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75f78c17-41bf-4750-af29-37b684fbea1a")
 	)
 	(junction
-		(at 223.52 304.8)
+		(at 226.06 276.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "775af61f-ccc6-495f-8d8b-bff7df80d4f2")
@@ -10328,49 +10346,43 @@
 		(uuid "7d92e390-608a-491c-bb46-9788f2d4c7ea")
 	)
 	(junction
-		(at 386.08 248.92)
+		(at 388.62 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ebea473-86f0-4fe0-8521-1c01ae6da947")
 	)
 	(junction
-		(at 99.06 191.239)
+		(at 104.14 179.809)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "82bc2975-e1ae-4b22-8f79-01a50d677e04")
 	)
 	(junction
-		(at 358.14 320.04)
+		(at 360.68 292.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "88642ffa-6991-432b-b944-ff74a72e192d")
 	)
 	(junction
-		(at 276.86 396.24)
+		(at 279.4 368.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "890cc59a-6248-458b-88fc-727b53b09ddb")
 	)
 	(junction
-		(at 63.5 170.058)
+		(at 68.58 158.628)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a60b3cf-3188-421d-bcbb-b03a2041a237")
 	)
 	(junction
-		(at 368.3 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c219a26-17c4-4763-b8e7-6066012a4d02")
-	)
-	(junction
-		(at 325.12 421.64)
+		(at 327.66 393.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "90ada8a7-43a2-4198-a2d7-4928beaa4b76")
 	)
 	(junction
-		(at 289.56 421.64)
+		(at 292.1 393.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "92598861-e8e0-4bed-aa29-c79b187e8a9d")
@@ -10412,7 +10424,7 @@
 		(uuid "a0ccdd93-d967-4caf-87aa-8c9a2f06e83b")
 	)
 	(junction
-		(at 132.08 360.68)
+		(at 134.62 332.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1265de5-da00-45ee-a670-ac36d2bbfe50")
@@ -10424,7 +10436,7 @@
 		(uuid "a72e7fd8-a4a3-4f73-a632-c3ecd92668bc")
 	)
 	(junction
-		(at 198.12 228.6)
+		(at 200.66 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab28b331-5486-4cf1-9ba9-ac1222d1b44d")
@@ -10448,7 +10460,7 @@
 		(uuid "b2d4221e-4e61-485c-95c9-39ca81097718")
 	)
 	(junction
-		(at 182.88 228.6)
+		(at 185.42 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b639c4e4-c64c-4022-84f7-ab4aa07bf193")
@@ -10466,7 +10478,7 @@
 		(uuid "b9fa6da2-fae0-4950-9f2c-826decc53b06")
 	)
 	(junction
-		(at 119.38 414.02)
+		(at 121.92 386.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba89fbb4-c5f0-4c87-a3ad-9db3a155559f")
@@ -10478,7 +10490,7 @@
 		(uuid "bcd9a740-fdd9-4266-9d76-2771622fea5c")
 	)
 	(junction
-		(at 302.26 391.16)
+		(at 304.8 363.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c0863b16-cf0e-4a3b-a720-9cd5d26c8bd4")
@@ -10490,13 +10502,13 @@
 		(uuid "c9518063-4c61-4ee2-86ca-c7cdaf80489b")
 	)
 	(junction
-		(at 157.48 228.6)
+		(at 160.02 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cab8c8ab-1767-4d73-adbb-270f68142c38")
 	)
 	(junction
-		(at 111.76 360.68)
+		(at 114.3 332.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc4f63be-9be1-4796-9e73-fa4b6bcc9e56")
@@ -10508,7 +10520,7 @@
 		(uuid "cfd6e6eb-67ea-4f64-93a6-09196e84bb9d")
 	)
 	(junction
-		(at 106.68 228.6)
+		(at 109.22 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d0c4ace4-adbb-41d4-86d8-1b8e58d58be7")
@@ -10520,7 +10532,7 @@
 		(uuid "d0cffb5b-01f2-4988-acc7-d92f8c594539")
 	)
 	(junction
-		(at 109.22 327.66)
+		(at 111.76 299.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3fbd16f-50dc-43c0-9ab6-8f819b1e47e1")
@@ -10538,7 +10550,7 @@
 		(uuid "dc705959-d231-4c2d-9e37-762e210d8e87")
 	)
 	(junction
-		(at 144.78 228.6)
+		(at 147.32 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de579ac2-241c-498e-a92c-c143304bb1a3")
@@ -10556,13 +10568,13 @@
 		(uuid "e40510b9-612b-49d7-9795-40992c65afa6")
 	)
 	(junction
-		(at 302.26 368.3)
+		(at 304.8 340.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7deae3e-4737-4a0e-bf14-c5b75c0a0828")
 	)
 	(junction
-		(at 248.92 228.6)
+		(at 251.46 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e809a886-ee70-4bb2-8bda-501f05fcc68b")
@@ -10574,13 +10586,13 @@
 		(uuid "e86cce18-075d-4d21-9e83-f1b48c085b94")
 	)
 	(junction
-		(at 358.14 302.26)
+		(at 360.68 274.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8906dc8-f430-4401-8e88-e60afea2a4a9")
 	)
 	(junction
-		(at 109.22 290.1)
+		(at 111.76 262.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ea3192d7-d361-4387-8fa5-0f57fce527c1")
@@ -10592,7 +10604,7 @@
 		(uuid "ebff42d2-aede-40b9-9e7e-696d504e4d17")
 	)
 	(junction
-		(at 81.28 191.399)
+		(at 86.36 179.969)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee5db192-e199-4435-ad27-eb6e4a859be7")
@@ -10604,7 +10616,7 @@
 		(uuid "f1745387-4d9e-4b17-ad0c-a4c9343c6ac9")
 	)
 	(junction
-		(at 261.62 228.6)
+		(at 264.16 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1c6407e-e173-466d-ae16-ffb37c6ffcee")
@@ -10623,7 +10635,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 313.69) (xy 386.08 396.24)
+			(xy 388.62 285.75) (xy 388.62 368.3)
 		)
 		(stroke
 			(width 0.25)
@@ -10633,7 +10645,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 396.144) (xy 29.209 396.144)
+			(xy 22.86 368.204) (xy 31.748 368.204)
 		)
 		(stroke
 			(width 0.25)
@@ -10653,7 +10665,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 251.46) (xy 157.48 251.46)
+			(xy 144.78 223.52) (xy 160.02 223.52)
 		)
 		(stroke
 			(width 0.25)
@@ -10673,7 +10685,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 316.23) (xy 256.54 335.28)
+			(xy 259.08 288.29) (xy 259.08 307.34)
 		)
 		(stroke
 			(width 0.25)
@@ -10693,7 +10705,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 342.9) (xy 220.98 342.9)
+			(xy 266.7 314.96) (xy 223.52 314.96)
 		)
 		(stroke
 			(width 0.25)
@@ -10703,17 +10715,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 78.74) (xy 363.22 78.01)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "048ef90b-032d-40b7-9a63-62f96641860f")
-	)
-	(wire
-		(pts
-			(xy 347.98 228.6) (xy 317.5 228.6)
+			(xy 350.52 200.66) (xy 320.04 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -10723,7 +10725,7 @@
 	)
 	(wire
 		(pts
-			(xy 388.62 313.69) (xy 388.62 398.78)
+			(xy 391.16 285.75) (xy 391.16 370.84)
 		)
 		(stroke
 			(width 0.25)
@@ -10753,7 +10755,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 191.558) (xy 81.28 191.558)
+			(xy 68.58 180.128) (xy 86.36 180.128)
 		)
 		(stroke
 			(width 0.25)
@@ -10763,7 +10765,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 421.64) (xy 325.12 416.56)
+			(xy 327.66 393.7) (xy 327.66 388.62)
 		)
 		(stroke
 			(width 0.25)
@@ -10773,7 +10775,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 391.16) (xy 193.04 330.2)
+			(xy 195.58 363.22) (xy 195.58 302.26)
 		)
 		(stroke
 			(width 0.25)
@@ -10783,7 +10785,7 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 368.3) (xy 320.04 368.3)
+			(xy 336.55 340.36) (xy 322.58 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -10793,7 +10795,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 360.68) (xy 86.36 360.68)
+			(xy 78.74 332.74) (xy 88.9 332.74)
 		)
 		(stroke
 			(width 0.25)
@@ -10803,7 +10805,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 325.12) (xy 203.2 325.12)
+			(xy 248.92 297.18) (xy 205.74 297.18)
 		)
 		(stroke
 			(width 0.25)
@@ -10813,7 +10815,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 170.058) (xy 63.5 158.628)
+			(xy 68.58 158.628) (xy 68.58 147.198)
 		)
 		(stroke
 			(width 0.25)
@@ -10823,7 +10825,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 307.34) (xy 107.95 307.34)
+			(xy 111.76 279.4) (xy 110.49 279.4)
 		)
 		(stroke
 			(width 0.25)
@@ -10833,7 +10835,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 170.18) (xy 63.5 170.058)
+			(xy 68.58 158.75) (xy 68.58 158.628)
 		)
 		(stroke
 			(width 0.25)
@@ -10853,7 +10855,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 393.7) (xy 166.37 393.7)
+			(xy 198.12 365.76) (xy 168.91 365.76)
 		)
 		(stroke
 			(width 0.25)
@@ -10863,7 +10865,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 300.99) (xy 109.22 307.34)
+			(xy 111.76 273.05) (xy 111.76 279.4)
 		)
 		(stroke
 			(width 0.25)
@@ -10883,7 +10885,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 256.54) (xy 93.98 245.21)
+			(xy 96.52 228.6) (xy 96.52 217.27)
 		)
 		(stroke
 			(width 0.25)
@@ -10903,7 +10905,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 411.48) (xy 166.37 411.48)
+			(xy 215.9 383.54) (xy 168.91 383.54)
 		)
 		(stroke
 			(width 0.25)
@@ -10923,7 +10925,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 256.54) (xy 261.62 256.54)
+			(xy 289.56 228.6) (xy 264.16 228.6)
 		)
 		(stroke
 			(width 0.25)
@@ -10933,7 +10935,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 251.46) (xy 119.38 245.21)
+			(xy 121.92 223.52) (xy 121.92 217.27)
 		)
 		(stroke
 			(width 0.25)
@@ -10953,7 +10955,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 364.49) (xy 320.04 368.3)
+			(xy 322.58 336.55) (xy 322.58 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -10963,7 +10965,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 407.67) (xy 289.56 393.7)
+			(xy 292.1 379.73) (xy 292.1 365.76)
 		)
 		(stroke
 			(width 0.25)
@@ -10973,7 +10975,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 254) (xy 106.68 245.21)
+			(xy 109.22 226.06) (xy 109.22 217.27)
 		)
 		(stroke
 			(width 0.25)
@@ -10983,7 +10985,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 228.6) (xy 182.88 228.6)
+			(xy 200.66 200.66) (xy 185.42 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -10993,7 +10995,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 316.23) (xy 137.16 335.28)
+			(xy 139.7 288.29) (xy 139.7 307.34)
 		)
 		(stroke
 			(width 0.25)
@@ -11003,7 +11005,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 335.28) (xy 213.36 335.28)
+			(xy 259.08 307.34) (xy 215.9 307.34)
 		)
 		(stroke
 			(width 0.25)
@@ -11023,7 +11025,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.501 153.663) (xy 51.044 153.663)
+			(xy 51.581 142.233) (xy 56.124 142.233)
 		)
 		(stroke
 			(width 0.25)
@@ -11033,7 +11035,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 421.64) (xy 289.56 421.64)
+			(xy 304.8 393.7) (xy 292.1 393.7)
 		)
 		(stroke
 			(width 0.25)
@@ -11043,7 +11045,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 316.23) (xy 144.78 327.66)
+			(xy 147.32 288.29) (xy 147.32 299.72)
 		)
 		(stroke
 			(width 0.25)
@@ -11053,7 +11055,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 398.684) (xy 29.208 398.684)
+			(xy 22.86 370.744) (xy 31.748 370.744)
 		)
 		(stroke
 			(width 0.25)
@@ -11073,7 +11075,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 419.1) (xy 166.37 419.1)
+			(xy 223.52 391.16) (xy 168.91 391.16)
 		)
 		(stroke
 			(width 0.25)
@@ -11093,7 +11095,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 170.18) (xy 63.5 170.18)
+			(xy 77.47 158.75) (xy 68.58 158.75)
 		)
 		(stroke
 			(width 0.25)
@@ -11103,7 +11105,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 325.12) (xy 198.12 396.24)
+			(xy 200.66 297.18) (xy 200.66 368.3)
 		)
 		(stroke
 			(width 0.25)
@@ -11113,7 +11115,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 330.2) (xy 142.24 316.23)
+			(xy 144.78 302.26) (xy 144.78 288.29)
 		)
 		(stroke
 			(width 0.25)
@@ -11123,7 +11125,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 248.92) (xy 386.08 248.92)
+			(xy 396.24 220.98) (xy 388.62 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -11133,7 +11135,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 119.38) (xy 350.52 119.38)
+			(xy 373.38 96.52) (xy 350.52 96.52)
 		)
 		(stroke
 			(width 0.25)
@@ -11153,7 +11155,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 256.54) (xy 182.88 256.54)
+			(xy 149.86 228.6) (xy 185.42 228.6)
 		)
 		(stroke
 			(width 0.25)
@@ -11163,7 +11165,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 313.69) (xy 396.24 406.4)
+			(xy 398.78 285.75) (xy 398.78 378.46)
 		)
 		(stroke
 			(width 0.25)
@@ -11183,7 +11185,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 396.24) (xy 349.25 396.24)
+			(xy 388.62 368.3) (xy 351.79 368.3)
 		)
 		(stroke
 			(width 0.25)
@@ -11213,7 +11215,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 228.6) (xy 198.12 228.6)
+			(xy 213.36 200.66) (xy 200.66 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -11253,7 +11255,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 337.82) (xy 134.62 337.82)
+			(xy 187.96 309.88) (xy 137.16 309.88)
 		)
 		(stroke
 			(width 0.25)
@@ -11263,7 +11265,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 76.01) (xy 340.36 53.34)
+			(xy 340.36 76.74) (xy 340.36 53.34)
 		)
 		(stroke
 			(width 0.25)
@@ -11273,7 +11275,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 388.62) (xy 166.37 388.62)
+			(xy 193.04 360.68) (xy 168.91 360.68)
 		)
 		(stroke
 			(width 0.25)
@@ -11283,7 +11285,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 436.88) (xy 358.14 436.88)
+			(xy 20.32 408.94) (xy 360.68 408.94)
 		)
 		(stroke
 			(width 0.25)
@@ -11303,7 +11305,17 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 321.31) (xy 109.22 327.66)
+			(xy 368.3 81.28) (xy 373.38 81.28)
+		)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(uuid "1fa048b7-9a89-4968-8874-302aa1b0e253")
+	)
+	(wire
+		(pts
+			(xy 111.76 293.37) (xy 111.76 299.72)
 		)
 		(stroke
 			(width 0.25)
@@ -11313,7 +11325,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 254) (xy 248.92 254)
+			(xy 226.06 226.06) (xy 251.46 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -11323,7 +11335,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 431.8) (xy 20.32 431.8)
+			(xy 322.58 403.86) (xy 22.86 403.86)
 		)
 		(stroke
 			(width 0.25)
@@ -11343,7 +11355,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 396.24) (xy 276.86 396.24)
+			(xy 328.93 368.3) (xy 279.4 368.3)
 		)
 		(stroke
 			(width 0.25)
@@ -11373,7 +11385,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 368.3) (xy 276.86 368.3)
+			(xy 271.78 340.36) (xy 279.4 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -11383,7 +11395,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 228.6) (xy 170.18 228.6)
+			(xy 185.42 200.66) (xy 172.72 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -11393,7 +11405,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 245.21) (xy 248.92 248.92)
+			(xy 251.46 217.27) (xy 251.46 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -11403,7 +11415,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 248.92) (xy 132.08 245.21)
+			(xy 134.62 220.98) (xy 134.62 217.27)
 		)
 		(stroke
 			(width 0.25)
@@ -11413,7 +11425,7 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 228.6) (xy 299.72 234.95)
+			(xy 302.26 200.66) (xy 302.26 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -11443,7 +11455,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 368.3) (xy 276.86 368.3)
+			(xy 292.1 340.36) (xy 279.4 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -11463,7 +11475,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 416.56) (xy 166.37 416.56)
+			(xy 220.98 388.62) (xy 168.91 388.62)
 		)
 		(stroke
 			(width 0.25)
@@ -11473,7 +11485,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 383.54) (xy 119.38 383.54)
+			(xy 114.3 355.6) (xy 121.92 355.6)
 		)
 		(stroke
 			(width 0.25)
@@ -11493,7 +11505,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 293.37) (xy 134.62 251.46)
+			(xy 137.16 265.43) (xy 137.16 223.52)
 		)
 		(stroke
 			(width 0.25)
@@ -11573,17 +11585,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 78.01) (xy 343.44 78.01)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "2be6da46-ee6b-46e3-bb72-fb3bee0c8423")
-	)
-	(wire
-		(pts
-			(xy 378.46 228.6) (xy 393.7 228.6)
+			(xy 381 200.66) (xy 396.24 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -11613,7 +11615,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 378.46) (xy 180.34 378.46)
+			(xy 168.91 350.52) (xy 182.88 350.52)
 		)
 		(stroke
 			(width 0.25)
@@ -11623,7 +11625,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 316.23) (xy 266.7 320.04)
+			(xy 269.24 288.29) (xy 269.24 292.1)
 		)
 		(stroke
 			(width 0.25)
@@ -11633,7 +11635,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 406.4) (xy 320.04 406.4)
+			(xy 328.93 378.46) (xy 322.58 378.46)
 		)
 		(stroke
 			(width 0.25)
@@ -11643,7 +11645,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 191.399) (xy 81.28 191.399)
+			(xy 104.14 179.969) (xy 86.36 179.969)
 		)
 		(stroke
 			(width 0.25)
@@ -11663,7 +11665,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 332.74) (xy 190.5 332.74)
+			(xy 142.24 304.8) (xy 193.04 304.8)
 		)
 		(stroke
 			(width 0.25)
@@ -11673,7 +11675,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 316.23) (xy 254 332.74)
+			(xy 256.54 288.29) (xy 256.54 304.8)
 		)
 		(stroke
 			(width 0.25)
@@ -11683,7 +11685,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 254) (xy 248.92 293.37)
+			(xy 251.46 226.06) (xy 251.46 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -11693,7 +11695,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 388.62) (xy 86.36 379.73)
+			(xy 88.9 360.68) (xy 88.9 351.79)
 		)
 		(stroke
 			(width 0.25)
@@ -11703,7 +11705,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 327.66) (xy 205.74 327.66)
+			(xy 251.46 299.72) (xy 208.28 299.72)
 		)
 		(stroke
 			(width 0.25)
@@ -11713,7 +11715,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 316.23) (xy 246.38 325.12)
+			(xy 248.92 288.29) (xy 248.92 297.18)
 		)
 		(stroke
 			(width 0.25)
@@ -11733,7 +11735,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 256.54) (xy 182.88 245.21)
+			(xy 185.42 228.6) (xy 185.42 217.27)
 		)
 		(stroke
 			(width 0.25)
@@ -11773,7 +11775,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 228.6) (xy 157.48 234.95)
+			(xy 160.02 200.66) (xy 160.02 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -11783,7 +11785,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 316.23) (xy 132.08 340.36)
+			(xy 134.62 288.29) (xy 134.62 312.42)
 		)
 		(stroke
 			(width 0.25)
@@ -11793,7 +11795,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 320.04) (xy 373.38 313.69)
+			(xy 375.92 292.1) (xy 375.92 285.75)
 		)
 		(stroke
 			(width 0.25)
@@ -11803,7 +11805,17 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 401.32) (xy 349.25 401.32)
+			(xy 368.3 77.47) (xy 374.65 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "372ae48c-0008-4cb1-9b7a-43ea0efea718")
+	)
+	(wire
+		(pts
+			(xy 393.7 373.38) (xy 351.79 373.38)
 		)
 		(stroke
 			(width 0.25)
@@ -11813,7 +11825,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 421.64) (xy 276.86 421.64)
+			(xy 292.1 393.7) (xy 279.4 393.7)
 		)
 		(stroke
 			(width 0.25)
@@ -11833,7 +11845,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 186.568) (xy 111.76 191.239)
+			(xy 116.84 175.138) (xy 116.84 179.809)
 		)
 		(stroke
 			(width 0.25)
@@ -11843,7 +11855,17 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 378.46) (xy 180.34 342.9)
+			(xy 373.38 96.52) (xy 373.38 81.28)
+		)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(uuid "39b52cd4-2e0c-4c28-936f-6faa905a7859")
+	)
+	(wire
+		(pts
+			(xy 182.88 350.52) (xy 182.88 314.96)
 		)
 		(stroke
 			(width 0.25)
@@ -11853,7 +11875,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 245.21) (xy 261.62 248.92)
+			(xy 264.16 217.27) (xy 264.16 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -11863,7 +11885,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 406.4) (xy 320.04 431.8)
+			(xy 322.58 378.46) (xy 322.58 403.86)
 		)
 		(stroke
 			(width 0.25)
@@ -11873,7 +11895,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 320.04) (xy 275.59 320.04)
+			(xy 269.24 292.1) (xy 278.13 292.1)
 		)
 		(stroke
 			(width 0.25)
@@ -11883,7 +11905,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 293.37) (xy 137.16 248.92)
+			(xy 139.7 265.43) (xy 139.7 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -11893,7 +11915,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 318.77) (xy 210.82 322.58)
+			(xy 213.36 290.83) (xy 213.36 294.64)
 		)
 		(stroke
 			(width 0.25)
@@ -11903,7 +11925,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 401.32) (xy 269.24 401.32)
+			(xy 328.93 373.38) (xy 271.78 373.38)
 		)
 		(stroke
 			(width 0.25)
@@ -11913,7 +11935,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 316.23) (xy 139.7 332.74)
+			(xy 142.24 288.29) (xy 142.24 304.8)
 		)
 		(stroke
 			(width 0.25)
@@ -11923,7 +11945,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 383.54) (xy 185.42 383.54)
+			(xy 168.91 355.6) (xy 187.96 355.6)
 		)
 		(stroke
 			(width 0.25)
@@ -11933,7 +11955,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 307.34) (xy 109.22 313.69)
+			(xy 111.76 279.4) (xy 111.76 285.75)
 		)
 		(stroke
 			(width 0.25)
@@ -11943,7 +11965,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 322.58) (xy 238.76 322.58)
+			(xy 226.06 294.64) (xy 241.3 294.64)
 		)
 		(stroke
 			(width 0.25)
@@ -11953,7 +11975,7 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 234.95) (xy 378.46 228.6)
+			(xy 381 207.01) (xy 381 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -11963,7 +11985,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 330.2) (xy 208.28 406.4)
+			(xy 210.82 302.26) (xy 210.82 378.46)
 		)
 		(stroke
 			(width 0.25)
@@ -11973,7 +11995,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 256.54) (xy 246.38 293.37)
+			(xy 248.92 228.6) (xy 248.92 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -11993,7 +12015,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 408.94) (xy 349.25 408.94)
+			(xy 401.32 381) (xy 351.79 381)
 		)
 		(stroke
 			(width 0.25)
@@ -12003,7 +12025,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 234.95) (xy 182.88 228.6)
+			(xy 185.42 207.01) (xy 185.42 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -12013,7 +12035,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 414.02) (xy 119.38 414.02)
+			(xy 129.54 386.08) (xy 121.92 386.08)
 		)
 		(stroke
 			(width 0.25)
@@ -12023,7 +12045,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 392.43) (xy 93.98 388.62)
+			(xy 96.52 364.49) (xy 96.52 360.68)
 		)
 		(stroke
 			(width 0.25)
@@ -12043,7 +12065,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 191.558) (xy 81.28 191.399)
+			(xy 86.36 180.128) (xy 86.36 179.969)
 		)
 		(stroke
 			(width 0.25)
@@ -12073,7 +12095,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 287.02) (xy 238.76 293.37)
+			(xy 241.3 259.08) (xy 241.3 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -12083,7 +12105,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 290.83) (xy 358.14 284.48)
+			(xy 360.68 262.89) (xy 360.68 256.54)
 		)
 		(stroke
 			(width 0.25)
@@ -12103,7 +12125,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 293.37) (xy 147.32 256.54)
+			(xy 149.86 265.43) (xy 149.86 228.6)
 		)
 		(stroke
 			(width 0.25)
@@ -12113,7 +12135,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 245.21) (xy 363.22 251.46)
+			(xy 365.76 217.27) (xy 365.76 223.52)
 		)
 		(stroke
 			(width 0.25)
@@ -12133,7 +12155,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 306.07) (xy 358.14 302.26)
+			(xy 360.68 278.13) (xy 360.68 274.32)
 		)
 		(stroke
 			(width 0.25)
@@ -12163,7 +12185,17 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 287.02) (xy 238.76 287.02)
+			(xy 374.65 77.47) (xy 374.65 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "512bfee1-467e-44e0-8302-3b6151760057")
+	)
+	(wire
+		(pts
+			(xy 226.06 259.08) (xy 241.3 259.08)
 		)
 		(stroke
 			(width 0.25)
@@ -12173,7 +12205,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 414.02) (xy 119.38 414.02)
+			(xy 109.22 386.08) (xy 121.92 386.08)
 		)
 		(stroke
 			(width 0.25)
@@ -12203,7 +12235,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 368.3) (xy 276.86 372.11)
+			(xy 279.4 340.36) (xy 279.4 344.17)
 		)
 		(stroke
 			(width 0.25)
@@ -12213,7 +12245,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 330.2) (xy 142.24 330.2)
+			(xy 195.58 302.26) (xy 144.78 302.26)
 		)
 		(stroke
 			(width 0.25)
@@ -12223,7 +12255,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 408.94) (xy 166.37 408.94)
+			(xy 213.36 381) (xy 168.91 381)
 		)
 		(stroke
 			(width 0.25)
@@ -12233,7 +12265,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 400.05) (xy 93.98 414.02)
+			(xy 96.52 372.11) (xy 96.52 386.08)
 		)
 		(stroke
 			(width 0.25)
@@ -12263,7 +12295,7 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 248.92) (xy 378.46 245.21)
+			(xy 381 220.98) (xy 381 217.27)
 		)
 		(stroke
 			(width 0.25)
@@ -12273,7 +12305,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 287.02) (xy 223.52 287.02)
+			(xy 210.82 259.08) (xy 226.06 259.08)
 		)
 		(stroke
 			(width 0.25)
@@ -12293,7 +12325,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 248.92) (xy 132.08 248.92)
+			(xy 139.7 220.98) (xy 134.62 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -12303,7 +12335,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 290.1) (xy 109.22 290.1)
+			(xy 124.46 262.16) (xy 111.76 262.16)
 		)
 		(stroke
 			(width 0.25)
@@ -12313,7 +12345,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 415.29) (xy 302.26 421.64)
+			(xy 304.8 387.35) (xy 304.8 393.7)
 		)
 		(stroke
 			(width 0.25)
@@ -12323,7 +12355,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 360.68) (xy 111.76 367.03)
+			(xy 114.3 332.74) (xy 114.3 339.09)
 		)
 		(stroke
 			(width 0.25)
@@ -12333,7 +12365,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 414.02) (xy 166.37 414.02)
+			(xy 218.44 386.08) (xy 168.91 386.08)
 		)
 		(stroke
 			(width 0.25)
@@ -12343,7 +12375,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 234.95) (xy 363.22 228.6)
+			(xy 365.76 207.01) (xy 365.76 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -12353,7 +12385,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 228.6) (xy 106.68 234.95)
+			(xy 109.22 200.66) (xy 109.22 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -12363,7 +12395,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 393.7) (xy 289.56 384.81)
+			(xy 292.1 365.76) (xy 292.1 356.87)
 		)
 		(stroke
 			(width 0.25)
@@ -12373,7 +12405,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 170.18) (xy 111.76 178.948)
+			(xy 116.84 158.75) (xy 116.84 167.517)
 		)
 		(stroke
 			(width 0.25)
@@ -12383,7 +12415,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 431.8) (xy 20.32 419.1)
+			(xy 22.86 403.86) (xy 22.86 391.16)
 		)
 		(stroke
 			(width 0.25)
@@ -12393,7 +12425,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 340.36) (xy 182.88 381)
+			(xy 185.42 312.42) (xy 185.42 353.06)
 		)
 		(stroke
 			(width 0.25)
@@ -12403,7 +12435,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 327.66) (xy 88.9 318.77)
+			(xy 91.44 299.72) (xy 91.44 290.83)
 		)
 		(stroke
 			(width 0.25)
@@ -12433,7 +12465,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 327.66) (xy 195.58 327.66)
+			(xy 147.32 299.72) (xy 198.12 299.72)
 		)
 		(stroke
 			(width 0.25)
@@ -12453,7 +12485,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 245.21) (xy 347.98 254)
+			(xy 350.52 217.27) (xy 350.52 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -12463,7 +12495,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 335.28) (xy 187.96 335.28)
+			(xy 139.7 307.34) (xy 190.5 307.34)
 		)
 		(stroke
 			(width 0.25)
@@ -12503,7 +12535,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 316.23) (xy 248.92 327.66)
+			(xy 251.46 288.29) (xy 251.46 299.72)
 		)
 		(stroke
 			(width 0.25)
@@ -12523,7 +12555,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 330.2) (xy 208.28 330.2)
+			(xy 254 302.26) (xy 210.82 302.26)
 		)
 		(stroke
 			(width 0.25)
@@ -12533,7 +12565,7 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 393.7) (xy 349.25 393.7)
+			(xy 386.08 365.76) (xy 351.79 365.76)
 		)
 		(stroke
 			(width 0.25)
@@ -12543,7 +12575,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 386.08) (xy 99.06 386.08)
+			(xy 109.22 358.14) (xy 101.6 358.14)
 		)
 		(stroke
 			(width 0.25)
@@ -12553,7 +12585,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 228.6) (xy 157.48 228.6)
+			(xy 172.72 200.66) (xy 160.02 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -12563,7 +12595,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 256.54) (xy 261.62 293.37)
+			(xy 264.16 228.6) (xy 264.16 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -12603,7 +12635,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 414.02) (xy 119.38 400.05)
+			(xy 121.92 386.08) (xy 121.92 372.11)
 		)
 		(stroke
 			(width 0.25)
@@ -12613,7 +12645,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 234.95) (xy 248.92 228.6)
+			(xy 251.46 207.01) (xy 251.46 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -12623,7 +12655,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 414.02) (xy 106.68 414.02)
+			(xy 96.52 386.08) (xy 109.22 386.08)
 		)
 		(stroke
 			(width 0.25)
@@ -12653,7 +12685,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.576 151.123) (xy 46.501 151.123)
+			(xy 55.656 139.693) (xy 51.581 139.693)
 		)
 		(stroke
 			(width 0.25)
@@ -12663,7 +12695,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 360.68) (xy 86.36 367.03)
+			(xy 88.9 332.74) (xy 88.9 339.09)
 		)
 		(stroke
 			(width 0.25)
@@ -12673,7 +12705,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 378.46) (xy 20.32 378.46)
+			(xy 63.5 350.52) (xy 22.86 350.52)
 		)
 		(stroke
 			(width 0.25)
@@ -12683,7 +12715,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 335.28) (xy 187.96 386.08)
+			(xy 190.5 307.34) (xy 190.5 358.14)
 		)
 		(stroke
 			(width 0.25)
@@ -12693,7 +12725,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 251.46) (xy 119.38 251.46)
+			(xy 137.16 223.52) (xy 121.92 223.52)
 		)
 		(stroke
 			(width 0.25)
@@ -12723,7 +12755,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 228.6) (xy 119.38 234.95)
+			(xy 121.92 200.66) (xy 121.92 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -12733,7 +12765,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 392.43) (xy 119.38 383.54)
+			(xy 121.92 364.49) (xy 121.92 355.6)
 		)
 		(stroke
 			(width 0.25)
@@ -12743,7 +12775,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 284.48) (xy 373.38 290.83)
+			(xy 375.92 256.54) (xy 375.92 262.89)
 		)
 		(stroke
 			(width 0.25)
@@ -12753,7 +12785,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 316.23) (xy 264.16 342.9)
+			(xy 266.7 288.29) (xy 266.7 314.96)
 		)
 		(stroke
 			(width 0.25)
@@ -12763,7 +12795,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 386.08) (xy 320.04 368.3)
+			(xy 322.58 358.14) (xy 322.58 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -12783,7 +12815,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 256.54) (xy 246.38 256.54)
+			(xy 213.36 228.6) (xy 248.92 228.6)
 		)
 		(stroke
 			(width 0.25)
@@ -12793,7 +12825,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 313.69) (xy 398.78 408.94)
+			(xy 401.32 285.75) (xy 401.32 381)
 		)
 		(stroke
 			(width 0.25)
@@ -12813,7 +12845,7 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 228.6) (xy 393.7 228.6)
+			(xy 411.48 200.66) (xy 396.24 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -12843,7 +12875,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 337.82) (xy 134.62 316.23)
+			(xy 137.16 309.88) (xy 137.16 288.29)
 		)
 		(stroke
 			(width 0.25)
@@ -12853,7 +12885,17 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 313.69) (xy 393.7 403.86)
+			(xy 31.748 368.204) (xy 31.749 368.204)
+		)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(uuid "6e569af1-af33-4237-a634-3e71119eadcd")
+	)
+	(wire
+		(pts
+			(xy 396.24 285.75) (xy 396.24 375.92)
 		)
 		(stroke
 			(width 0.25)
@@ -12873,7 +12915,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 180.34) (xy 81.28 191.399)
+			(xy 86.36 168.91) (xy 86.36 179.969)
 		)
 		(stroke
 			(width 0.25)
@@ -12923,7 +12965,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 234.95) (xy 317.5 228.6)
+			(xy 320.04 207.01) (xy 320.04 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -12933,7 +12975,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 228.6) (xy 236.22 234.95)
+			(xy 238.76 200.66) (xy 238.76 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -12963,7 +13005,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 332.74) (xy 190.5 388.62)
+			(xy 193.04 304.8) (xy 193.04 360.68)
 		)
 		(stroke
 			(width 0.25)
@@ -12973,7 +13015,7 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 259.08) (xy 264.16 259.08)
+			(xy 302.26 231.14) (xy 266.7 231.14)
 		)
 		(stroke
 			(width 0.25)
@@ -12983,7 +13025,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 234.95) (xy 347.98 228.6)
+			(xy 350.52 207.01) (xy 350.52 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -12993,7 +13035,7 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 313.69) (xy 383.54 393.7)
+			(xy 386.08 285.75) (xy 386.08 365.76)
 		)
 		(stroke
 			(width 0.25)
@@ -13013,7 +13055,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 308.61) (xy 223.52 304.8)
+			(xy 226.06 280.67) (xy 226.06 276.86)
 		)
 		(stroke
 			(width 0.25)
@@ -13033,7 +13075,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 415.29) (xy 289.56 421.64)
+			(xy 292.1 387.35) (xy 292.1 393.7)
 		)
 		(stroke
 			(width 0.25)
@@ -13043,7 +13085,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 325.12) (xy 203.2 401.32)
+			(xy 205.74 297.18) (xy 205.74 373.38)
 		)
 		(stroke
 			(width 0.25)
@@ -13053,7 +13095,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 245.21) (xy 274.32 254)
+			(xy 276.86 217.27) (xy 276.86 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -13073,7 +13115,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 251.46) (xy 157.48 245.21)
+			(xy 160.02 223.52) (xy 160.02 217.27)
 		)
 		(stroke
 			(width 0.25)
@@ -13083,7 +13125,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 256.54) (xy 93.98 256.54)
+			(xy 132.08 228.6) (xy 96.52 228.6)
 		)
 		(stroke
 			(width 0.25)
@@ -13093,7 +13135,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 408.94) (xy 50.8 419.1)
+			(xy 53.34 381) (xy 53.34 391.16)
 		)
 		(stroke
 			(width 0.25)
@@ -13103,7 +13145,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 228.6) (xy 144.78 228.6)
+			(xy 160.02 200.66) (xy 147.32 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -13113,7 +13155,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 406.4) (xy 60.96 406.4)
+			(xy 140.97 378.46) (xy 63.5 378.46)
 		)
 		(stroke
 			(width 0.25)
@@ -13143,7 +13185,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 391.16) (xy 302.26 391.16)
+			(xy 328.93 363.22) (xy 304.8 363.22)
 		)
 		(stroke
 			(width 0.25)
@@ -13153,7 +13195,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 304.8) (xy 223.52 300.99)
+			(xy 226.06 276.86) (xy 226.06 273.05)
 		)
 		(stroke
 			(width 0.25)
@@ -13173,7 +13215,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 337.82) (xy 215.9 337.82)
+			(xy 261.62 309.88) (xy 218.44 309.88)
 		)
 		(stroke
 			(width 0.25)
@@ -13193,17 +13235,7 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 78.74) (xy 368.3 78.74)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "7e5b81dc-c6a4-4705-a417-07eac7996dd7")
-	)
-	(wire
-		(pts
-			(xy 261.62 248.92) (xy 256.54 248.92)
+			(xy 264.16 220.98) (xy 259.08 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -13213,7 +13245,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 391.16) (xy 193.04 391.16)
+			(xy 168.91 363.22) (xy 195.58 363.22)
 		)
 		(stroke
 			(width 0.25)
@@ -13223,7 +13255,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 360.68) (xy 86.36 360.68)
+			(xy 101.6 332.74) (xy 88.9 332.74)
 		)
 		(stroke
 			(width 0.25)
@@ -13243,7 +13275,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 228.6) (xy 236.22 228.6)
+			(xy 226.06 200.66) (xy 238.76 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -13273,7 +13305,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 386.08) (xy 320.04 386.08)
+			(xy 328.93 358.14) (xy 322.58 358.14)
 		)
 		(stroke
 			(width 0.25)
@@ -13283,7 +13315,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 248.92) (xy 144.78 245.21)
+			(xy 147.32 220.98) (xy 147.32 217.27)
 		)
 		(stroke
 			(width 0.25)
@@ -13293,7 +13325,7 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 234.95) (xy 408.94 228.6)
+			(xy 411.48 207.01) (xy 411.48 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -13303,7 +13335,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 316.23) (xy 223.52 322.58)
+			(xy 226.06 288.29) (xy 226.06 294.64)
 		)
 		(stroke
 			(width 0.25)
@@ -13363,7 +13395,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 322.58) (xy 238.76 316.23)
+			(xy 241.3 294.64) (xy 241.3 288.29)
 		)
 		(stroke
 			(width 0.25)
@@ -13413,17 +13445,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.22 109.95) (xy 368.3 109.95)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "8af2a61e-2178-4f33-a95c-6d307a6574aa")
-	)
-	(wire
-		(pts
-			(xy 132.08 228.6) (xy 132.08 234.95)
+			(xy 134.62 200.66) (xy 134.62 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -13433,7 +13455,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 386.08) (xy 106.68 386.08)
+			(xy 140.97 358.14) (xy 109.22 358.14)
 		)
 		(stroke
 			(width 0.25)
@@ -13443,7 +13465,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 245.21) (xy 210.82 256.54)
+			(xy 213.36 217.27) (xy 213.36 228.6)
 		)
 		(stroke
 			(width 0.25)
@@ -13463,7 +13485,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 406.4) (xy 166.37 406.4)
+			(xy 210.82 378.46) (xy 168.91 378.46)
 		)
 		(stroke
 			(width 0.25)
@@ -13473,7 +13495,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 228.6) (xy 236.22 228.6)
+			(xy 251.46 200.66) (xy 238.76 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -13493,7 +13515,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 332.74) (xy 210.82 332.74)
+			(xy 256.54 304.8) (xy 213.36 304.8)
 		)
 		(stroke
 			(width 0.25)
@@ -13503,7 +13525,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 251.46) (xy 251.46 293.37)
+			(xy 254 223.52) (xy 254 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -13513,7 +13535,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 186.568) (xy 63.5 191.558)
+			(xy 68.58 175.138) (xy 68.58 180.128)
 		)
 		(stroke
 			(width 0.25)
@@ -13523,7 +13545,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 414.02) (xy 106.68 400.05)
+			(xy 109.22 386.08) (xy 109.22 372.11)
 		)
 		(stroke
 			(width 0.25)
@@ -13533,7 +13555,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 401.32) (xy 138.43 401.32)
+			(xy 139.7 373.38) (xy 140.97 373.38)
 		)
 		(stroke
 			(width 0.25)
@@ -13543,7 +13565,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 401.32) (xy 166.37 401.32)
+			(xy 205.74 373.38) (xy 168.91 373.38)
 		)
 		(stroke
 			(width 0.25)
@@ -13553,7 +13575,7 @@
 	)
 	(wire
 		(pts
-			(xy 388.62 398.78) (xy 349.25 398.78)
+			(xy 391.16 370.84) (xy 351.79 370.84)
 		)
 		(stroke
 			(width 0.25)
@@ -13583,6 +13605,16 @@
 	)
 	(wire
 		(pts
+			(xy 374.65 78.74) (xy 379.73 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9353f53e-aea6-4714-bbf3-af7c952ab20d")
+	)
+	(wire
+		(pts
 			(xy 87.484 78.134) (xy 61.406 78.134)
 		)
 		(stroke
@@ -13593,7 +13625,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 372.11) (xy 289.56 368.3)
+			(xy 292.1 344.17) (xy 292.1 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -13613,13 +13645,23 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 403.86) (xy 76.2 360.68)
+			(xy 78.74 375.92) (xy 78.74 332.74)
 		)
 		(stroke
 			(width 0.25)
 			(type solid)
 		)
 		(uuid "9430790e-339d-4285-9384-33b79e73cac9")
+	)
+	(wire
+		(pts
+			(xy 344.17 78.74) (xy 365.76 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94dc265d-80da-4dd9-ae45-f6949ce181fc")
 	)
 	(wire
 		(pts
@@ -13633,7 +13675,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 391.16) (xy 302.26 384.81)
+			(xy 304.8 363.22) (xy 304.8 356.87)
 		)
 		(stroke
 			(width 0.25)
@@ -13643,7 +13685,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 406.4) (xy 349.25 406.4)
+			(xy 398.78 378.46) (xy 351.79 378.46)
 		)
 		(stroke
 			(width 0.25)
@@ -13653,7 +13695,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 422.91) (xy 325.12 421.64)
+			(xy 327.66 394.97) (xy 327.66 393.7)
 		)
 		(stroke
 			(width 0.25)
@@ -13673,7 +13715,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 401.32) (xy 137.16 403.86)
+			(xy 139.7 373.38) (xy 139.7 375.92)
 		)
 		(stroke
 			(width 0.25)
@@ -13683,7 +13725,7 @@
 	)
 	(wire
 		(pts
-			(xy 51.044 170.058) (xy 63.5 170.058)
+			(xy 56.124 158.628) (xy 68.58 158.628)
 		)
 		(stroke
 			(width 0.25)
@@ -13693,7 +13735,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 228.6) (xy 119.38 228.6)
+			(xy 134.62 200.66) (xy 121.92 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -13703,7 +13745,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 419.1) (xy 127 414.02)
+			(xy 129.54 391.16) (xy 129.54 386.08)
 		)
 		(stroke
 			(width 0.25)
@@ -13713,7 +13755,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 285.75) (xy 109.22 290.1)
+			(xy 111.76 257.81) (xy 111.76 262.16)
 		)
 		(stroke
 			(width 0.25)
@@ -13733,7 +13775,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 406.4) (xy 60.96 378.46)
+			(xy 63.5 378.46) (xy 63.5 350.52)
 		)
 		(stroke
 			(width 0.25)
@@ -13743,7 +13785,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 381) (xy 166.37 381)
+			(xy 185.42 353.06) (xy 168.91 353.06)
 		)
 		(stroke
 			(width 0.25)
@@ -13753,7 +13795,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 372.11) (xy 302.26 368.3)
+			(xy 304.8 344.17) (xy 304.8 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -13773,7 +13815,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 293.37) (xy 129.54 256.54)
+			(xy 132.08 265.43) (xy 132.08 228.6)
 		)
 		(stroke
 			(width 0.25)
@@ -13783,17 +13825,7 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 109.95) (xy 368.3 78.74)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "9c86cebf-f9c8-4de0-9572-8114e27d77b3")
-	)
-	(wire
-		(pts
-			(xy 170.18 254) (xy 170.18 245.21)
+			(xy 172.72 226.06) (xy 172.72 217.27)
 		)
 		(stroke
 			(width 0.25)
@@ -13813,7 +13845,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 228.6) (xy 132.08 228.6)
+			(xy 147.32 200.66) (xy 134.62 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -13843,7 +13875,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 290.1) (xy 109.22 293.37)
+			(xy 111.76 262.16) (xy 111.76 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -13863,7 +13895,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 327.66) (xy 121.92 316.23)
+			(xy 124.46 299.72) (xy 124.46 288.29)
 		)
 		(stroke
 			(width 0.25)
@@ -13873,7 +13905,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 254) (xy 381 254)
+			(xy 350.52 226.06) (xy 383.54 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -13893,7 +13925,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 259.08) (xy 264.16 293.37)
+			(xy 266.7 231.14) (xy 266.7 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -13903,17 +13935,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 111.95) (xy 358.14 119.38)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "a08999f3-fdcf-445e-8534-0dc4c04c6317")
-	)
-	(wire
-		(pts
-			(xy 401.32 313.69) (xy 401.32 317.5)
+			(xy 403.86 285.75) (xy 403.86 289.56)
 		)
 		(stroke
 			(width 0.25)
@@ -13923,7 +13945,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 228.6) (xy 106.68 228.6)
+			(xy 121.92 200.66) (xy 109.22 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -13933,7 +13955,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 386.08) (xy 166.37 386.08)
+			(xy 190.5 358.14) (xy 168.91 358.14)
 		)
 		(stroke
 			(width 0.25)
@@ -13963,7 +13985,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 360.68) (xy 132.08 360.68)
+			(xy 151.13 332.74) (xy 134.62 332.74)
 		)
 		(stroke
 			(width 0.25)
@@ -13983,7 +14005,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 251.46) (xy 251.46 251.46)
+			(xy 238.76 223.52) (xy 254 223.52)
 		)
 		(stroke
 			(width 0.25)
@@ -13993,7 +14015,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 170.18) (xy 111.76 170.18)
+			(xy 104.14 158.75) (xy 116.84 158.75)
 		)
 		(stroke
 			(width 0.25)
@@ -14003,7 +14025,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 248.92) (xy 256.54 293.37)
+			(xy 259.08 220.98) (xy 259.08 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -14023,7 +14045,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 360.68) (xy 132.08 378.46)
+			(xy 134.62 332.74) (xy 134.62 350.52)
 		)
 		(stroke
 			(width 0.25)
@@ -14043,7 +14065,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 419.1) (xy 127 419.1)
+			(xy 140.97 391.16) (xy 129.54 391.16)
 		)
 		(stroke
 			(width 0.25)
@@ -14053,7 +14075,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 342.9) (xy 129.54 316.23)
+			(xy 132.08 314.96) (xy 132.08 288.29)
 		)
 		(stroke
 			(width 0.25)
@@ -14063,7 +14085,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 254) (xy 259.08 293.37)
+			(xy 261.62 226.06) (xy 261.62 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -14073,7 +14095,7 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 251.46) (xy 383.54 290.83)
+			(xy 386.08 223.52) (xy 386.08 262.89)
 		)
 		(stroke
 			(width 0.25)
@@ -14083,7 +14105,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 386.08) (xy 99.06 379.73)
+			(xy 101.6 358.14) (xy 101.6 351.79)
 		)
 		(stroke
 			(width 0.25)
@@ -14103,7 +14125,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 228.6) (xy 93.98 228.6)
+			(xy 109.22 200.66) (xy 96.52 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -14113,7 +14135,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 245.21) (xy 236.22 251.46)
+			(xy 238.76 217.27) (xy 238.76 223.52)
 		)
 		(stroke
 			(width 0.25)
@@ -14123,7 +14145,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 383.54) (xy 185.42 337.82)
+			(xy 187.96 355.6) (xy 187.96 309.88)
 		)
 		(stroke
 			(width 0.25)
@@ -14143,7 +14165,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 368.3) (xy 289.56 368.3)
+			(xy 304.8 340.36) (xy 292.1 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -14153,7 +14175,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 408.94) (xy 50.8 408.94)
+			(xy 140.97 381) (xy 53.34 381)
 		)
 		(stroke
 			(width 0.25)
@@ -14163,7 +14185,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 392.43) (xy 106.68 386.08)
+			(xy 109.22 364.49) (xy 109.22 358.14)
 		)
 		(stroke
 			(width 0.25)
@@ -14173,7 +14195,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 340.36) (xy 218.44 340.36)
+			(xy 264.16 312.42) (xy 220.98 312.42)
 		)
 		(stroke
 			(width 0.25)
@@ -14183,7 +14205,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 332.74) (xy 210.82 408.94)
+			(xy 213.36 304.8) (xy 213.36 381)
 		)
 		(stroke
 			(width 0.25)
@@ -14193,7 +14215,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 302.26) (xy 358.14 298.45)
+			(xy 360.68 274.32) (xy 360.68 270.51)
 		)
 		(stroke
 			(width 0.25)
@@ -14213,7 +14235,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 421.64) (xy 302.26 421.64)
+			(xy 327.66 393.7) (xy 304.8 393.7)
 		)
 		(stroke
 			(width 0.25)
@@ -14223,7 +14245,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 254) (xy 381 290.83)
+			(xy 383.54 226.06) (xy 383.54 262.89)
 		)
 		(stroke
 			(width 0.25)
@@ -14233,7 +14255,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 407.67) (xy 276.86 396.24)
+			(xy 279.4 379.73) (xy 279.4 368.3)
 		)
 		(stroke
 			(width 0.25)
@@ -14243,7 +14265,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 416.56) (xy 349.25 416.56)
+			(xy 360.68 388.62) (xy 351.79 388.62)
 		)
 		(stroke
 			(width 0.25)
@@ -14253,7 +14275,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 248.92) (xy 254 248.92)
+			(xy 251.46 220.98) (xy 256.54 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -14273,7 +14295,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 378.46) (xy 138.43 378.46)
+			(xy 134.62 350.52) (xy 140.97 350.52)
 		)
 		(stroke
 			(width 0.25)
@@ -14293,7 +14315,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 360.68) (xy 99.06 367.03)
+			(xy 101.6 332.74) (xy 101.6 339.09)
 		)
 		(stroke
 			(width 0.25)
@@ -14333,7 +14355,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 316.23) (xy 149.86 320.04)
+			(xy 152.4 288.29) (xy 152.4 292.1)
 		)
 		(stroke
 			(width 0.25)
@@ -14353,7 +14375,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 254) (xy 170.18 254)
+			(xy 147.32 226.06) (xy 172.72 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -14363,7 +14385,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 327.66) (xy 121.92 327.66)
+			(xy 111.76 299.72) (xy 124.46 299.72)
 		)
 		(stroke
 			(width 0.25)
@@ -14393,7 +14415,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 342.9) (xy 220.98 419.1)
+			(xy 223.52 314.96) (xy 223.52 391.16)
 		)
 		(stroke
 			(width 0.25)
@@ -14403,7 +14425,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 313.69) (xy 391.16 401.32)
+			(xy 393.7 285.75) (xy 393.7 373.38)
 		)
 		(stroke
 			(width 0.25)
@@ -14413,7 +14435,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 320.04) (xy 373.38 320.04)
+			(xy 360.68 292.1) (xy 375.92 292.1)
 		)
 		(stroke
 			(width 0.25)
@@ -14463,7 +14485,17 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 284.48) (xy 373.38 284.48)
+			(xy 116.84 167.517) (xy 116.84 167.518)
+		)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(uuid "b8f71888-e23b-46f4-88d9-4ae661c06844")
+	)
+	(wire
+		(pts
+			(xy 360.68 256.54) (xy 375.92 256.54)
 		)
 		(stroke
 			(width 0.25)
@@ -14473,7 +14505,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 419.1) (xy 20.32 398.684)
+			(xy 22.86 391.16) (xy 22.86 370.744)
 		)
 		(stroke
 			(width 0.25)
@@ -14483,7 +14515,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 228.6) (xy 378.46 228.6)
+			(xy 365.76 200.66) (xy 381 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -14513,7 +14545,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 132.08) (xy 340.36 79.28)
+			(xy 340.36 132.08) (xy 340.36 80.01)
 		)
 		(stroke
 			(width 0.25)
@@ -14533,7 +14565,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 383.54) (xy 138.43 383.54)
+			(xy 121.92 355.6) (xy 140.97 355.6)
 		)
 		(stroke
 			(width 0.25)
@@ -14553,7 +14585,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 316.23) (xy 147.32 325.12)
+			(xy 149.86 288.29) (xy 149.86 297.18)
 		)
 		(stroke
 			(width 0.25)
@@ -14563,7 +14595,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 191.239) (xy 99.06 191.239)
+			(xy 116.84 179.809) (xy 104.14 179.809)
 		)
 		(stroke
 			(width 0.25)
@@ -14583,7 +14615,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 325.12) (xy 198.12 325.12)
+			(xy 149.86 297.18) (xy 200.66 297.18)
 		)
 		(stroke
 			(width 0.25)
@@ -14593,7 +14625,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 191.558) (xy 81.28 194.188)
+			(xy 86.36 180.128) (xy 86.36 182.758)
 		)
 		(stroke
 			(width 0.25)
@@ -14603,7 +14635,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 368.3) (xy 302.26 368.3)
+			(xy 322.58 340.36) (xy 304.8 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -14613,7 +14645,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 228.6) (xy 287.02 228.6)
+			(xy 276.86 200.66) (xy 289.56 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -14623,7 +14655,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 178.948) (xy 63.5 170.18)
+			(xy 68.58 167.518) (xy 68.58 158.75)
 		)
 		(stroke
 			(width 0.25)
@@ -14633,17 +14665,7 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 78.74) (xy 363.22 78.74)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "c0b679bd-9dbf-493c-9626-613956168a2d")
-	)
-	(wire
-		(pts
-			(xy 345.44 320.04) (xy 358.14 320.04)
+			(xy 347.98 292.1) (xy 360.68 292.1)
 		)
 		(stroke
 			(width 0.25)
@@ -14663,7 +14685,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 403.86) (xy 166.37 403.86)
+			(xy 208.28 375.92) (xy 168.91 375.92)
 		)
 		(stroke
 			(width 0.25)
@@ -14703,7 +14725,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 228.6) (xy 210.82 234.95)
+			(xy 213.36 200.66) (xy 213.36 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -14733,7 +14755,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 316.23) (xy 251.46 330.2)
+			(xy 254 288.29) (xy 254 302.26)
 		)
 		(stroke
 			(width 0.25)
@@ -14763,7 +14785,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.576 137.732) (xy 50.576 151.123)
+			(xy 55.656 126.302) (xy 55.656 139.693)
 		)
 		(stroke
 			(width 0.25)
@@ -14783,7 +14805,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 293.37) (xy 132.08 254)
+			(xy 134.62 265.43) (xy 134.62 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -14793,7 +14815,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 335.28) (xy 213.36 411.48)
+			(xy 215.9 307.34) (xy 215.9 383.54)
 		)
 		(stroke
 			(width 0.25)
@@ -14813,7 +14835,7 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 316.23) (xy 345.44 320.04)
+			(xy 347.98 288.29) (xy 347.98 292.1)
 		)
 		(stroke
 			(width 0.25)
@@ -14833,7 +14855,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 248.92) (xy 378.46 248.92)
+			(xy 388.62 220.98) (xy 381 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -14843,7 +14865,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 316.23) (xy 261.62 340.36)
+			(xy 264.16 288.29) (xy 264.16 312.42)
 		)
 		(stroke
 			(width 0.25)
@@ -14853,7 +14875,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 293.37) (xy 142.24 251.46)
+			(xy 144.78 265.43) (xy 144.78 223.52)
 		)
 		(stroke
 			(width 0.25)
@@ -14863,7 +14885,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 403.86) (xy 76.2 403.86)
+			(xy 139.7 375.92) (xy 78.74 375.92)
 		)
 		(stroke
 			(width 0.25)
@@ -14883,7 +14905,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 419.1) (xy 20.32 419.1)
+			(xy 53.34 391.16) (xy 22.86 391.16)
 		)
 		(stroke
 			(width 0.25)
@@ -14903,7 +14925,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 293.37) (xy 144.78 254)
+			(xy 147.32 265.43) (xy 147.32 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -14913,7 +14935,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 159.014) (xy 99.06 170.18)
+			(xy 104.14 147.584) (xy 104.14 158.75)
 		)
 		(stroke
 			(width 0.25)
@@ -14943,7 +14965,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 327.66) (xy 195.58 393.7)
+			(xy 198.12 299.72) (xy 198.12 365.76)
 		)
 		(stroke
 			(width 0.25)
@@ -14953,7 +14975,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 228.6) (xy 274.32 234.95)
+			(xy 276.86 200.66) (xy 276.86 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -14963,7 +14985,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 178.948) (xy 99.06 170.18)
+			(xy 104.14 167.518) (xy 104.14 158.75)
 		)
 		(stroke
 			(width 0.25)
@@ -15003,7 +15025,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 403.86) (xy 349.25 403.86)
+			(xy 396.24 375.92) (xy 351.79 375.92)
 		)
 		(stroke
 			(width 0.25)
@@ -15013,7 +15035,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 396.144) (xy 17.78 436.88)
+			(xy 20.32 368.204) (xy 20.32 408.94)
 		)
 		(stroke
 			(width 0.25)
@@ -15023,7 +15045,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 379.73) (xy 111.76 383.54)
+			(xy 114.3 351.79) (xy 114.3 355.6)
 		)
 		(stroke
 			(width 0.25)
@@ -15033,7 +15055,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 401.32) (xy 29.256 401.32)
+			(xy 27.94 373.38) (xy 31.796 373.38)
 		)
 		(stroke
 			(width 0.25)
@@ -15043,7 +15065,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 251.46) (xy 383.54 251.46)
+			(xy 365.76 223.52) (xy 386.08 223.52)
 		)
 		(stroke
 			(width 0.25)
@@ -15063,7 +15085,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 340.36) (xy 182.88 340.36)
+			(xy 134.62 312.42) (xy 185.42 312.42)
 		)
 		(stroke
 			(width 0.25)
@@ -15083,7 +15105,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 313.69) (xy 358.14 320.04)
+			(xy 360.68 285.75) (xy 360.68 292.1)
 		)
 		(stroke
 			(width 0.25)
@@ -15103,7 +15125,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 228.6) (xy 93.98 228.6)
+			(xy 78.74 200.66) (xy 96.52 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15123,7 +15145,7 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 302.26) (xy 358.14 302.26)
+			(xy 354.33 274.32) (xy 360.68 274.32)
 		)
 		(stroke
 			(width 0.25)
@@ -15133,7 +15155,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 388.62) (xy 93.98 388.62)
+			(xy 140.97 360.68) (xy 96.52 360.68)
 		)
 		(stroke
 			(width 0.25)
@@ -15143,7 +15165,7 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 245.21) (xy 299.72 259.08)
+			(xy 302.26 217.27) (xy 302.26 231.14)
 		)
 		(stroke
 			(width 0.25)
@@ -15153,7 +15175,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 421.64) (xy 276.86 415.29)
+			(xy 279.4 393.7) (xy 279.4 387.35)
 		)
 		(stroke
 			(width 0.25)
@@ -15163,7 +15185,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 234.95) (xy 223.52 228.6)
+			(xy 226.06 207.01) (xy 226.06 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15203,7 +15225,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 378.46) (xy 20.32 396.144)
+			(xy 22.86 350.52) (xy 22.86 368.204)
 		)
 		(stroke
 			(width 0.25)
@@ -15223,7 +15245,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 407.67) (xy 25.4 401.32)
+			(xy 27.94 379.73) (xy 27.94 373.38)
 		)
 		(stroke
 			(width 0.25)
@@ -15243,7 +15265,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 234.95) (xy 261.62 228.6)
+			(xy 264.16 207.01) (xy 264.16 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15253,7 +15275,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 313.69) (xy 381 391.16)
+			(xy 383.54 285.75) (xy 383.54 363.22)
 		)
 		(stroke
 			(width 0.25)
@@ -15263,7 +15285,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 228.6) (xy 393.7 234.95)
+			(xy 396.24 200.66) (xy 396.24 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -15273,7 +15295,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 284.48) (xy 358.14 284.48)
+			(xy 345.44 256.54) (xy 360.68 256.54)
 		)
 		(stroke
 			(width 0.25)
@@ -15283,7 +15305,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 234.95) (xy 76.2 228.6)
+			(xy 78.74 207.01) (xy 78.74 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15313,7 +15335,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 419.1) (xy 127 422.91)
+			(xy 129.54 391.16) (xy 129.54 394.97)
 		)
 		(stroke
 			(width 0.25)
@@ -15323,7 +15345,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 360.68) (xy 111.76 360.68)
+			(xy 134.62 332.74) (xy 114.3 332.74)
 		)
 		(stroke
 			(width 0.25)
@@ -15353,7 +15375,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 228.6) (xy 363.22 228.6)
+			(xy 350.52 200.66) (xy 365.76 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15373,7 +15395,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 337.82) (xy 215.9 414.02)
+			(xy 218.44 309.88) (xy 218.44 386.08)
 		)
 		(stroke
 			(width 0.25)
@@ -15383,7 +15405,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 245.21) (xy 393.7 248.92)
+			(xy 396.24 217.27) (xy 396.24 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -15393,7 +15415,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.528 137.732) (xy 50.576 137.732)
+			(xy 49.608 126.302) (xy 55.656 126.302)
 		)
 		(stroke
 			(width 0.25)
@@ -15403,7 +15425,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 170.18) (xy 99.06 170.18)
+			(xy 95.25 158.75) (xy 104.14 158.75)
 		)
 		(stroke
 			(width 0.25)
@@ -15423,7 +15445,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 293.37) (xy 223.52 287.02)
+			(xy 226.06 265.43) (xy 226.06 259.08)
 		)
 		(stroke
 			(width 0.25)
@@ -15433,7 +15455,7 @@
 	)
 	(wire
 		(pts
-			(xy 51.044 153.663) (xy 51.044 170.058)
+			(xy 56.124 142.233) (xy 56.124 158.628)
 		)
 		(stroke
 			(width 0.25)
@@ -15443,7 +15465,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 316.23) (xy 259.08 337.82)
+			(xy 261.62 288.29) (xy 261.62 309.88)
 		)
 		(stroke
 			(width 0.25)
@@ -15463,7 +15485,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 228.6) (xy 287.02 234.95)
+			(xy 289.56 200.66) (xy 289.56 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -15473,7 +15495,7 @@
 	)
 	(wire
 		(pts
-			(xy 401.32 317.5) (xy 410.21 317.5)
+			(xy 403.86 289.56) (xy 412.75 289.56)
 		)
 		(stroke
 			(width 0.25)
@@ -15493,7 +15515,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 327.66) (xy 205.74 403.86)
+			(xy 208.28 299.72) (xy 208.28 375.92)
 		)
 		(stroke
 			(width 0.25)
@@ -15503,7 +15525,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 322.58) (xy 223.52 322.58)
+			(xy 213.36 294.64) (xy 226.06 294.64)
 		)
 		(stroke
 			(width 0.25)
@@ -15513,7 +15535,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 356.87) (xy 132.08 360.68)
+			(xy 134.62 328.93) (xy 134.62 332.74)
 		)
 		(stroke
 			(width 0.25)
@@ -15523,7 +15545,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 228.6) (xy 144.78 234.95)
+			(xy 147.32 200.66) (xy 147.32 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -15533,7 +15555,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 388.62) (xy 86.36 388.62)
+			(xy 96.52 360.68) (xy 88.9 360.68)
 		)
 		(stroke
 			(width 0.25)
@@ -15553,7 +15575,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 436.88) (xy 358.14 416.56)
+			(xy 360.68 408.94) (xy 360.68 388.62)
 		)
 		(stroke
 			(width 0.25)
@@ -15563,7 +15585,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 191.239) (xy 99.06 191.399)
+			(xy 104.14 179.809) (xy 104.14 179.969)
 		)
 		(stroke
 			(width 0.25)
@@ -15573,7 +15595,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 293.37) (xy 139.7 248.92)
+			(xy 142.24 265.43) (xy 142.24 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -15583,7 +15605,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 254) (xy 259.08 254)
+			(xy 276.86 226.06) (xy 261.62 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -15593,7 +15615,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 280.67) (xy 208.28 287.02)
+			(xy 210.82 252.73) (xy 210.82 259.08)
 		)
 		(stroke
 			(width 0.25)
@@ -15603,7 +15625,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 245.21) (xy 223.52 254)
+			(xy 226.06 217.27) (xy 226.06 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -15613,7 +15635,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 228.6) (xy 274.32 228.6)
+			(xy 264.16 200.66) (xy 276.86 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15623,7 +15645,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 327.66) (xy 88.9 327.66)
+			(xy 111.76 299.72) (xy 91.44 299.72)
 		)
 		(stroke
 			(width 0.25)
@@ -15633,7 +15655,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 228.6) (xy 170.18 234.95)
+			(xy 172.72 200.66) (xy 172.72 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -15643,7 +15665,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 228.6) (xy 210.82 228.6)
+			(xy 226.06 200.66) (xy 213.36 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15663,7 +15685,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 278.13) (xy 342.9 284.48)
+			(xy 345.44 250.19) (xy 345.44 256.54)
 		)
 		(stroke
 			(width 0.25)
@@ -15673,7 +15695,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 401.32) (xy 269.24 368.3)
+			(xy 271.78 373.38) (xy 271.78 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -15683,7 +15705,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 228.6) (xy 299.72 228.6)
+			(xy 320.04 200.66) (xy 302.26 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15693,7 +15715,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 407.67) (xy 302.26 391.16)
+			(xy 304.8 379.73) (xy 304.8 363.22)
 		)
 		(stroke
 			(width 0.25)
@@ -15703,7 +15725,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 396.24) (xy 166.37 396.24)
+			(xy 200.66 368.3) (xy 168.91 368.3)
 		)
 		(stroke
 			(width 0.25)
@@ -15723,7 +15745,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 396.144) (xy 17.78 396.144)
+			(xy 22.86 368.204) (xy 20.32 368.204)
 		)
 		(stroke
 			(width 0.25)
@@ -15733,7 +15755,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 119.38) (xy 350.52 129.54)
+			(xy 350.52 96.52) (xy 350.52 129.54)
 		)
 		(stroke
 			(width 0.25)
@@ -15743,7 +15765,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 228.6) (xy 248.92 228.6)
+			(xy 264.16 200.66) (xy 251.46 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15763,7 +15785,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 304.8) (xy 223.52 304.8)
+			(xy 219.71 276.86) (xy 226.06 276.86)
 		)
 		(stroke
 			(width 0.25)
@@ -15773,7 +15795,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 228.6) (xy 93.98 234.95)
+			(xy 96.52 200.66) (xy 96.52 207.01)
 		)
 		(stroke
 			(width 0.25)
@@ -15793,7 +15815,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 248.92) (xy 144.78 248.92)
+			(xy 142.24 220.98) (xy 147.32 220.98)
 		)
 		(stroke
 			(width 0.25)
@@ -15803,7 +15825,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 293.37) (xy 121.92 290.1)
+			(xy 124.46 265.43) (xy 124.46 262.16)
 		)
 		(stroke
 			(width 0.25)
@@ -15813,7 +15835,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 360.68) (xy 99.06 360.68)
+			(xy 114.3 332.74) (xy 101.6 332.74)
 		)
 		(stroke
 			(width 0.25)
@@ -15833,7 +15855,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 245.21) (xy 287.02 256.54)
+			(xy 289.56 217.27) (xy 289.56 228.6)
 		)
 		(stroke
 			(width 0.25)
@@ -15843,7 +15865,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 393.7) (xy 289.56 393.7)
+			(xy 328.93 365.76) (xy 292.1 365.76)
 		)
 		(stroke
 			(width 0.25)
@@ -15853,7 +15875,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 248.92) (xy 254 293.37)
+			(xy 256.54 220.98) (xy 256.54 265.43)
 		)
 		(stroke
 			(width 0.25)
@@ -15863,7 +15885,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 416.56) (xy 326.39 416.56)
+			(xy 327.66 388.62) (xy 328.93 388.62)
 		)
 		(stroke
 			(width 0.25)
@@ -15883,7 +15905,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.814 360.68) (xy 164.084 360.426)
+			(xy 165.354 332.74) (xy 166.624 332.486)
 		)
 		(stroke
 			(width 0.25)
@@ -15903,7 +15925,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 320.04) (xy 158.75 320.04)
+			(xy 152.4 292.1) (xy 161.29 292.1)
 		)
 		(stroke
 			(width 0.25)
@@ -15913,7 +15935,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 186.568) (xy 99.06 191.239)
+			(xy 104.14 175.138) (xy 104.14 179.809)
 		)
 		(stroke
 			(width 0.25)
@@ -15923,7 +15945,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 234.95) (xy 198.12 228.6)
+			(xy 200.66 207.01) (xy 200.66 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -15933,7 +15955,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 391.16) (xy 349.25 391.16)
+			(xy 383.54 363.22) (xy 351.79 363.22)
 		)
 		(stroke
 			(width 0.25)
@@ -15963,7 +15985,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 254) (xy 106.68 254)
+			(xy 134.62 226.06) (xy 109.22 226.06)
 		)
 		(stroke
 			(width 0.25)
@@ -15973,7 +15995,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 342.9) (xy 129.54 342.9)
+			(xy 182.88 314.96) (xy 132.08 314.96)
 		)
 		(stroke
 			(width 0.25)
@@ -15983,7 +16005,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.814 360.68) (xy 156.21 360.68)
+			(xy 165.354 332.74) (xy 158.75 332.74)
 		)
 		(stroke
 			(width 0.25)
@@ -15993,7 +16015,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 228.6) (xy 299.72 228.6)
+			(xy 289.56 200.66) (xy 302.26 200.66)
 		)
 		(stroke
 			(width 0.25)
@@ -16003,7 +16025,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 248.92) (xy 386.08 290.83)
+			(xy 388.62 220.98) (xy 388.62 262.89)
 		)
 		(stroke
 			(width 0.25)
@@ -16023,7 +16045,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 340.36) (xy 218.44 416.56)
+			(xy 220.98 312.42) (xy 220.98 388.62)
 		)
 		(stroke
 			(width 0.25)
@@ -16033,7 +16055,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 396.24) (xy 276.86 384.81)
+			(xy 279.4 368.3) (xy 279.4 356.87)
 		)
 		(stroke
 			(width 0.25)
@@ -16043,7 +16065,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 368.3) (xy 349.25 368.3)
+			(xy 344.17 340.36) (xy 351.79 340.36)
 		)
 		(stroke
 			(width 0.25)
@@ -16052,7 +16074,7 @@
 		(uuid "ff4a56d0-5d27-4ed3-b6ff-aa2514a1636e")
 	)
 	(label "Net_17"
-		(at 25.4 407.67 0)
+		(at 27.94 379.73 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -16129,7 +16151,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 104.394 307.34 270)
+		(at 106.934 279.4 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16137,7 +16159,7 @@
 		(dnp no)
 		(uuid "0360b25a-f628-40fc-96a4-5e7273c06d70")
 		(property "Reference" "#NetPort13"
-			(at 104.394 307.34 0)
+			(at 106.934 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16146,7 +16168,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 104.394 307.34 0)
+			(at 106.934 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16155,7 +16177,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.394 307.34 0)
+			(at 106.934 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16164,7 +16186,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.394 307.34 0)
+			(at 106.934 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16173,7 +16195,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.394 307.34 0)
+			(at 106.934 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16474,7 +16496,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+5V")
-		(at 132.08 354.33 0)
+		(at 134.62 326.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16482,7 +16504,7 @@
 		(dnp no)
 		(uuid "11ae1daa-9485-4909-8072-9cfaeba7837d")
 		(property "Reference" "#NetPort161"
-			(at 132.08 354.33 0)
+			(at 134.62 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16491,7 +16513,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 132.08 354.33 0)
+			(at 134.62 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16500,7 +16522,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 354.33 0)
+			(at 134.62 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16509,7 +16531,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 354.33 0)
+			(at 134.62 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16518,7 +16540,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 354.33 0)
+			(at 134.62 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16618,7 +16640,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 162.306 320.04 90)
+		(at 164.846 292.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16626,7 +16648,7 @@
 		(dnp no)
 		(uuid "17d8205c-5fbc-4478-98c2-8bd7bd61fb4e")
 		(property "Reference" "#NetPort14"
-			(at 162.306 320.04 0)
+			(at 164.846 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16635,7 +16657,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 162.306 320.04 0)
+			(at 164.846 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16644,7 +16666,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.306 320.04 0)
+			(at 164.846 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16653,7 +16675,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.306 320.04 0)
+			(at 164.846 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16662,7 +16684,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.306 320.04 0)
+			(at 164.846 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16822,7 +16844,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 370.205 239.665 0)
+		(at 372.745 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16830,7 +16852,7 @@
 		(dnp no)
 		(uuid "1966aaea-d6b2-4a52-81da-f84961df5690")
 		(property "Reference" "K19"
-			(at 370.205 239.665 0)
+			(at 372.745 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16839,7 +16861,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 370.205 239.665 0)
+			(at 372.745 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16848,7 +16870,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 370.205 239.665 0)
+			(at 372.745 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16857,7 +16879,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 370.205 239.665 0)
+			(at 372.745 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16866,7 +16888,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 370.205 239.665 0)
+			(at 372.745 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16900,7 +16922,8 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS_10")
-		(at 360.33 113.76 270)
+		(at 366.11 82.55 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16908,7 +16931,7 @@
 		(dnp no)
 		(uuid "1a2af5a3-9d15-4057-8b5f-31041f1809e0")
 		(property "Reference" "K18"
-			(at 360.33 113.76 0)
+			(at 366.11 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16917,7 +16940,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS_10"
-			(at 360.33 113.76 0)
+			(at 366.11 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16926,7 +16949,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 360.33 113.76 0)
+			(at 366.11 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16935,7 +16958,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 360.33 113.76 0)
+			(at 366.11 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16944,7 +16967,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 360.33 113.76 0)
+			(at 366.11 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17056,7 +17079,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 413.766 317.5 90)
+		(at 416.306 289.56 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17064,7 +17087,7 @@
 		(dnp no)
 		(uuid "1b359368-94ee-4859-97c0-cb3861f95700")
 		(property "Reference" "#NetPort26"
-			(at 413.766 317.5 0)
+			(at 416.306 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17073,7 +17096,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 413.766 317.5 0)
+			(at 416.306 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17082,7 +17105,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 413.766 317.5 0)
+			(at 416.306 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17091,7 +17114,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 413.766 317.5 0)
+			(at 416.306 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17100,7 +17123,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 413.766 317.5 0)
+			(at 416.306 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17122,7 +17145,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 76.2 238.506 0)
+		(at 78.74 210.566 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17130,7 +17153,7 @@
 		(dnp no)
 		(uuid "1d2c89d6-3023-40f3-aa32-0e58d369e33b")
 		(property "Reference" "#NetPort16"
-			(at 76.2 238.506 0)
+			(at 78.74 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17139,7 +17162,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.2 238.506 0)
+			(at 78.74 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17148,7 +17171,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 238.506 0)
+			(at 78.74 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17157,7 +17180,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 238.506 0)
+			(at 78.74 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17166,7 +17189,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 76.2 238.506 0)
+			(at 78.74 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17188,7 +17211,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 161.925 239.665 0)
+		(at 164.465 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17196,7 +17219,7 @@
 		(dnp no)
 		(uuid "245d6681-1522-41d1-a54e-874d8513ec90")
 		(property "Reference" "K7"
-			(at 161.925 239.665 0)
+			(at 164.465 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17205,7 +17228,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 161.925 239.665 0)
+			(at 164.465 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17214,7 +17237,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 161.925 239.665 0)
+			(at 164.465 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17223,7 +17246,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.925 239.665 0)
+			(at 164.465 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17232,7 +17255,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.925 239.665 0)
+			(at 164.465 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17266,7 +17289,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 213.614 304.8 270)
+		(at 216.154 276.86 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17274,7 +17297,7 @@
 		(dnp no)
 		(uuid "27479388-5d01-4a6a-8318-6751f2311a15")
 		(property "Reference" "#NetPort21"
-			(at 213.614 304.8 0)
+			(at 216.154 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17283,7 +17306,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 213.614 304.8 0)
+			(at 216.154 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17292,7 +17315,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 213.614 304.8 0)
+			(at 216.154 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17301,7 +17324,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.614 304.8 0)
+			(at 216.154 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17310,7 +17333,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.614 304.8 0)
+			(at 216.154 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17333,7 +17356,7 @@
 	(symbol
 		(lib_name "SOLDER_JMP_2_7")
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:SOLDER_JMP_2")
-		(at 302.26 411.48 90)
+		(at 304.8 383.54 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17341,7 +17364,7 @@
 		(dnp no)
 		(uuid "2982f469-6d13-4408-b9f6-2cf5b61a38c7")
 		(property "Reference" "J11"
-			(at 302.26 411.48 0)
+			(at 304.8 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17350,7 +17373,7 @@
 			)
 		)
 		(property "Value" "SOLDER_JMP_2"
-			(at 305.054 410.972 0)
+			(at 307.594 383.032 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17358,7 +17381,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOLDER_JMP_2"
-			(at 302.26 411.48 0)
+			(at 304.8 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17367,7 +17390,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 302.26 411.48 0)
+			(at 304.8 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17376,7 +17399,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 302.26 411.48 0)
+			(at 304.8 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17611,7 +17634,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:RES_1206")
-		(at 276.86 378.46 270)
+		(at 279.4 350.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17619,7 +17642,7 @@
 		(dnp no)
 		(uuid "35d01b48-f5a5-49a6-a5c0-211ba4d68712")
 		(property "Reference" "R6"
-			(at 276.86 378.46 0)
+			(at 279.4 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17628,7 +17651,7 @@
 			)
 		)
 		(property "Value" "3.3K Ohm"
-			(at 276.86 378.46 0)
+			(at 279.4 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17637,7 +17660,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:RES_1206"
-			(at 276.86 378.46 0)
+			(at 279.4 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17646,7 +17669,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 378.46 0)
+			(at 279.4 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17655,7 +17678,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 276.86 378.46 0)
+			(at 279.4 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17896,7 +17919,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:RES_1206")
-		(at 289.56 378.46 270)
+		(at 292.1 350.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17904,7 +17927,7 @@
 		(dnp no)
 		(uuid "3f4ab60e-2bfc-45b4-8872-4aac00d8d1e0")
 		(property "Reference" "R5"
-			(at 289.56 378.46 0)
+			(at 292.1 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17913,7 +17936,7 @@
 			)
 		)
 		(property "Value" "3.3K Ohm"
-			(at 289.56 378.46 0)
+			(at 292.1 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17922,7 +17945,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:RES_1206"
-			(at 289.56 378.46 0)
+			(at 292.1 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17931,7 +17954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 378.46 0)
+			(at 292.1 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17940,7 +17963,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 289.56 378.46 0)
+			(at 292.1 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18187,7 +18210,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+12V")
-		(at 63.5 156.088 0)
+		(at 68.58 144.658 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18195,7 +18218,7 @@
 		(dnp no)
 		(uuid "4225e64b-2594-4fda-9072-a731f38f9e3c")
 		(property "Reference" "#NetPort40"
-			(at 63.5 156.088 0)
+			(at 68.58 144.658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18204,7 +18227,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 63.5 156.088 0)
+			(at 68.58 144.658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18213,7 +18236,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 156.088 0)
+			(at 68.58 144.658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18222,7 +18245,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 156.088 0)
+			(at 68.58 144.658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18231,7 +18254,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 156.088 0)
+			(at 68.58 144.658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18253,7 +18276,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:UDN2987LW")
-		(at 386.08 302.26 90)
+		(at 388.62 274.32 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18261,7 +18284,7 @@
 		(dnp no)
 		(uuid "42ace921-3f9a-4682-829a-1b640af8e94d")
 		(property "Reference" "U5"
-			(at 386.08 302.26 0)
+			(at 388.62 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18270,7 +18293,7 @@
 			)
 		)
 		(property "Value" "UDN2987LW"
-			(at 405.13 302.514 0)
+			(at 407.67 274.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18278,7 +18301,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOIC-20_300MIL"
-			(at 386.08 302.26 0)
+			(at 388.62 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18287,7 +18310,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 386.08 302.26 0)
+			(at 388.62 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18296,7 +18319,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 386.08 302.26 0)
+			(at 388.62 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18376,7 +18399,7 @@
 	(symbol
 		(lib_name "SOLDER_JMP_2_6")
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:SOLDER_JMP_2")
-		(at 276.86 411.48 90)
+		(at 279.4 383.54 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18384,7 +18407,7 @@
 		(dnp no)
 		(uuid "4465153d-cff3-4429-b4f1-6a9a898b71fb")
 		(property "Reference" "J9"
-			(at 276.86 411.48 0)
+			(at 279.4 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18393,7 +18416,7 @@
 			)
 		)
 		(property "Value" "SOLDER_JMP_2"
-			(at 276.86 411.48 0)
+			(at 279.4 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18402,7 +18425,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOLDER_JMP_2"
-			(at 276.86 411.48 0)
+			(at 279.4 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18411,7 +18434,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 411.48 0)
+			(at 279.4 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18420,7 +18443,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 276.86 411.48 0)
+			(at 279.4 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18445,7 +18468,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:MCP23017_SO")
-		(at 152.4 398.78 0)
+		(at 154.94 370.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18453,7 +18476,7 @@
 		(dnp no)
 		(uuid "44cfdfe0-8609-43f5-a5d1-de3662bc3ac7")
 		(property "Reference" "U1"
-			(at 152.4 398.78 0)
+			(at 154.94 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18462,7 +18485,7 @@
 			)
 		)
 		(property "Value" "MCP23017_SO"
-			(at 152.4 398.78 0)
+			(at 154.94 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18471,7 +18494,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOIC-28_300MIL"
-			(at 152.4 398.78 0)
+			(at 154.94 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18480,7 +18503,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 398.78 0)
+			(at 154.94 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18489,7 +18512,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 398.78 0)
+			(at 154.94 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18592,7 +18615,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 325.12 426.466 0)
+		(at 327.66 398.526 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18600,7 +18623,7 @@
 		(dnp no)
 		(uuid "45d6d90f-acc7-4ec4-a8c2-b42423eb3d3c")
 		(property "Reference" "#NetPort33"
-			(at 325.12 426.466 0)
+			(at 327.66 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18609,7 +18632,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 325.12 426.466 0)
+			(at 327.66 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18618,7 +18641,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 325.12 426.466 0)
+			(at 327.66 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18627,7 +18650,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.12 426.466 0)
+			(at 327.66 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18636,7 +18659,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 325.12 426.466 0)
+			(at 327.66 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18658,7 +18681,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:L7805ABD2T-TR")
-		(at 81.28 172.72 0)
+		(at 86.36 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18666,7 +18689,7 @@
 		(dnp no)
 		(uuid "46ab58cc-58bd-45e2-ab4d-56bab2747c4a")
 		(property "Reference" "U6"
-			(at 81.28 172.72 0)
+			(at 86.36 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18675,7 +18698,7 @@
 			)
 		)
 		(property "Value" "L7805ABD2T-TR"
-			(at 81.28 172.72 0)
+			(at 86.36 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18684,7 +18707,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:DPAK3P254_1542X460L203X81T800X870N_AP1"
-			(at 81.28 172.72 0)
+			(at 86.36 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18693,7 +18716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 172.72 0)
+			(at 86.36 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18702,7 +18725,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 81.28 172.72 0)
+			(at 86.36 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18796,7 +18819,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+5V")
-		(at 345.44 313.69 0)
+		(at 347.98 285.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18804,7 +18827,7 @@
 		(dnp no)
 		(uuid "4e7d02ff-43be-4197-8fc6-ab06fbc12f83")
 		(property "Reference" "#NetPort24"
-			(at 345.44 313.69 0)
+			(at 347.98 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18813,7 +18836,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 345.44 313.69 0)
+			(at 347.98 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18822,7 +18845,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 345.44 313.69 0)
+			(at 347.98 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18831,7 +18854,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 345.44 313.69 0)
+			(at 347.98 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18840,7 +18863,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 345.44 313.69 0)
+			(at 347.98 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18862,7 +18885,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+12V")
-		(at 208.28 278.13 0)
+		(at 210.82 250.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18870,7 +18893,7 @@
 		(dnp no)
 		(uuid "4ee213ae-0c83-457e-8409-7a2d64236353")
 		(property "Reference" "#NetPort19"
-			(at 208.28 278.13 0)
+			(at 210.82 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18879,7 +18902,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 208.28 278.13 0)
+			(at 210.82 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18888,7 +18911,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.28 278.13 0)
+			(at 210.82 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18897,7 +18920,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 278.13 0)
+			(at 210.82 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18906,7 +18929,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 208.28 278.13 0)
+			(at 210.82 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18928,7 +18951,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+5V")
-		(at 88.9 316.23 0)
+		(at 91.44 288.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18936,7 +18959,7 @@
 		(dnp no)
 		(uuid "4f363177-22cb-457c-8ad6-c67de096f9bc")
 		(property "Reference" "#NetPort15"
-			(at 88.9 316.23 0)
+			(at 91.44 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18945,7 +18968,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 88.9 316.23 0)
+			(at 91.44 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18954,7 +18977,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 316.23 0)
+			(at 91.44 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18963,7 +18986,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 316.23 0)
+			(at 91.44 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18972,7 +18995,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 316.23 0)
+			(at 91.44 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19063,7 +19086,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 253.365 239.665 0)
+		(at 255.905 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19071,7 +19094,7 @@
 		(dnp no)
 		(uuid "5414e260-552c-4ce2-a201-84222657336d")
 		(property "Reference" "K13"
-			(at 253.365 239.665 0)
+			(at 255.905 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19080,7 +19103,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 253.365 239.665 0)
+			(at 255.905 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19089,7 +19112,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 253.365 239.665 0)
+			(at 255.905 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19098,7 +19121,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 253.365 239.665 0)
+			(at 255.905 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19107,7 +19130,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 253.365 239.665 0)
+			(at 255.905 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19210,7 +19233,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:RES_1206")
-		(at 99.06 373.38 270)
+		(at 101.6 345.44 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19218,7 +19241,7 @@
 		(dnp no)
 		(uuid "55ffe866-e0a3-4c1c-9678-542768c06e32")
 		(property "Reference" "R2"
-			(at 99.06 373.38 0)
+			(at 101.6 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19227,7 +19250,7 @@
 			)
 		)
 		(property "Value" "3.3K Ohm"
-			(at 99.06 373.38 0)
+			(at 101.6 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19236,7 +19259,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:RES_1206"
-			(at 99.06 373.38 0)
+			(at 101.6 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19245,7 +19268,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 373.38 0)
+			(at 101.6 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19254,7 +19277,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 99.06 373.38 0)
+			(at 101.6 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19279,7 +19302,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:IDC2X5_MALE")
-		(at 35.672 396.142 0)
+		(at 38.212 368.202 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19287,7 +19310,7 @@
 		(dnp no)
 		(uuid "588d4944-82a9-437b-9f30-c51754e11f02")
 		(property "Reference" "J5"
-			(at 35.672 396.142 0)
+			(at 38.212 368.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19296,7 +19319,7 @@
 			)
 		)
 		(property "Value" "BANDS"
-			(at 35.672 396.142 0)
+			(at 38.212 368.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19305,7 +19328,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:IDC10M"
-			(at 35.672 396.142 0)
+			(at 38.212 368.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19314,7 +19337,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.672 396.142 0)
+			(at 38.212 368.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19323,7 +19346,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.672 396.142 0)
+			(at 38.212 368.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19372,7 +19395,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:UDN2987LW")
-		(at 251.46 304.8 90)
+		(at 254 276.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19380,7 +19403,7 @@
 		(dnp no)
 		(uuid "59dbc6d5-0fd5-496a-a0b2-35a96dca8648")
 		(property "Reference" "U4"
-			(at 251.46 304.8 0)
+			(at 254 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19389,7 +19412,7 @@
 			)
 		)
 		(property "Value" "UDN2987LW"
-			(at 269.494 305.054 0)
+			(at 272.034 277.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19398,7 +19421,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOIC-20_300MIL"
-			(at 251.46 304.8 0)
+			(at 254 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19407,7 +19430,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 304.8 0)
+			(at 254 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19416,7 +19439,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 251.46 304.8 0)
+			(at 254 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19573,7 +19596,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 339.725 239.665 0)
+		(at 342.265 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19581,7 +19604,7 @@
 		(dnp no)
 		(uuid "5c6369a2-8e8e-404c-a5fb-0805fc9935c3")
 		(property "Reference" "K17"
-			(at 339.725 239.665 0)
+			(at 342.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19590,7 +19613,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 339.725 239.665 0)
+			(at 342.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19599,7 +19622,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 339.725 239.665 0)
+			(at 342.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19608,7 +19631,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 339.725 239.665 0)
+			(at 342.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19617,7 +19640,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 339.725 239.665 0)
+			(at 342.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19720,7 +19743,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:MCP23008-E/SO")
-		(at 337.82 401.32 0)
+		(at 340.36 373.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19728,7 +19751,7 @@
 		(dnp no)
 		(uuid "6476673f-c848-450f-9bf5-2ace3ae71e09")
 		(property "Reference" "U3"
-			(at 337.82 401.32 0)
+			(at 340.36 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19737,7 +19760,7 @@
 			)
 		)
 		(property "Value" "MCP23008-E/SO"
-			(at 338.074 421.132 0)
+			(at 340.614 393.192 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19745,7 +19768,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOIC18P127_1155X1030X265L83X41N"
-			(at 337.82 401.32 0)
+			(at 340.36 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19754,7 +19777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 337.82 401.32 0)
+			(at 340.36 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19763,7 +19786,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 337.82 401.32 0)
+			(at 340.36 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19914,7 +19937,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+5V")
-		(at 99.06 156.474 0)
+		(at 104.14 145.044 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19922,7 +19945,7 @@
 		(dnp no)
 		(uuid "6a7929a7-bf05-44c5-bdb3-648102676f24")
 		(property "Reference" "#NetPort151"
-			(at 99.06 156.474 0)
+			(at 104.14 145.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19931,7 +19954,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 99.06 156.474 0)
+			(at 104.14 145.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19940,7 +19963,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 156.474 0)
+			(at 104.14 145.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19949,7 +19972,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 156.474 0)
+			(at 104.14 145.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19958,7 +19981,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 99.06 156.474 0)
+			(at 104.14 145.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19980,7 +20003,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 348.234 302.26 270)
+		(at 350.774 274.32 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19988,7 +20011,7 @@
 		(dnp no)
 		(uuid "6abc8eeb-eb25-4d54-959d-fc981a8ce72f")
 		(property "Reference" "#NetPort25"
-			(at 348.234 302.26 0)
+			(at 350.774 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19997,7 +20020,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 348.234 302.26 0)
+			(at 350.774 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20006,7 +20029,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 348.234 302.26 0)
+			(at 350.774 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20015,7 +20038,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 348.234 302.26 0)
+			(at 350.774 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20024,7 +20047,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 348.234 302.26 0)
+			(at 350.774 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20046,7 +20069,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 149.225 239.665 0)
+		(at 151.765 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20054,7 +20077,7 @@
 		(dnp no)
 		(uuid "6c450d22-0945-4ed4-bf7d-7485dbccd39a")
 		(property "Reference" "K6"
-			(at 149.225 239.665 0)
+			(at 151.765 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20063,7 +20086,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 149.225 239.665 0)
+			(at 151.765 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20072,7 +20095,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 149.225 239.665 0)
+			(at 151.765 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20081,7 +20104,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.225 239.665 0)
+			(at 151.765 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20090,7 +20113,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 149.225 239.665 0)
+			(at 151.765 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20124,7 +20147,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAPAE_6.6X6.6H5.4")
-		(at 111.76 182.757 270)
+		(at 116.84 171.327 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20132,7 +20155,7 @@
 		(dnp no)
 		(uuid "6deaa2bc-8377-4171-8d4a-7537d28e3ac3")
 		(property "Reference" "C18"
-			(at 111.76 182.757 0)
+			(at 116.84 171.327 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20141,7 +20164,7 @@
 			)
 		)
 		(property "Value" "220uf 16V"
-			(at 111.76 182.757 0)
+			(at 116.84 171.327 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20150,7 +20173,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAPAE-6.6X6.6H5.4"
-			(at 111.76 182.757 0)
+			(at 116.84 171.327 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20159,7 +20182,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 182.757 0)
+			(at 116.84 171.327 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20168,7 +20191,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 111.76 182.757 0)
+			(at 116.84 171.327 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20193,7 +20216,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 266.065 239.665 0)
+		(at 268.605 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20201,7 +20224,7 @@
 		(dnp no)
 		(uuid "6ed15849-ec3b-4259-8f5f-4d7f6cfb38e2")
 		(property "Reference" "K14"
-			(at 266.065 239.665 0)
+			(at 268.605 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20210,7 +20233,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 266.065 239.665 0)
+			(at 268.605 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20219,7 +20242,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 266.065 239.665 0)
+			(at 268.605 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20228,7 +20251,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.065 239.665 0)
+			(at 268.605 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20237,7 +20260,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 266.065 239.665 0)
+			(at 268.605 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20271,7 +20294,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 317.5 238.506 0)
+		(at 320.04 210.566 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20279,7 +20302,7 @@
 		(dnp no)
 		(uuid "7000ea56-410b-43e3-be8b-3097e90f4204")
 		(property "Reference" "#NetPort18"
-			(at 317.5 238.506 0)
+			(at 320.04 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20288,7 +20311,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 317.5 238.506 0)
+			(at 320.04 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20297,7 +20320,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 317.5 238.506 0)
+			(at 320.04 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20306,7 +20329,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 317.5 238.506 0)
+			(at 320.04 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20315,7 +20338,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 317.5 238.506 0)
+			(at 320.04 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20337,7 +20360,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 227.965 239.665 0)
+		(at 230.505 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20345,7 +20368,7 @@
 		(dnp no)
 		(uuid "709b44bc-d0e2-4a3f-93b0-45d17590863f")
 		(property "Reference" "K11"
-			(at 227.965 239.665 0)
+			(at 230.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20354,7 +20377,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 227.965 239.665 0)
+			(at 230.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20363,7 +20386,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 227.965 239.665 0)
+			(at 230.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20372,7 +20395,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.965 239.665 0)
+			(at 230.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20381,7 +20404,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 227.965 239.665 0)
+			(at 230.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20415,7 +20438,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 99.06 182.758 270)
+		(at 104.14 171.328 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20423,7 +20446,7 @@
 		(dnp no)
 		(uuid "727b212e-5a5b-4f2c-a5a1-240819334641")
 		(property "Reference" "C20"
-			(at 99.06 182.758 0)
+			(at 104.14 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20432,7 +20455,7 @@
 			)
 		)
 		(property "Value" "1uF 16V"
-			(at 99.06 182.758 0)
+			(at 104.14 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20441,7 +20464,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 99.06 182.758 0)
+			(at 104.14 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20450,7 +20473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 182.758 0)
+			(at 104.14 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20459,7 +20482,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 99.06 182.758 0)
+			(at 104.14 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20485,7 +20508,7 @@
 	(symbol
 		(lib_name "SOLDER_JMP_2_8")
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:SOLDER_JMP_2")
-		(at 106.68 396.24 90)
+		(at 109.22 368.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20493,7 +20516,7 @@
 		(dnp no)
 		(uuid "754b2b31-3b69-4d60-83ef-025fa1756631")
 		(property "Reference" "J7"
-			(at 106.68 396.24 0)
+			(at 109.22 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20502,7 +20525,7 @@
 			)
 		)
 		(property "Value" "SOLDER_JMP_2"
-			(at 106.68 396.24 0)
+			(at 109.22 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20511,7 +20534,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOLDER_JMP_2"
-			(at 106.68 396.24 0)
+			(at 109.22 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20520,7 +20543,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 396.24 0)
+			(at 109.22 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20529,7 +20552,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 106.68 396.24 0)
+			(at 109.22 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20776,7 +20799,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 127 426.466 0)
+		(at 129.54 398.526 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20784,7 +20807,7 @@
 		(dnp no)
 		(uuid "806a7e37-8e57-4a71-b300-3180e7da810f")
 		(property "Reference" "#NetPort12"
-			(at 127 426.466 0)
+			(at 129.54 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20793,7 +20816,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 426.466 0)
+			(at 129.54 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20802,7 +20825,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 426.466 0)
+			(at 129.54 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20811,7 +20834,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 426.466 0)
+			(at 129.54 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20820,7 +20843,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 426.466 0)
+			(at 129.54 398.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20911,7 +20934,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:395310002")
-		(at 38.881 152.393 0)
+		(at 43.961 140.963 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20919,7 +20942,7 @@
 		(dnp no)
 		(uuid "82b680fc-b7e9-49d0-b576-4402bcb76d0b")
 		(property "Reference" "J20"
-			(at 38.881 152.393 0)
+			(at 43.961 140.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20928,7 +20951,7 @@
 			)
 		)
 		(property "Value" "395310002"
-			(at 38.881 152.393 0)
+			(at 43.961 140.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20937,7 +20960,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:TBH-1X2_5.08_2SH10X8"
-			(at 38.881 152.393 0)
+			(at 43.961 140.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20946,7 +20969,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.881 152.393 0)
+			(at 43.961 140.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20955,7 +20978,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 38.881 152.393 0)
+			(at 43.961 140.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20980,7 +21003,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 337.82 368.3 0)
+		(at 340.36 340.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20988,7 +21011,7 @@
 		(dnp no)
 		(uuid "850b3417-39b7-4394-aa7d-4f0489643c9b")
 		(property "Reference" "C17"
-			(at 337.82 368.3 0)
+			(at 340.36 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20997,7 +21020,7 @@
 			)
 		)
 		(property "Value" "0.1uF 50V"
-			(at 338.074 372.11 0)
+			(at 340.614 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21005,7 +21028,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 337.82 368.3 0)
+			(at 340.36 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21014,7 +21037,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 337.82 368.3 0)
+			(at 340.36 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21023,7 +21046,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 337.82 368.3 0)
+			(at 340.36 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21114,15 +21137,17 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS_11")
-		(at 342.55 74.2 270)
+		(at 342.55 74.93 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "8f82d8dd-3703-447d-bfb9-e30d45c2b472")
 		(property "Reference" "K20"
-			(at 342.55 74.2 0)
+			(at 342.55 74.93 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21131,7 +21156,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS_11"
-			(at 342.55 74.2 0)
+			(at 342.55 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21140,7 +21165,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 342.55 74.2 0)
+			(at 342.55 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21149,7 +21174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 342.55 74.2 0)
+			(at 342.55 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21158,7 +21183,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 342.55 74.2 0)
+			(at 342.55 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21192,7 +21217,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+5V")
-		(at 210.82 316.23 0)
+		(at 213.36 288.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21200,7 +21225,7 @@
 		(dnp no)
 		(uuid "90da7633-b97c-4151-9579-0c91953fba84")
 		(property "Reference" "#NetPort20"
-			(at 210.82 316.23 0)
+			(at 213.36 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21209,7 +21234,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 210.82 316.23 0)
+			(at 213.36 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21218,7 +21243,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 316.23 0)
+			(at 213.36 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21227,7 +21252,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 316.23 0)
+			(at 213.36 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21236,7 +21261,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 210.82 316.23 0)
+			(at 213.36 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21324,7 +21349,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 109.22 317.5 90)
+		(at 111.76 289.56 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21332,7 +21357,7 @@
 		(dnp no)
 		(uuid "9696895c-3a46-47db-be67-4a2b5d3f7d15")
 		(property "Reference" "C10"
-			(at 109.22 317.5 0)
+			(at 111.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21341,7 +21366,7 @@
 			)
 		)
 		(property "Value" "0.1uF 50V"
-			(at 109.22 317.5 0)
+			(at 111.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21350,7 +21375,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 109.22 317.5 0)
+			(at 111.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21359,7 +21384,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 317.5 0)
+			(at 111.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21368,7 +21393,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 317.5 0)
+			(at 111.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21537,7 +21562,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 278.765 239.665 0)
+		(at 281.305 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21545,7 +21570,7 @@
 		(dnp no)
 		(uuid "97e6a072-acbe-4368-9f2a-6a0619733e41")
 		(property "Reference" "K15"
-			(at 278.765 239.665 0)
+			(at 281.305 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21554,7 +21579,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 278.765 239.665 0)
+			(at 281.305 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21563,7 +21588,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 278.765 239.665 0)
+			(at 281.305 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21572,7 +21597,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 278.765 239.665 0)
+			(at 281.305 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21581,7 +21606,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 278.765 239.665 0)
+			(at 281.305 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21615,7 +21640,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 109.22 297.18 270)
+		(at 111.76 269.24 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21623,7 +21648,7 @@
 		(dnp no)
 		(uuid "9d09cf62-d2cb-4ad9-88d7-0e69c13e2072")
 		(property "Reference" "C13"
-			(at 109.22 297.18 0)
+			(at 111.76 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21632,7 +21657,7 @@
 			)
 		)
 		(property "Value" "0,1uf 50V"
-			(at 109.22 297.18 0)
+			(at 111.76 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21641,7 +21666,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 109.22 297.18 0)
+			(at 111.76 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21650,7 +21675,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 297.18 0)
+			(at 111.76 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21659,7 +21684,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 297.18 0)
+			(at 111.76 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21828,7 +21853,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS_10")
-		(at 354.965 239.665 0)
+		(at 357.505 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21836,7 +21861,7 @@
 		(dnp no)
 		(uuid "a1316c5e-8146-4ce8-b84c-a94650ff5c6c")
 		(property "Reference" "K18"
-			(at 354.965 239.665 0)
+			(at 357.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21845,7 +21870,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS_10"
-			(at 354.965 239.665 0)
+			(at 357.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21854,7 +21879,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 354.965 239.665 0)
+			(at 357.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21863,7 +21888,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 354.965 239.665 0)
+			(at 357.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21872,7 +21897,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 354.965 239.665 0)
+			(at 357.505 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21906,7 +21931,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 63.5 182.758 270)
+		(at 68.58 171.328 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21914,7 +21939,7 @@
 		(dnp no)
 		(uuid "a30143ae-7b22-4e68-96e6-ee47292e0b25")
 		(property "Reference" "C19"
-			(at 63.5 182.758 0)
+			(at 68.58 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21923,7 +21948,7 @@
 			)
 		)
 		(property "Value" "1uF 25V"
-			(at 63.5 182.758 0)
+			(at 68.58 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21932,7 +21957,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 63.5 182.758 0)
+			(at 68.58 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21941,7 +21966,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 182.758 0)
+			(at 68.58 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21950,7 +21975,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 182.758 0)
+			(at 68.58 171.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21975,7 +22000,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:RES_1206")
-		(at 302.26 378.46 270)
+		(at 304.8 350.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21983,7 +22008,7 @@
 		(dnp no)
 		(uuid "a9d29676-c272-4273-ac0f-041e2c4635b4")
 		(property "Reference" "R4"
-			(at 302.26 378.46 0)
+			(at 304.8 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21992,7 +22017,7 @@
 			)
 		)
 		(property "Value" "3.3K Ohm"
-			(at 302.26 378.46 0)
+			(at 304.8 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22001,7 +22026,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:RES_1206"
-			(at 302.26 378.46 0)
+			(at 304.8 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22010,7 +22035,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 302.26 378.46 0)
+			(at 304.8 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22019,7 +22044,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 302.26 378.46 0)
+			(at 304.8 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22045,7 +22070,7 @@
 	(symbol
 		(lib_name "SOLDER_JMP_2_9")
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:SOLDER_JMP_2")
-		(at 119.38 396.24 90)
+		(at 121.92 368.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22053,7 +22078,7 @@
 		(dnp no)
 		(uuid "aa2e6b54-5c86-4fb1-8879-a4f2c29e6629")
 		(property "Reference" "J8"
-			(at 119.38 396.24 0)
+			(at 121.92 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22062,7 +22087,7 @@
 			)
 		)
 		(property "Value" "SOLDER_JMP_2"
-			(at 119.38 396.24 0)
+			(at 121.92 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22071,7 +22096,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOLDER_JMP_2"
-			(at 119.38 396.24 0)
+			(at 121.92 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22080,7 +22105,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 396.24 0)
+			(at 121.92 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22089,7 +22114,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 119.38 396.24 0)
+			(at 121.92 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22114,7 +22139,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 85.725 239.665 0)
+		(at 88.265 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22122,7 +22147,7 @@
 		(dnp no)
 		(uuid "aafbce1c-6899-4458-a2df-46cf27b9c758")
 		(property "Reference" "K1"
-			(at 85.725 239.665 0)
+			(at 88.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22131,7 +22156,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 85.725 239.665 0)
+			(at 88.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22140,7 +22165,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 85.725 239.665 0)
+			(at 88.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22149,7 +22174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.725 239.665 0)
+			(at 88.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22158,7 +22183,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.725 239.665 0)
+			(at 88.265 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22192,7 +22217,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 215.265 239.665 0)
+		(at 217.805 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22200,7 +22225,7 @@
 		(dnp no)
 		(uuid "ab0e9a3c-6384-40a4-b7f3-864bbb6eddaf")
 		(property "Reference" "K10"
-			(at 215.265 239.665 0)
+			(at 217.805 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22209,7 +22234,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 215.265 239.665 0)
+			(at 217.805 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22218,7 +22243,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 215.265 239.665 0)
+			(at 217.805 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22227,7 +22252,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.265 239.665 0)
+			(at 217.805 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22236,7 +22261,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 215.265 239.665 0)
+			(at 217.805 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22270,7 +22295,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 408.94 238.506 0)
+		(at 411.48 210.566 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22278,7 +22303,7 @@
 		(dnp no)
 		(uuid "ad7d14e6-c16c-41fb-bda8-e8d2a252cbb3")
 		(property "Reference" "#NetPort27"
-			(at 408.94 238.506 0)
+			(at 411.48 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22287,7 +22312,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 408.94 238.506 0)
+			(at 411.48 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22296,7 +22321,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 408.94 238.506 0)
+			(at 411.48 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22305,7 +22330,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 408.94 238.506 0)
+			(at 411.48 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22314,7 +22339,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 408.94 238.506 0)
+			(at 411.48 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22336,7 +22361,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 198.12 238.506 0)
+		(at 200.66 210.566 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22344,7 +22369,7 @@
 		(dnp no)
 		(uuid "adb9d072-83d0-41f6-bde8-3ac76690c778")
 		(property "Reference" "#NetPort17"
-			(at 198.12 238.506 0)
+			(at 200.66 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22353,7 +22378,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 198.12 238.506 0)
+			(at 200.66 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22362,7 +22387,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 238.506 0)
+			(at 200.66 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22371,7 +22396,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 238.506 0)
+			(at 200.66 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22380,7 +22405,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 238.506 0)
+			(at 200.66 210.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22549,7 +22574,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:RES_1206")
-		(at 111.76 373.38 270)
+		(at 114.3 345.44 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22557,7 +22582,7 @@
 		(dnp no)
 		(uuid "b2509399-2d94-40d3-884c-f5c7e63732f8")
 		(property "Reference" "R1"
-			(at 111.76 373.38 0)
+			(at 114.3 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22566,7 +22591,7 @@
 			)
 		)
 		(property "Value" "3.3K Ohm"
-			(at 111.76 373.38 0)
+			(at 114.3 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22575,7 +22600,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:RES_1206"
-			(at 111.76 373.38 0)
+			(at 114.3 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22584,7 +22609,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 373.38 0)
+			(at 114.3 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22593,7 +22618,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 111.76 373.38 0)
+			(at 114.3 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22618,7 +22643,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS_11")
-		(at 385.445 239.665 0)
+		(at 387.985 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22626,7 +22651,7 @@
 		(dnp no)
 		(uuid "b26f9470-ff21-43fb-b385-cbe130b5ab49")
 		(property "Reference" "K20"
-			(at 385.445 239.665 0)
+			(at 387.985 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22635,7 +22660,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS_11"
-			(at 385.445 239.665 0)
+			(at 387.985 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22644,7 +22669,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 385.445 239.665 0)
+			(at 387.985 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22653,7 +22678,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 385.445 239.665 0)
+			(at 387.985 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22662,7 +22687,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 385.445 239.665 0)
+			(at 387.985 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22921,7 +22946,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 352.806 368.3 90)
+		(at 355.346 340.36 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22929,7 +22954,7 @@
 		(dnp no)
 		(uuid "ba525ffc-a5b2-4f2f-842d-7609440b9ad4")
 		(property "Reference" "#NetPort36"
-			(at 352.806 368.3 0)
+			(at 355.346 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22938,7 +22963,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 352.806 368.3 0)
+			(at 355.346 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22947,7 +22972,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 352.806 368.3 0)
+			(at 355.346 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22956,7 +22981,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 352.806 368.3 0)
+			(at 355.346 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22965,7 +22990,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 352.806 368.3 0)
+			(at 355.346 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22987,7 +23012,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:UDN2987LW")
-		(at 134.62 304.8 90)
+		(at 137.16 276.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22995,7 +23020,7 @@
 		(dnp no)
 		(uuid "bb58e5b9-72fc-447e-81f8-b552b3dd8ba4")
 		(property "Reference" "U2"
-			(at 134.62 304.8 0)
+			(at 137.16 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23004,7 +23029,7 @@
 			)
 		)
 		(property "Value" "UDN2987LW"
-			(at 155.194 305.054 0)
+			(at 157.734 277.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23012,7 +23037,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOIC-20_300MIL"
-			(at 134.62 304.8 0)
+			(at 137.16 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23021,7 +23046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 304.8 0)
+			(at 137.16 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23030,7 +23055,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 304.8 0)
+			(at 137.16 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23179,7 +23204,7 @@
 	(symbol
 		(lib_name "SOLDER_JMP_2_10")
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:SOLDER_JMP_2")
-		(at 289.56 411.48 90)
+		(at 292.1 383.54 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23187,7 +23212,7 @@
 		(dnp no)
 		(uuid "bf209721-c0e2-43d3-9737-7961228856cd")
 		(property "Reference" "J10"
-			(at 289.56 411.48 0)
+			(at 292.1 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23195,7 +23220,7 @@
 			)
 		)
 		(property "Value" "SOLDER_JMP_2"
-			(at 289.56 411.48 0)
+			(at 292.1 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23204,7 +23229,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOLDER_JMP_2"
-			(at 289.56 411.48 0)
+			(at 292.1 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23213,7 +23238,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 411.48 0)
+			(at 292.1 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23222,7 +23247,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 289.56 411.48 0)
+			(at 292.1 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23247,7 +23272,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+12V")
-		(at 342.9 275.59 0)
+		(at 345.44 247.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23255,7 +23280,7 @@
 		(dnp no)
 		(uuid "c20f6cdc-df21-45b9-9e12-d13c105baac5")
 		(property "Reference" "#NetPort23"
-			(at 342.9 275.59 0)
+			(at 345.44 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23264,7 +23289,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 342.9 275.59 0)
+			(at 345.44 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23273,7 +23298,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 342.9 275.59 0)
+			(at 345.44 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23282,7 +23307,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 342.9 275.59 0)
+			(at 345.44 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23291,7 +23316,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 342.9 275.59 0)
+			(at 345.44 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23391,7 +23416,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:MAIN_GND")
-		(at 25.4 410.21 0)
+		(at 27.94 382.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23399,7 +23424,7 @@
 		(dnp no)
 		(uuid "c373b900-c888-4097-bfe7-80de1b43504b")
 		(property "Reference" "#NetPort29"
-			(at 25.4 410.21 0)
+			(at 27.94 382.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23408,7 +23433,7 @@
 			)
 		)
 		(property "Value" "MAIN_GND"
-			(at 25.4 410.21 0)
+			(at 27.94 382.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23417,7 +23442,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 25.4 410.21 0)
+			(at 27.94 382.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23426,7 +23451,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 410.21 0)
+			(at 27.94 382.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23435,7 +23460,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 25.4 410.21 0)
+			(at 27.94 382.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23457,7 +23482,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 223.52 312.42 270)
+		(at 226.06 284.48 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23465,7 +23490,7 @@
 		(dnp no)
 		(uuid "c45bf74b-b426-4596-a860-fd3179e94e3c")
 		(property "Reference" "C12"
-			(at 223.52 312.42 0)
+			(at 226.06 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23474,7 +23499,7 @@
 			)
 		)
 		(property "Value" "0,1uf 50V"
-			(at 223.52 312.42 0)
+			(at 226.06 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23483,7 +23508,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 223.52 312.42 0)
+			(at 226.06 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23492,7 +23517,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 312.42 0)
+			(at 226.06 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23501,7 +23526,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 312.42 0)
+			(at 226.06 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23604,7 +23629,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 98.425 239.665 0)
+		(at 100.965 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23612,7 +23637,7 @@
 		(dnp no)
 		(uuid "c857351e-9d12-4a8e-ad9b-4546e5b25b9c")
 		(property "Reference" "K2"
-			(at 98.425 239.665 0)
+			(at 100.965 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23621,7 +23646,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 98.425 239.665 0)
+			(at 100.965 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23630,7 +23655,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 98.425 239.665 0)
+			(at 100.965 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23639,7 +23664,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 98.425 239.665 0)
+			(at 100.965 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23648,7 +23673,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 98.425 239.665 0)
+			(at 100.965 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23682,7 +23707,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:RES_1206")
-		(at 86.36 373.38 270)
+		(at 88.9 345.44 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23690,7 +23715,7 @@
 		(dnp no)
 		(uuid "cdff193b-50f6-4699-b0de-6d6987e2d562")
 		(property "Reference" "R3"
-			(at 86.36 373.38 0)
+			(at 88.9 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23699,7 +23724,7 @@
 			)
 		)
 		(property "Value" "3.3K Ohm"
-			(at 86.36 373.38 0)
+			(at 88.9 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23708,7 +23733,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:RES_1206"
-			(at 86.36 373.38 0)
+			(at 88.9 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23717,7 +23742,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 373.38 0)
+			(at 88.9 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23726,7 +23751,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 373.38 0)
+			(at 88.9 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23751,7 +23776,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 202.565 239.665 0)
+		(at 205.105 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23759,7 +23784,7 @@
 		(dnp no)
 		(uuid "ceb8454d-b8c7-41ac-b80d-796b777aee17")
 		(property "Reference" "K9"
-			(at 202.565 239.665 0)
+			(at 205.105 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23768,7 +23793,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 202.565 239.665 0)
+			(at 205.105 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23777,7 +23802,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 202.565 239.665 0)
+			(at 205.105 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23786,7 +23811,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 202.565 239.665 0)
+			(at 205.105 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23795,7 +23820,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 202.565 239.665 0)
+			(at 205.105 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23898,7 +23923,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 223.52 297.18 270)
+		(at 226.06 269.24 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23906,7 +23931,7 @@
 		(dnp no)
 		(uuid "d02cb568-f179-4372-9ecc-76c1715e6a10")
 		(property "Reference" "C11"
-			(at 223.52 297.18 0)
+			(at 226.06 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23915,7 +23940,7 @@
 			)
 		)
 		(property "Value" "0,1uf 50V"
-			(at 223.52 297.18 0)
+			(at 226.06 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23924,7 +23949,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 223.52 297.18 0)
+			(at 226.06 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23933,7 +23958,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 297.18 0)
+			(at 226.06 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23942,7 +23967,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 297.18 0)
+			(at 226.06 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24036,7 +24061,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 111.125 239.665 0)
+		(at 113.665 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24044,7 +24069,7 @@
 		(dnp no)
 		(uuid "d7042876-8206-45f4-84fd-b0ce6a36ac48")
 		(property "Reference" "K3"
-			(at 111.125 239.665 0)
+			(at 113.665 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24053,7 +24078,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 111.125 239.665 0)
+			(at 113.665 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24062,7 +24087,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 111.125 239.665 0)
+			(at 113.665 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24071,7 +24096,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.125 239.665 0)
+			(at 113.665 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24080,7 +24105,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 111.125 239.665 0)
+			(at 113.665 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24115,7 +24140,7 @@
 	(symbol
 		(lib_name "SOLDER_JMP_2_11")
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:SOLDER_JMP_2")
-		(at 93.98 396.24 90)
+		(at 96.52 368.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24123,7 +24148,7 @@
 		(dnp no)
 		(uuid "d71420f5-4166-4bad-98dc-fefac2132424")
 		(property "Reference" "J6"
-			(at 93.98 396.24 0)
+			(at 96.52 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24132,7 +24157,7 @@
 			)
 		)
 		(property "Value" "SOLDER_JMP_2"
-			(at 93.98 396.24 0)
+			(at 96.52 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24141,7 +24166,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:SOLDER_JMP_2"
-			(at 93.98 396.24 0)
+			(at 96.52 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24150,7 +24175,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 396.24 0)
+			(at 96.52 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24159,7 +24184,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 396.24 0)
+			(at 96.52 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24340,7 +24365,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+5V")
-		(at 320.04 361.95 0)
+		(at 322.58 334.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24348,7 +24373,7 @@
 		(dnp no)
 		(uuid "dcd139b7-9817-4667-a9a3-fe6aa7ce853b")
 		(property "Reference" "#NetPort37"
-			(at 320.04 361.95 0)
+			(at 322.58 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24357,7 +24382,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 320.04 361.95 0)
+			(at 322.58 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24366,7 +24391,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 320.04 361.95 0)
+			(at 322.58 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24375,7 +24400,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 361.95 0)
+			(at 322.58 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24384,7 +24409,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 320.04 361.95 0)
+			(at 322.58 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24406,7 +24431,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 291.465 239.665 0)
+		(at 294.005 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24414,7 +24439,7 @@
 		(dnp no)
 		(uuid "dd0d5831-383b-4e3e-93bb-94f9f0601d7c")
 		(property "Reference" "K16"
-			(at 291.465 239.665 0)
+			(at 294.005 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24423,7 +24448,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 291.465 239.665 0)
+			(at 294.005 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24432,7 +24457,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 291.465 239.665 0)
+			(at 294.005 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24441,7 +24466,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 291.465 239.665 0)
+			(at 294.005 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24450,7 +24475,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 291.465 239.665 0)
+			(at 294.005 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24628,7 +24653,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 240.665 239.665 0)
+		(at 243.205 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24636,7 +24661,7 @@
 		(dnp no)
 		(uuid "e4f98474-df03-42ce-a456-d6f088d32d10")
 		(property "Reference" "K12"
-			(at 240.665 239.665 0)
+			(at 243.205 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24645,7 +24670,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 240.665 239.665 0)
+			(at 243.205 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24654,7 +24679,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 240.665 239.665 0)
+			(at 243.205 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24663,7 +24688,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.665 239.665 0)
+			(at 243.205 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24672,7 +24697,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.665 239.665 0)
+			(at 243.205 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24772,7 +24797,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 152.4 360.68 0)
+		(at 154.94 332.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24780,7 +24805,7 @@
 		(dnp no)
 		(uuid "e92442a4-d6c7-467d-a6e9-64a589965c31")
 		(property "Reference" "C16"
-			(at 152.4 360.68 0)
+			(at 154.94 332.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24789,7 +24814,7 @@
 			)
 		)
 		(property "Value" "0.1uf 50V"
-			(at 152.4 360.68 0)
+			(at 154.94 332.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24798,7 +24823,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 152.4 360.68 0)
+			(at 154.94 332.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24807,7 +24832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 360.68 0)
+			(at 154.94 332.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24816,7 +24841,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 360.68 0)
+			(at 154.94 332.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24910,7 +24935,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 81.28 197.744 0)
+		(at 86.36 186.314 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24918,7 +24943,7 @@
 		(dnp no)
 		(uuid "ecc5eb24-ba52-4bef-b691-bd1e1fcccc82")
 		(property "Reference" "#NetPort158"
-			(at 81.28 197.744 0)
+			(at 86.36 186.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24927,7 +24952,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 197.744 0)
+			(at 86.36 186.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24936,7 +24961,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 197.744 0)
+			(at 86.36 186.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24945,7 +24970,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 197.744 0)
+			(at 86.36 186.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24954,7 +24979,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 81.28 197.744 0)
+			(at 86.36 186.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24976,7 +25001,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 358.14 294.64 270)
+		(at 360.68 266.7 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24984,7 +25009,7 @@
 		(dnp no)
 		(uuid "f05e27a8-25bd-4eb5-8b0d-c13456561550")
 		(property "Reference" "C14"
-			(at 358.14 294.64 0)
+			(at 360.68 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24993,7 +25018,7 @@
 			)
 		)
 		(property "Value" "0,1uf 50V"
-			(at 358.14 294.64 0)
+			(at 360.68 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25002,7 +25027,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 358.14 294.64 0)
+			(at 360.68 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25011,7 +25036,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 358.14 294.64 0)
+			(at 360.68 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25020,7 +25045,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 358.14 294.64 0)
+			(at 360.68 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25045,7 +25070,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 40.972 137.732 270)
+		(at 46.052 126.302 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25053,7 +25078,7 @@
 		(dnp no)
 		(uuid "f0c5e09c-0595-446b-a8b0-643541e54580")
 		(property "Reference" "#NetPort147"
-			(at 40.972 137.732 0)
+			(at 46.052 126.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25062,7 +25087,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 40.972 137.732 0)
+			(at 46.052 126.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25071,7 +25096,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.972 137.732 0)
+			(at 46.052 126.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25080,7 +25105,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.972 137.732 0)
+			(at 46.052 126.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25089,7 +25114,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 40.972 137.732 0)
+			(at 46.052 126.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25111,7 +25136,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 167.64 360.426 90)
+		(at 170.18 332.486 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25119,7 +25144,7 @@
 		(dnp no)
 		(uuid "f1f16b9a-50b9-4361-9664-d965baffaca9")
 		(property "Reference" "#NetPort38"
-			(at 167.64 360.426 0)
+			(at 170.18 332.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25128,7 +25153,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 167.64 360.426 0)
+			(at 170.18 332.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25137,7 +25162,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 360.426 0)
+			(at 170.18 332.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25146,7 +25171,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 360.426 0)
+			(at 170.18 332.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25155,7 +25180,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.64 360.426 0)
+			(at 170.18 332.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25312,7 +25337,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 123.825 239.665 0)
+		(at 126.365 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25320,7 +25345,7 @@
 		(dnp no)
 		(uuid "f8871e12-418f-4640-ada0-e5b7b7be1341")
 		(property "Reference" "K4"
-			(at 123.825 239.665 0)
+			(at 126.365 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25329,7 +25354,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 123.825 239.665 0)
+			(at 126.365 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25338,7 +25363,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 123.825 239.665 0)
+			(at 126.365 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25347,7 +25372,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.825 239.665 0)
+			(at 126.365 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25356,7 +25381,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.825 239.665 0)
+			(at 126.365 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25390,7 +25415,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 136.525 239.665 0)
+		(at 139.065 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25398,7 +25423,7 @@
 		(dnp no)
 		(uuid "fa2d3204-7d17-468b-a4b0-c0e0711e5fe5")
 		(property "Reference" "K5"
-			(at 136.525 239.665 0)
+			(at 139.065 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25407,7 +25432,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 136.525 239.665 0)
+			(at 139.065 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25416,7 +25441,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 136.525 239.665 0)
+			(at 139.065 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25425,7 +25450,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 136.525 239.665 0)
+			(at 139.065 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25434,7 +25459,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 136.525 239.665 0)
+			(at 139.065 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25468,7 +25493,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:GND")
-		(at 279.146 320.04 90)
+		(at 281.686 292.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25476,7 +25501,7 @@
 		(dnp no)
 		(uuid "fadca20a-e089-4d18-b362-f38c5f700648")
 		(property "Reference" "#NetPort22"
-			(at 279.146 320.04 0)
+			(at 281.686 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25485,7 +25510,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 279.146 320.04 0)
+			(at 281.686 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25494,7 +25519,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 279.146 320.04 0)
+			(at 281.686 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25503,7 +25528,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 279.146 320.04 0)
+			(at 281.686 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25512,7 +25537,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 279.146 320.04 0)
+			(at 281.686 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25534,7 +25559,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:+12V")
-		(at 109.22 283.21 0)
+		(at 111.76 255.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25542,7 +25567,7 @@
 		(dnp no)
 		(uuid "fb294b57-f095-4074-9ac4-5b5abece4382")
 		(property "Reference" "#NetPort35"
-			(at 109.22 283.21 0)
+			(at 111.76 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25551,7 +25576,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 109.22 283.21 0)
+			(at 111.76 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25560,7 +25585,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 283.21 0)
+			(at 111.76 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25569,7 +25594,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 283.21 0)
+			(at 111.76 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25578,7 +25603,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 283.21 0)
+			(at 111.76 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25600,7 +25625,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:HF41F-12-ZS")
-		(at 174.625 239.665 0)
+		(at 177.165 211.725 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25608,7 +25633,7 @@
 		(dnp no)
 		(uuid "fb4f4481-d90a-4fe1-99bd-b3e13adfbf53")
 		(property "Reference" "K8"
-			(at 174.625 239.665 0)
+			(at 177.165 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25617,7 +25642,7 @@
 			)
 		)
 		(property "Value" "HF41F-12-ZS"
-			(at 174.625 239.665 0)
+			(at 177.165 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25626,7 +25651,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:HF41F-12-ZS"
-			(at 174.625 239.665 0)
+			(at 177.165 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25635,7 +25660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 174.625 239.665 0)
+			(at 177.165 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25644,7 +25669,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 174.625 239.665 0)
+			(at 177.165 211.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25747,7 +25772,7 @@
 	)
 	(symbol
 		(lib_id "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import:CAP_1206")
-		(at 358.14 309.88 270)
+		(at 360.68 281.94 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25755,7 +25780,7 @@
 		(dnp no)
 		(uuid "fee40cce-fcee-4b93-8192-cc442cd5f2d5")
 		(property "Reference" "C15"
-			(at 358.14 309.88 0)
+			(at 360.68 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25764,7 +25789,7 @@
 			)
 		)
 		(property "Value" "0,1uf 50V"
-			(at 358.14 309.88 0)
+			(at 360.68 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25773,7 +25798,7 @@
 			)
 		)
 		(property "Footprint" "K9HZ_100W_Antenna_Tuner_V1.10:CAP_1206"
-			(at 358.14 309.88 0)
+			(at 360.68 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25782,7 +25807,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 358.14 309.88 0)
+			(at 360.68 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25791,7 +25816,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 358.14 309.88 0)
+			(at 360.68 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)

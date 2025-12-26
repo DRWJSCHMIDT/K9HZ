@@ -1,0 +1,66 @@
+#  	Quantity 	RefDes 	Value      	Name              
+_____________________________________________________________
+
+1  	1        	C1     	0.1uf 50V  	CAP_1206          
+2  	1        	C2     	0.1uf 50V  	CAP_1206          
+3  	1        	C3     	0.1uf 50V  	CAP_1206          
+4  	1        	C4     	0.1uf 50V  	CAP_1206          
+5  	1        	C5     	0.1uf 50V  	CAP_1206          
+6  	1        	C6     	0.1uf 50V  	CAP_1206          
+7  	1        	C7     	0.1uf 50V  	CAP_1206          
+8  	1        	C8     	0.1uf 50V  	CAP_1206          
+9  	1        	C9     	0.1uf 50V  	CAP_1206          
+10 	1        	C10    	0.1uf 50V  	CAP_1206          
+11 	1        	C11    	0.1uf 50V  	CAP_1206          
+12 	1        	C12    	0.1uf 50V  	CAP_1206          
+13 	1        	C13    	0.1uf 50V  	CAP_1206          
+14 	1        	C14    	0.1uf 50V  	CAP_1206          
+15 	1        	C15    	0.1uf 50V  	CAP_1206          
+16 	1        	C16    	0.1uf 50V  	CAP_1206          
+17 	1        	C17    	0.1uf 50V  	CAP_1206          
+18 	1        	C18    	0.1uf 50V  	CAP_1206          
+19 	1        	C19    	0.1uf 50V  	CAP_1206          
+20 	1        	C20    	220uf 16V  	CAPAE_6.6x6.6h5.4 
+21 	1        	C21    	1uF 25V    	CAP_1206          
+22 	1        	C22    	1uF 16V    	CAP_1206          
+23 	1        	C23    	0.1uf 50V  	CAP_1206          
+24 	1        	C24    	0.1uf 50V  	CAP_1206          
+25 	1        	C25    	0.1uf 50V  	CAP_1206          
+26 	1        	C26    	0.1uf 50V  	CAP_1206          
+27 	1        	C27    	0.1uf 50V  	CAP_1206          
+28 	1        	C28    	0.1uF 50V  	CAP_1206          
+29 	1        	C29    	0.1uf 50V  	CAP_1206          
+30 	1        	C30    	0.1uF 50V  	CAP_1206          
+31 	1        	C31    	0.01uF 50V 	CAP_1206          
+32 	1        	C32    	0.01uF 50V 	CAP_1206          
+33 	1        	D1     	           	BAS70H,115        
+34 	1        	D2     	           	BAS70H,115        
+35 	1        	J1     	           	1986717-8         
+36 	1        	J2     	           	1986717-8         
+37 	1        	J3     	           	1986717-8         
+38 	1        	J4     	           	395310002         
+39 	1        	J5     	BANDS      	IDC2x5_Male       
+40 	1        	J6     	           	Solder_JMP_2      
+41 	1        	J7     	           	Solder_JMP_2      
+42 	1        	J8     	           	Solder_JMP_2      
+43 	1        	J9     	           	Solder_JMP_2      
+44 	1        	J10    	           	Solder_JMP_2      
+45 	1        	J11    	           	Solder_JMP_2      
+46 	1        	R1     	3.3K Ohm   	RES_1206          
+47 	1        	R2     	3.3K Ohm   	RES_1206          
+48 	1        	R3     	3.3K Ohm   	RES_1206          
+49 	1        	R4     	3.3K Ohm   	RES_1206          
+50 	1        	R5     	3.3K Ohm   	RES_1206          
+51 	1        	R6     	3.3K Ohm   	RES_1206          
+52 	1        	R7     	22K        	3296W             
+53 	1        	R8     	52.3 Ohm   	RES_1206          
+54 	1        	R9     	10K        	RES_0805          
+55 	1        	R10    	22K        	3296W             
+56 	1        	R11    	52.3 Ohm   	RES_1206          
+57 	1        	R12    	10K        	RES_1206          
+58 	1        	U1     	           	L7805ABD2T-TR     
+59 	1        	U2     	           	UDN2987LW         
+60 	1        	U3     	           	UDN2987LW         
+61 	1        	U4     	           	UDN2987LW         
+62 	1        	U5     	           	MCP23017_SO       
+63 	1        	U6     	           	MCP23008-E/SO     

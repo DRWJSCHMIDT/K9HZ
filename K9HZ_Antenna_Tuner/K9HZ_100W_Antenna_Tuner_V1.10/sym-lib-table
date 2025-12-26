@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "K9HZ_100W_Antenna_Tuner_V1.10-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/K9HZ_100W_Antenna_Tuner_V1.10-eagle-import.kicad_sym")(options "")(descr ""))
-)

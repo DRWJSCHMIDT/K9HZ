@@ -532,6 +532,14 @@
       {
         "netclass": "Thick 1mm",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Thick 1mm",
+        "pattern": "/TUNE_IN"
+      },
+      {
+        "netclass": "Thick 1mm",
+        "pattern": "/ANT"
       }
     ]
   },
@@ -539,8 +547,8 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
-      "plot": "",
+      "netlist": "./",
+      "plot": "Gerber Files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

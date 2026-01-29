@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "K9HZ_RF_Board-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/K9HZ_RF_Board-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "WCAP-CSMH_0805_H0.8")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/885342207013/WCAP-CSMH_0805_H0.8.kicad_sym")(options "")(descr ""))
+  (lib (name "HF41F_12-ZS")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/LIB_HF41F_12-ZS/HF41F_12-ZS.kicad_sym")(options "")(descr ""))
+  (lib (name "PhilsLibrary")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/Phils/PhilsLibrary.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "diptrace-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/diptrace-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "L7805ABD2T-TR")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/L7805ABD2TTR/L7805ABD2T-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "UDN2987LWTR-6-T")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/UDN2987LW/UDN2987LWTR-6-T.kicad_sym")(options "")(descr ""))
+  (lib (name "EEEFK1C221XP")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/CAP6x6/EEEFK1C221XP.kicad_sym")(options "")(descr ""))
+  (lib (name "CONN_SD-39531-003_02P_MOL")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/395310002/CONN_SD-39531-003_02P_MOL.kicad_sym")(options "")(descr ""))
+  (lib (name "3296W-1-203")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/TRIM_3296/3296W-1-203.kicad_sym")(options "")(descr ""))
+)

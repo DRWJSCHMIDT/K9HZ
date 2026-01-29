@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8338
+D 18 MHz Variable Gain Amplifier, 0-80dB, Low Power, AGC
+K amplifier vga lna
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8338.pdf
+$ENDCMP
+#
+$CMP BF998R
+D Silicon N-channel dual-gate MOS-FETs
+K mosfet
+$ENDCMP
+#
+$CMP G6K-2F-RF
+D Miniature 2-pole relay, Single-side Stable
+K Miniature Relay Dual Pole DPDT Omron
+F http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
+$ENDCMP
+#
+$CMP LT3959EUHE
+D Wide Input Voltage Range Boost/SEPIC/Inverting Converter with 6A, 40V Switch
+K sepic buck boost
+$ENDCMP
+#
+$CMP LT3959EUHE#TRPBF
+D Wide Input Voltage Range Boost/SEPIC/Inverting Converter with 6A, 40V Switch
+K sepic buck boost
+$ENDCMP
+#
+$CMP LT3959IUHE#PBF
+D Wide Input Voltage Range Boost/SEPIC/Inverting Converter with 6A, 40V Switch
+K sepic buck boost
+$ENDCMP
+#
+$CMP LT3959IUHE#TRPBF
+D Wide Input Voltage Range Boost/SEPIC/Inverting Converter with 6A, 40V Switch
+K sepic buck boost
+$ENDCMP
+#
+$CMP LTC1871
+D Wide Input Range, No RSENSE Current Mode Boost, Flyback and SEPIC Controller
+K Boost, Flyback, SEPIC, DCDC
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1871fe.pdf
+$ENDCMP
+#
+$CMP LTC1871-1
+D LTC1871-1 differs from the LTC1871 by having a lower pulse skip threshold, making it ideal for applications requiring constant frequency operation at light loads
+K Boost, Flyback, SEPIC, DCDC
+F https://www.analog.com/media/en/technical-documentation/data-sheets/18711fb.pdf
+$ENDCMP
+#
+$CMP LTC5562
+D  LF–7GHz Wideband Low Power Active Mixer
+K mixer
+F https://www.analog.com/media/en/technical-documentation/data-sheets/5562f.pdf
+$ENDCMP
+#
+$CMP L_Core_Ferrite_Coupled_12345
+D Coupled inductor with ferrite core
+K inductor choke coil reactor magnetic coupled
+F ~
+$ENDCMP
+#
+$CMP MAX9768
+D 10W Mono Class D Speaker Amplifier with Volume Control
+K Amplifier
+F https://datasheets.maximintegrated.com/en/ds/MAX9768.pdf
+$ENDCMP
+#
+$CMP Rotary_Encoder_Switch_MP
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP SSM3302
+D Filterless stereo Class-D audio amplifier, 2x10W @ 12V
+K amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/SSM3302.pdf
+$ENDCMP
+#
+$CMP SSM3582A
+D Digital Input Filterless Stereo Class D Audio Amplifier 2×32 W
+K I2S, TDM, Amplifier
+$ENDCMP
+#
+#End Doc Library

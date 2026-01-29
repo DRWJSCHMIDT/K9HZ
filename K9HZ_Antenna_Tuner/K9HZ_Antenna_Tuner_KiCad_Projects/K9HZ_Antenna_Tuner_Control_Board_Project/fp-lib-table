@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "L7805ABD2TTR")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/L7805ABD2TTR")(options "")(descr ""))
+  (lib (name "UDN2987LW")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/UDN2987LW")(options "")(descr ""))
+  (lib (name "395310002")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/395310002")(options "")(descr ""))
+  (lib (name "CAP6x6")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/CAP6x6")(options "")(descr ""))
+  (lib (name "EEE_FK1C221XP")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/EEE_FK1C221XP")(options "")(descr ""))
+  (lib (name "Connector_IDC")(type "KiCad")(uri "${KIPRJMOD}/KiCadParts/Connector_IDC")(options "")(descr ""))
+)

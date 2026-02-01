@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.2,
-          "height": 2.2,
-          "width": 2.2
+          "drill": 1.0,
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "K9HZ_Antenna_Tuner.kicad_pro",
+    "filename": "K9HZ_Antenna_Tuner_Control_Board.kicad_pro",
     "version": 3
   },
   "net_settings": {

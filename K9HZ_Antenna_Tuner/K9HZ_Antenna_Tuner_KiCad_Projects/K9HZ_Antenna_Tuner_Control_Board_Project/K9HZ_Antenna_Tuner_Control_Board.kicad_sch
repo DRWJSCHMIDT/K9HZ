@@ -4777,6 +4777,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 95.25 217.17)
+		(end 290.83 259.08)
+		(stroke
+			(width 1.27)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 12c2d919-8ed9-4755-a88b-78fe2d142867)
+	)
 	(text "C1\nC2\nC3\nC4\nC5\nC6\nC7\nC8"
 		(exclude_from_sim no)
 		(at 226.06 34.29 90)
@@ -5007,6 +5019,19 @@
 			(justify left top)
 		)
 		(uuid "e4f79ef9-4da5-4399-8f8a-e76b0fc9373f")
+	)
+	(text "LINE SECTION OPTION:\nNOT USED FOR T41 WITH LPF LINE SECTION"
+		(exclude_from_sim no)
+		(at 100.33 252.73 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "f1a41453-d403-4787-b31f-5fdbd1f87d25")
 	)
 	(text "J1"
 		(exclude_from_sim no)
@@ -5332,12 +5357,6 @@
 		(uuid "9f1d536a-23fc-45f7-a0fe-9f8288a802fb")
 	)
 	(junction
-		(at 276.86 234.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a2327a8a-8f96-40a8-8e5d-d5d3877be490")
-	)
-	(junction
 		(at 193.04 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5462,12 +5481,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9471c1b-e714-4df9-8346-388096f5005d")
-	)
-	(junction
-		(at 189.23 220.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ea03475d-7433-4f53-9628-6082698d8740")
 	)
 	(junction
 		(at 274.32 182.88)
@@ -5803,16 +5816,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 220.98) (xy 387.35 220.98)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "0c3248c5-62db-41e9-aa8c-e67fdd8949de")
-	)
-	(wire
-		(pts
 			(xy 226.06 43.18) (xy 226.06 45.72)
 		)
 		(stroke
@@ -6053,16 +6056,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 220.98) (xy 175.26 220.98)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "1fc19808-ff92-49c1-a579-c8a7d1ac6da0")
-	)
-	(wire
-		(pts
 			(xy 49.53 194.31) (xy 58.42 194.31)
 		)
 		(stroke
@@ -6200,16 +6193,6 @@
 			(type solid)
 		)
 		(uuid "27e2d9bf-3280-4daf-bfa4-d92f7881f9f3")
-	)
-	(wire
-		(pts
-			(xy 189.23 220.98) (xy 189.23 222.25)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "28827ba8-e06f-431c-9963-c2f4d7489268")
 	)
 	(wire
 		(pts
@@ -6703,16 +6686,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 231.14) (xy 189.23 231.14)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "4a1ba485-6ca2-4711-85e6-d764cc9a256f")
-	)
-	(wire
-		(pts
 			(xy 261.62 134.62) (xy 274.32 134.62)
 		)
 		(stroke
@@ -6973,16 +6946,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 224.79) (xy 276.86 234.95)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "6a03c495-f367-49f0-95b5-165737f4cbdb")
-	)
-	(wire
-		(pts
 			(xy 228.6 43.18) (xy 228.6 52.07)
 		)
 		(stroke
@@ -7133,16 +7096,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 234.95) (xy 276.86 236.22)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "71d2bb34-8af3-4e89-aec5-647bedac3af3")
-	)
-	(wire
-		(pts
 			(xy 274.32 179.07) (xy 274.32 182.88)
 		)
 		(stroke
@@ -7240,16 +7193,6 @@
 			(type solid)
 		)
 		(uuid "79414fa9-3e61-47ee-913d-5601ad298cf7")
-	)
-	(wire
-		(pts
-			(xy 262.89 245.11) (xy 276.86 245.11)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "7a3e7f30-1f66-4212-9aae-ef0d7d0283c8")
 	)
 	(wire
 		(pts
@@ -7943,16 +7886,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 231.14) (xy 189.23 229.87)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "b8263111-8003-405b-984f-b1c19557eb9a")
-	)
-	(wire
-		(pts
 			(xy 139.7 152.4) (xy 157.48 152.4)
 		)
 		(stroke
@@ -8263,6 +8196,16 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 224.79) (xy 276.86 234.95)
+		)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(uuid "cc37fdd7-406a-4ae7-9279-aee14bab4a47")
+	)
+	(wire
+		(pts
 			(xy 256.54 109.22) (xy 256.54 116.84)
 		)
 		(stroke
@@ -8390,6 +8333,16 @@
 			(type default)
 		)
 		(uuid "d258b49f-c4bd-40f9-a9f2-c816840438c9")
+	)
+	(wire
+		(pts
+			(xy 175.26 220.98) (xy 387.35 220.98)
+		)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(uuid "d3c35e47-bf2c-4744-bea7-a67233fca60f")
 	)
 	(wire
 		(pts
@@ -8530,16 +8483,6 @@
 			(type default)
 		)
 		(uuid "dc2ff3bc-f7ae-44ef-8809-f639caf0d405")
-	)
-	(wire
-		(pts
-			(xy 276.86 245.11) (xy 276.86 243.84)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "dc871892-e247-4c4c-90bc-57b947c295a5")
 	)
 	(wire
 		(pts
@@ -9812,75 +9755,6 @@
 			(project "K9HZ_Antenna_Tuner"
 				(path "/2e84a449-f467-4d7a-9e2d-b7bd8f48501e"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 276.86 240.03 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "10a8f8d8-5fdc-4c94-a051-7f070f903d3c")
-		(property "Reference" "R11"
-			(at 279.273 238.76 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "52.3"
-			(at 274.193 237.744 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 275.844 239.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 276.86 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 276.86 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "55d698a7-6f57-4277-aa43-232538ca7ee2")
-		)
-		(pin "1"
-			(uuid "8538be55-60a1-45ea-8e11-e4b0c4bd3985")
-		)
-		(instances
-			(project "K9HZ_Antenna_Tuner"
-				(path "/2e84a449-f467-4d7a-9e2d-b7bd8f48501e"
-					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -12738,73 +12612,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 173.99 231.14 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7de4360d-aca7-4685-9bed-6957bf4cd238")
-		(property "Reference" "#PWR014"
-			(at 167.64 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 170.18 231.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 173.99 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 173.99 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 173.99 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8a7bbe54-126d-422f-902e-70132eac99e5")
-		)
-		(instances
-			(project "K9HZ_Antenna_Tuner"
-				(path "/2e84a449-f467-4d7a-9e2d-b7bd8f48501e"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 304.8 134.62 90)
 		(unit 1)
@@ -14893,73 +14700,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 262.89 245.11 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cb1ea4aa-9f47-448d-8715-4eb71b115ac9")
-		(property "Reference" "#PWR013"
-			(at 256.54 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 259.08 245.1099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 262.89 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 262.89 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 262.89 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d539a509-8777-4f32-8fe9-aa808e5b8b5e")
-		)
-		(instances
-			(project "K9HZ_Antenna_Tuner"
-				(path "/2e84a449-f467-4d7a-9e2d-b7bd8f48501e"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "diptrace-eagle-import:1986717-8")
 		(at 341.63 36.83 270)
 		(unit 1)
@@ -15605,75 +15345,6 @@
 			(project ""
 				(path "/2e84a449-f467-4d7a-9e2d-b7bd8f48501e"
 					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 189.23 226.06 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e235ab26-b942-40d7-85f6-2d2930db1aed")
-		(property "Reference" "R8"
-			(at 191.643 224.79 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "52.3"
-			(at 186.563 223.774 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 188.214 225.806 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 189.23 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 189.23 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "237b9539-ec51-496d-8902-39c2e6fd04ec")
-		)
-		(pin "1"
-			(uuid "07c16eaf-3b8e-462b-a072-a48d30713b23")
-		)
-		(instances
-			(project "K9HZ_Antenna_Tuner"
-				(path "/2e84a449-f467-4d7a-9e2d-b7bd8f48501e"
-					(reference "R8")
 					(unit 1)
 				)
 			)

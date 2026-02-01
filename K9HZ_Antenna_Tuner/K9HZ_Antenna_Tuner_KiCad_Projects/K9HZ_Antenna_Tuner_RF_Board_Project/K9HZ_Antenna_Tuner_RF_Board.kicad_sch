@@ -2563,6 +2563,7 @@
 			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2990,7 +2991,7 @@
 	)
 	(text "LC -CL"
 		(exclude_from_sim no)
-		(at 118.11 172.72 0)
+		(at 119.634 174.752 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3008,6 +3009,16 @@
 			(justify left top)
 		)
 		(uuid "26673463-4a11-44f4-ae29-b2d76943eba2")
+	)
+	(text "REF"
+		(exclude_from_sim no)
+		(at 71.12 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2677830c-58dd-45c9-8ac7-2d5e3ca2b7b3")
 	)
 	(text "BN43-202"
 		(exclude_from_sim no)
@@ -3031,6 +3042,26 @@
 		)
 		(uuid "4616bd97-c65d-4054-8a2a-8dd6c5216259")
 	)
+	(text "RF IN"
+		(exclude_from_sim no)
+		(at 50.8 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "514a3707-837b-4827-ae7d-07a78c15a738")
+	)
+	(text "RF OUT"
+		(exclude_from_sim no)
+		(at 71.12 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "56f051ef-777c-4656-8cf2-3f66b8f062bf")
+	)
 	(text "BALANCED OUT"
 		(exclude_from_sim no)
 		(at 106.68 176.53 0)
@@ -3041,6 +3072,16 @@
 			(justify left top)
 		)
 		(uuid "5f86184e-41c3-416f-aaeb-018a03a6352d")
+	)
+	(text "FOR"
+		(exclude_from_sim no)
+		(at 120.396 189.23 0)
+		(effects
+			(font
+				(size 1.48 1.48)
+			)
+		)
+		(uuid "68c7d669-11f0-4f7b-a3bd-76c67f45deaa")
 	)
 	(text "BALANCED OUTPUT"
 		(exclude_from_sim no)
@@ -3053,12 +3094,23 @@
 		)
 		(uuid "6a189b1d-2462-434a-97d6-d04fd4be904f")
 	)
-	(text "OPTIONAL LINE SECTION"
+	(text "GND"
 		(exclude_from_sim no)
-		(at 45.72 138.43 0)
+		(at 72.39 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7f485626-cd48-48cb-b3de-fa813404d057")
+	)
+	(text "OPTIONAL LINE SECTION:\nNOT USED FOR T41 WITH\nK9HZ LPF LINE SECTION"
+		(exclude_from_sim no)
+		(at 44.45 138.43 0)
 		(effects
 			(font
 				(size 1.48 1.48)
+				(color 0 0 255 1)
 			)
 			(justify left top)
 		)
@@ -3075,12 +3127,24 @@
 		)
 		(uuid "99c9d07d-a072-4364-9a66-251f70415e00")
 	)
-	(text "POWER LINE SECTION"
+	(text "FOR"
 		(exclude_from_sim no)
-		(at 78.74 63.5 0)
+		(at 50.8 88.9 0)
 		(effects
 			(font
-				(size 2.467 2.467)
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9b336743-758f-4af3-9e42-f6381232d707")
+	)
+	(text "OPTIONAL LINE SECTION"
+		(exclude_from_sim no)
+		(at 77.47 58.42 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+				(thickness 0.4934)
+				(bold yes)
 			)
 			(justify right top)
 		)
@@ -3099,7 +3163,7 @@
 	)
 	(text "BYPASS"
 		(exclude_from_sim no)
-		(at 111.76 179.07 0)
+		(at 114.808 179.07 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -3140,6 +3204,16 @@
 			(justify left bottom)
 		)
 		(uuid "cb7e82dc-af21-400f-a9ed-610b22463173")
+	)
+	(text "REF"
+		(exclude_from_sim no)
+		(at 120.396 192.278 0)
+		(effects
+			(font
+				(size 1.48 1.48)
+			)
+		)
+		(uuid "d561f5f2-07cb-4dd6-9e7d-fe329b95557f")
 	)
 	(text "J5"
 		(exclude_from_sim no)
@@ -3203,12 +3277,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a7652a0-0e6d-4c22-850c-f55e727186d0")
-	)
-	(junction
-		(at 44.45 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0e241875-cdef-44da-8a82-b25dd7a48735")
 	)
 	(junction
 		(at 328.93 22.86)
@@ -3361,6 +3429,12 @@
 		(uuid "b04b9cbc-1097-4ec5-aea9-4713dc0090f1")
 	)
 	(junction
+		(at 43.18 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b36d18d2-5c01-40ae-98af-b6ae173691e7")
+	)
+	(junction
 		(at 247.65 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3489,16 +3563,6 @@
 	(no_connect
 		(at 179.07 45.72)
 		(uuid "de66e9eb-7e32-4603-ba85-92917aac3642")
-	)
-	(wire
-		(pts
-			(xy 49.53 104.14) (xy 44.45 104.14)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "02741540-c98e-4ef9-9cdb-375876adc777")
 	)
 	(wire
 		(pts
@@ -3952,6 +4016,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 104.14) (xy 49.53 104.14)
+		)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(uuid "2d2caa29-88d6-4bc1-87b5-7b2a3e2ac825")
+	)
+	(wire
+		(pts
 			(xy 219.71 93.98) (xy 234.95 93.98)
 		)
 		(stroke
@@ -4159,16 +4233,6 @@
 			(type default)
 		)
 		(uuid "492d1927-51fd-43bc-afad-762ac91b5ed7")
-	)
-	(wire
-		(pts
-			(xy 44.45 104.14) (xy 43.18 104.14)
-		)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(uuid "497c2159-1df3-40d5-931a-f98520bb166a")
 	)
 	(wire
 		(pts
@@ -5202,7 +5266,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 190.5) (xy 149.86 190.5)
+			(xy 43.18 190.5) (xy 149.86 190.5)
 		)
 		(stroke
 			(width 0)
@@ -5392,7 +5456,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 194.31) (xy 73.66 194.31)
+			(xy 73.66 193.04) (xy 149.86 193.04)
 		)
 		(stroke
 			(width 0)
@@ -5592,23 +5656,13 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 194.31) (xy 73.66 153.67)
+			(xy 73.66 193.04) (xy 73.66 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d1122a2e-b588-4c4c-9503-ccd5aba3d61f")
-	)
-	(wire
-		(pts
-			(xy 149.86 193.04) (xy 74.93 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1fd4f05-fc8a-458b-9c43-81f48a8ffc36")
 	)
 	(wire
 		(pts
@@ -5632,7 +5686,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 104.14) (xy 44.45 190.5)
+			(xy 43.18 104.14) (xy 43.18 190.5)
 		)
 		(stroke
 			(width 0.25)
@@ -6019,16 +6073,6 @@
 			(type default)
 		)
 		(uuid "fd301853-2be5-44ed-abca-d06e98e34061")
-	)
-	(wire
-		(pts
-			(xy 74.93 194.31) (xy 74.93 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe252833-1b31-4049-b7ee-96d443c1d5de")
 	)
 	(wire
 		(pts

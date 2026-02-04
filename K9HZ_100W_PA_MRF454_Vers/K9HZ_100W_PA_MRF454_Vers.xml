@@ -1,0 +1,1800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Dad\Documents\GitHub\Temp\K9HZ_Antenna_Tuner-main\K9HZ_Antenna_Tuner\K9HZ_Antenna_Tuner.kicad_sch</source>
+    <date>2026-01-28T14:54:10-0600</date>
+    <tool>Eeschema 9.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>K9HZ 100W AUTO TUNER CONTROL BOARD</title>
+        <company>COPYRIGHT 2025 WJ Schmidt</company>
+        <rev>1.0</rev>
+        <date>2026-01-10</date>
+        <source>K9HZ_Antenna_Tuner.kicad_sch</source>
+        <comment number="1" value="Designed by WJ Schmidt - K9HZ"/>
+        <comment number="2" value="Kicad Schematic Capture and PCB Optimization JWilson - KC7VLO"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e54c756-4d24-4438-85f6-911cddabd780</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13a7e51c-27d8-4758-a0f5-d1ae00d1fe61</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9adf9a8-a723-4ad0-91f7-e4a1723e5152</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>790c0ba4-1aeb-499d-a936-aa38ac675ddb</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc52eab5-ac6e-4f05-ba61-f3f65e8b66ad</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02b93306-e4ff-46d8-bd49-4ba369957ba4</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa037f0a-46ed-4b18-8939-1067d6ac7942</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fa76b9a-2b7a-4ac5-9ec2-ddf7a4d5236f</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e89a9ee3-91b2-4ac8-aec7-3b7f1ca1e0ca</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa5f890b-2de5-4edd-ae1f-d94447f49ff5</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dfcf78e-9ae8-42cd-b7c5-6ea55eb53df7</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f252170e-44f2-46ac-91de-29ac32ba2473</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>374baca3-1f85-4f41-9a5c-0029eda5932b</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8690aa86-7c75-4912-8ad5-6143992ceb05</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca95c00d-3213-4dbd-b22f-a249e8ab8dbc</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>422cac2d-4028-4401-bd01-5dd7e95acab8</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ec1e998-9841-4e6b-9d60-95fcdf5cda0f</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>220c5966-4040-4990-87cb-a786834000f4</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a8100c4-48ab-475b-9b18-1cc786209c97</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>220uf 16V</value>
+      <footprint>EEE_FK1C221XP:CAP_EEEFK1C221XP</footprint>
+      <datasheet>~</datasheet>
+      <description>Polarized capacitor, small US symbol</description>
+      <fields>
+        <field name="Footprint">EEE_FK1C221XP:CAP_EEEFK1C221XP</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d0cc0b1-f383-47a3-9c2d-a1185b84a048</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>1uf 25V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e129357e-ec3d-4245-8b14-5bbc51503bf2</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1uf 16V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52bccaa9-4eb7-4155-bab1-9dadc54a8583</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18b1054b-2a02-4dcc-b6fa-005d6f68cbe5</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a0f3d59-44a0-4b4e-a6e4-8c62796f5584</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d369b497-42a0-458e-a3fe-75fec026c463</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74e6bfde-58c4-4d7b-8f93-ff7ebebecd38</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd08b4ea-5e9b-4e29-8428-afd483535e4b</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e383a68f-1f51-4c37-96a8-dbc8987b592a</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c947eb1e-5a34-492d-b382-45e8a4afe294</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>0.1uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>816a6c39-3f4d-4d15-bbfa-4b6fda18e3cd</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>0.01uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8c79069-389e-4c6b-94ff-0abeed306a5d</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>0.01uf 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f300836c-610e-410c-815a-09ab1cd1892b</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BAS70H,115</value>
+      <footprint>Diode_SMD:Nexperia_CFP3_SOD-123W</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:Nexperia_CFP3_SOD-123W</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="diptrace-eagle-import" part="BAS70H,115" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be17b646-23ac-40f4-a049-2f5cbfeefa88</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>BAS70H,115</value>
+      <footprint>Diode_SMD:Nexperia_CFP3_SOD-123W</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:Nexperia_CFP3_SOD-123W</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="diptrace-eagle-import" part="BAS70H,115" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cd61dd5-d3ca-4e1f-bc34-1072d3460713</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>1986717-8</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="diptrace-eagle-import" part="1986717-8" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>047365e4-6d59-4bde-99f9-08c2ce4f4870</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>1986717-8</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="diptrace-eagle-import" part="1986717-8" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cff42e48-7ed9-472d-b069-967cff5209a4</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>1986717-8</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="diptrace-eagle-import" part="1986717-8" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb2bf7c5-8313-41c7-9c6d-a458ab3f8277</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>IDC2x5</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19eda356-fe53-41f2-a6cd-2ea6fa31087d</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>395310002</value>
+      <footprint>395310002:CONN_SD-39531-003_02P_MOL</footprint>
+      <datasheet>https://www.molex.com/en-us/products/part-detail-pdf/395310002?display=pdf</datasheet>
+      <fields>
+        <field name="Footprint">395310002:CONN_SD-39531-003_02P_MOL</field>
+        <field name="Datasheet">https://www.molex.com/en-us/products/part-detail-pdf/395310002?display=pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="CONN_SD-39531-003_02P_MOL" part="395310002" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="395310002"/>
+      <property name="ki_fp_filters" value="CONN_SD-39531-003_02P_MOL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09e5a89d-f14f-4a38-9097-d8912640f93b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>3.3K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a9ad100-1992-47e0-b918-84008897b718</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>3.3K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1036ddec-3a27-4326-a483-67a0928942a8</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>3.3K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3ab2a83-8d19-40da-878b-23cd3acad755</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>3.3K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1772b6ec-42ea-423f-b626-26cd9fa9d8ff</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>3.3K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dfdaca1-427a-4c0b-bd7f-66dba7588ca9</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>3.3K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea50443a-e24d-4dc9-99dc-596257e61772</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>52.3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e235ab26-b942-40d7-85f6-2d2930db1aed</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>028294cb-f720-428c-887d-97656bd0ab2a</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>52.3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10a8f8d8-5fdc-4c94-a051-7f070f903d3c</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef3ad2be-7bad-4a5f-8409-6cfa9a3f6408</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>L7805ABD2T-TR</value>
+      <footprint>L7805ABD2TTR:L7805ABD2TTR</footprint>
+      <datasheet>https://www.arrow.com/en/products/l7805abd2t-tr/stmicroelectronics?utm_currency=USD&amp;region=nac</datasheet>
+      <description>Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A D2PAK</description>
+      <fields>
+        <field name="Height">4.83</field>
+        <field name="Arrow Part Number">L7805ABD2T-TR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/l7805abd2t-tr/stmicroelectronics?utm_currency=USD&amp;region=nac</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">L7805ABD2T-TR</field>
+        <field name="Footprint">L7805ABD2TTR:L7805ABD2TTR</field>
+        <field name="Datasheet">https://www.arrow.com/en/products/l7805abd2t-tr/stmicroelectronics?utm_currency=USD&amp;region=nac</field>
+        <field name="Description">Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A D2PAK</field>
+      </fields>
+      <libsource lib="L7805ABD2T-TR" part="L7805ABD2T-TR" description="Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A D2PAK"/>
+      <property name="Height" value="4.83"/>
+      <property name="Arrow Part Number" value="L7805ABD2T-TR"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/l7805abd2t-tr/stmicroelectronics?utm_currency=USD&amp;region=nac"/>
+      <property name="Manufacturer_Name" value="STMicroelectronics"/>
+      <property name="Manufacturer_Part_Number" value="L7805ABD2T-TR"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d2faade-446c-460a-b157-e95df49ca9ad</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>UDN2987LWTR-6-T</value>
+      <footprint>UDN2987LW:SOIC127P1030X265-20N</footprint>
+      <datasheet>http://www.allegromicro.com/~/Media/Files/Datasheets/UDN2987-6-Datasheet.pdf</datasheet>
+      <description>ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)</description>
+      <fields>
+        <field name="Height">2.65</field>
+        <field name="Mouser Part Number">250-UDN2987LWTR-6-T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/UDN2987LWTR-6-T?qs=pUKx8fyJudD22%252BB6O7ZQ3w%3D%3D</field>
+        <field name="Manufacturer_Name">Allegro Microsystems</field>
+        <field name="Manufacturer_Part_Number">UDN2987LWTR-6-T</field>
+        <field name="Footprint">UDN2987LW:SOIC127P1030X265-20N</field>
+        <field name="Datasheet">http://www.allegromicro.com/~/Media/Files/Datasheets/UDN2987-6-Datasheet.pdf</field>
+        <field name="Description">ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)</field>
+      </fields>
+      <libsource lib="UDN2987LWTR-6-T" part="UDN2987LWTR-6-T" description="ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)"/>
+      <property name="Height" value="2.65"/>
+      <property name="Mouser Part Number" value="250-UDN2987LWTR-6-T"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/UDN2987LWTR-6-T?qs=pUKx8fyJudD22%252BB6O7ZQ3w%3D%3D"/>
+      <property name="Manufacturer_Name" value="Allegro Microsystems"/>
+      <property name="Manufacturer_Part_Number" value="UDN2987LWTR-6-T"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e316e2c-e389-4ed7-a0c3-edf80d981a4b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>UDN2987LWTR-6-T</value>
+      <footprint>UDN2987LW:SOIC127P1030X265-20N</footprint>
+      <datasheet>http://www.allegromicro.com/~/Media/Files/Datasheets/UDN2987-6-Datasheet.pdf</datasheet>
+      <description>ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)</description>
+      <fields>
+        <field name="Height">2.65</field>
+        <field name="Mouser Part Number">250-UDN2987LWTR-6-T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/UDN2987LWTR-6-T?qs=pUKx8fyJudD22%252BB6O7ZQ3w%3D%3D</field>
+        <field name="Manufacturer_Name">Allegro Microsystems</field>
+        <field name="Manufacturer_Part_Number">UDN2987LWTR-6-T</field>
+        <field name="Footprint">UDN2987LW:SOIC127P1030X265-20N</field>
+        <field name="Datasheet">http://www.allegromicro.com/~/Media/Files/Datasheets/UDN2987-6-Datasheet.pdf</field>
+        <field name="Description">ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)</field>
+      </fields>
+      <libsource lib="UDN2987LWTR-6-T" part="UDN2987LWTR-6-T" description="ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)"/>
+      <property name="Height" value="2.65"/>
+      <property name="Mouser Part Number" value="250-UDN2987LWTR-6-T"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/UDN2987LWTR-6-T?qs=pUKx8fyJudD22%252BB6O7ZQ3w%3D%3D"/>
+      <property name="Manufacturer_Name" value="Allegro Microsystems"/>
+      <property name="Manufacturer_Part_Number" value="UDN2987LWTR-6-T"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>981fc2d2-07f5-46ec-bce8-c570c2f7ff60</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>UDN2987LWTR-6-T</value>
+      <footprint>UDN2987LW:SOIC127P1030X265-20N</footprint>
+      <datasheet>http://www.allegromicro.com/~/Media/Files/Datasheets/UDN2987-6-Datasheet.pdf</datasheet>
+      <description>ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)</description>
+      <fields>
+        <field name="Height">2.65</field>
+        <field name="Mouser Part Number">250-UDN2987LWTR-6-T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/UDN2987LWTR-6-T?qs=pUKx8fyJudD22%252BB6O7ZQ3w%3D%3D</field>
+        <field name="Manufacturer_Name">Allegro Microsystems</field>
+        <field name="Manufacturer_Part_Number">UDN2987LWTR-6-T</field>
+        <field name="Footprint">UDN2987LW:SOIC127P1030X265-20N</field>
+        <field name="Datasheet">http://www.allegromicro.com/~/Media/Files/Datasheets/UDN2987-6-Datasheet.pdf</field>
+        <field name="Description">ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)</field>
+      </fields>
+      <libsource lib="UDN2987LWTR-6-T" part="UDN2987LWTR-6-T" description="ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)"/>
+      <property name="Height" value="2.65"/>
+      <property name="Mouser Part Number" value="250-UDN2987LWTR-6-T"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/UDN2987LWTR-6-T?qs=pUKx8fyJudD22%252BB6O7ZQ3w%3D%3D"/>
+      <property name="Manufacturer_Name" value="Allegro Microsystems"/>
+      <property name="Manufacturer_Part_Number" value="UDN2987LWTR-6-T"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1f60ff0-ccce-47ab-99df-e71d55d5ec4a</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MCP23017_SO</value>
+      <footprint>Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm</footprint>
+      <fields>
+        <field name="Footprint">Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="diptrace-eagle-import" part="MCP23017_SO" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>733bc87d-66f2-4e23-a861-a81e32064b2f</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>MCP23008-E/SO</value>
+      <footprint>Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm</footprint>
+      <fields>
+        <field name="Footprint">Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="diptrace-eagle-import" part="MCP23008-E/SO" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d8e455c-b5dd-4155-be18-1aa032320266</tstamps>
+    </comp>
+    <comp ref="VR1">
+      <value>22k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical</footprint>
+      <fields>
+        <field name="PARTREV">05/16</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="MANUFACTURER">Bourns</field>
+        <field name="Footprint">Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="3296W-1-203" part="3296W-1-203" description=""/>
+      <property name="PARTREV" value="05/16"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="MANUFACTURER" value="Bourns"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b3d6ec2-3f11-4cac-ab26-cd2b92d819a8</tstamps>
+    </comp>
+    <comp ref="VR2">
+      <value>22k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical</footprint>
+      <fields>
+        <field name="PARTREV">05/16</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="MANUFACTURER">Bourns</field>
+        <field name="Footprint">Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="3296W-1-203" part="3296W-1-203" description=""/>
+      <property name="PARTREV" value="05/16"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="MANUFACTURER" value="Bourns"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="K9HZ_Antenna_Tuner.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7f10be8-86fd-47bd-8a88-186c24a9fc3a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="3296W-1-203" part="3296W-1-203">
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">3296W-1-203</field>
+        <field name="Footprint">3296W-1-203:TRIM_3296W-1-203</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="PARTREV">05/16</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="MANUFACTURER">Bourns</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CONN_SD-39531-003_02P_MOL" part="395310002">
+      <docs>https://www.molex.com/en-us/products/part-detail-pdf/395310002?display=pdf</docs>
+      <footprints>
+        <fp>CONN_SD-39531-003_02P_MOL</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">395310002</field>
+        <field name="Footprint">CONN_SD-39531-003_02P_MOL</field>
+        <field name="Datasheet">https://www.molex.com/en-us/products/part-detail-pdf/395310002?display=pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small_US">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small_US</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small US symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="L7805ABD2T-TR" part="L7805ABD2T-TR">
+      <description>Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A D2PAK</description>
+      <docs>https://www.arrow.com/en/products/l7805abd2t-tr/stmicroelectronics?utm_currency=USD&amp;region=nac</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">L7805ABD2T-TR</field>
+        <field name="Footprint">L7805ABD2TTR</field>
+        <field name="Datasheet">https://www.arrow.com/en/products/l7805abd2t-tr/stmicroelectronics?utm_currency=USD&amp;region=nac</field>
+        <field name="Description">Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A D2PAK</field>
+        <field name="Height">4.83</field>
+        <field name="Arrow Part Number">L7805ABD2T-TR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/l7805abd2t-tr/stmicroelectronics?utm_currency=USD&amp;region=nac</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">L7805ABD2T-TR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="INPUT" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="OUTPUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
+    <libpart lib="UDN2987LWTR-6-T" part="UDN2987LWTR-6-T">
+      <description>ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)</description>
+      <docs>http://www.allegromicro.com/~/Media/Files/Datasheets/UDN2987-6-Datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">UDN2987LWTR-6-T</field>
+        <field name="Footprint">SOIC127P1030X265-20N</field>
+        <field name="Datasheet">http://www.allegromicro.com/~/Media/Files/Datasheets/UDN2987-6-Datasheet.pdf</field>
+        <field name="Description">ALLEGRO MICROSYSTEMS - UDN2987LWTR-6-T - PERIPHERAL DRIVER, 8CH, 35V, 350MA (NW)</field>
+        <field name="Height">2.65</field>
+        <field name="Mouser Part Number">250-UDN2987LWTR-6-T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/UDN2987LWTR-6-T?qs=pUKx8fyJudD22%252BB6O7ZQ3w%3D%3D</field>
+        <field name="Manufacturer_Name">Allegro Microsystems</field>
+        <field name="Manufacturer_Part_Number">UDN2987LWTR-6-T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN1" type="passive"/>
+        <pin num="2" name="IN2" type="passive"/>
+        <pin num="3" name="IN3" type="passive"/>
+        <pin num="4" name="IN4" type="passive"/>
+        <pin num="5" name="IN5" type="passive"/>
+        <pin num="6" name="IN6" type="passive"/>
+        <pin num="7" name="IN7" type="passive"/>
+        <pin num="8" name="IN8" type="passive"/>
+        <pin num="9" name="FAULT" type="passive"/>
+        <pin num="10" name="OE/~{R}" type="passive"/>
+        <pin num="11" name="VS" type="passive"/>
+        <pin num="12" name="GND" type="passive"/>
+        <pin num="13" name="OUT8" type="passive"/>
+        <pin num="14" name="OUT7" type="passive"/>
+        <pin num="15" name="OUT6" type="passive"/>
+        <pin num="16" name="OUT5" type="passive"/>
+        <pin num="17" name="OUT4" type="passive"/>
+        <pin num="18" name="OUT3" type="passive"/>
+        <pin num="19" name="OUT2" type="passive"/>
+        <pin num="20" name="OUT1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="diptrace-eagle-import" part="1986717-8">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value"/>
+        <field name="Footprint">diptrace:TBH-1X8_3.5_27X3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="diptrace-eagle-import" part="BAS70H,115">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value"/>
+        <field name="Footprint">diptrace:SODFL350X160X120L45X62N_AP1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="(C)" type="passive"/>
+        <pin num="2" name="(A)" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="diptrace-eagle-import" part="MCP23008-E/SO">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value"/>
+        <field name="Footprint">diptrace:SOIC18P127_1155X1030X265L83X41N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="SCL" type="input"/>
+        <pin num="2" name="SDA" type="bidirectional"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="A1" type="input"/>
+        <pin num="5" name="A0" type="input"/>
+        <pin num="6" name="~{RESET}" type="input"/>
+        <pin num="7" name="N/C" type="passive"/>
+        <pin num="8" name="INT" type="output"/>
+        <pin num="9" name="VSS" type="power_in"/>
+        <pin num="10" name="GP0" type="bidirectional"/>
+        <pin num="11" name="GP1" type="bidirectional"/>
+        <pin num="12" name="GP2" type="bidirectional"/>
+        <pin num="13" name="GP3" type="bidirectional"/>
+        <pin num="14" name="GP4" type="bidirectional"/>
+        <pin num="15" name="GP5" type="bidirectional"/>
+        <pin num="16" name="GP6" type="bidirectional"/>
+        <pin num="17" name="GP7" type="bidirectional"/>
+        <pin num="18" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="diptrace-eagle-import" part="MCP23017_SO">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value"/>
+        <field name="Footprint">diptrace:SOIC-28_300MIL</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GPB0" type="bidirectional"/>
+        <pin num="2" name="GPB1" type="bidirectional"/>
+        <pin num="3" name="GPB2" type="bidirectional"/>
+        <pin num="4" name="GPB3" type="bidirectional"/>
+        <pin num="5" name="GPB4" type="bidirectional"/>
+        <pin num="6" name="GPB5" type="bidirectional"/>
+        <pin num="7" name="GPB6" type="bidirectional"/>
+        <pin num="8" name="GPB7" type="bidirectional"/>
+        <pin num="9" name="VDD" type="power_in"/>
+        <pin num="10" name="VSS" type="power_in"/>
+        <pin num="11" name="NC@1" type="passive"/>
+        <pin num="12" name="SCL" type="input"/>
+        <pin num="13" name="SDA" type="bidirectional"/>
+        <pin num="14" name="NC@2" type="passive"/>
+        <pin num="15" name="A0" type="input"/>
+        <pin num="16" name="A1" type="input"/>
+        <pin num="17" name="A2" type="input"/>
+        <pin num="18" name="~{RESET}" type="input"/>
+        <pin num="19" name="INTB" type="output"/>
+        <pin num="20" name="INTA" type="output"/>
+        <pin num="21" name="GPA0" type="bidirectional"/>
+        <pin num="22" name="GPA1" type="bidirectional"/>
+        <pin num="23" name="GPA2" type="bidirectional"/>
+        <pin num="24" name="GPA3" type="bidirectional"/>
+        <pin num="25" name="GPA4" type="bidirectional"/>
+        <pin num="26" name="GPA5" type="bidirectional"/>
+        <pin num="27" name="GPA6" type="bidirectional"/>
+        <pin num="28" name="GPA7" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="3296W-1-203">
+      <uri>C:\Users\Dad\Documents\GitHub\Temp\K9HZ_Antenna_Tuner-main\K9HZ_Antenna_Tuner/KiCadParts/TRIM_3296/3296W-1-203.kicad_sym</uri>
+    </library>
+    <library logical="CONN_SD-39531-003_02P_MOL">
+      <uri>C:\Users\Dad\Documents\GitHub\Temp\K9HZ_Antenna_Tuner-main\K9HZ_Antenna_Tuner/KiCadParts/395310002/CONN_SD-39531-003_02P_MOL.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="L7805ABD2T-TR">
+      <uri>C:\Users\Dad\Documents\GitHub\Temp\K9HZ_Antenna_Tuner-main\K9HZ_Antenna_Tuner/KiCadParts/L7805ABD2TTR/L7805ABD2T-TR.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="UDN2987LWTR-6-T">
+      <uri>C:\Users\Dad\Documents\GitHub\Temp\K9HZ_Antenna_Tuner-main\K9HZ_Antenna_Tuner/KiCadParts/UDN2987LW/UDN2987LWTR-6-T.kicad_sym</uri>
+    </library>
+    <library logical="diptrace-eagle-import">
+      <uri>C:\Users\Dad\Documents\GitHub\Temp\K9HZ_Antenna_Tuner-main\K9HZ_Antenna_Tuner/diptrace-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V" class="Default">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="OUTPUT" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="OE/~{R}" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="OE/~{R}" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="OE/~{R}" pintype="passive"/>
+      <node ref="U5" pin="18" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="U5" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="18" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="2" name="+12V" class="Default">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U1" pin="1" pinfunction="INPUT" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="VS" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="VS" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="VS" pintype="passive"/>
+    </net>
+    <net code="3" name="GND" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J10" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J3" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="GND" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U6" pin="9" pinfunction="VSS" pintype="power_in"/>
+      <node ref="VR1" pin="1" pintype="passive"/>
+      <node ref="VR2" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D1-(A))" class="Default">
+      <node ref="D1" pin="2" pinfunction="(A)" pintype="passive"/>
+      <node ref="J3" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D1-(C))" class="Default">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="(C)" pintype="passive"/>
+      <node ref="VR1" pin="3" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D2-(A))" class="Default">
+      <node ref="D2" pin="2" pinfunction="(A)" pintype="passive"/>
+      <node ref="J3" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D2-(C))" class="Default">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="(C)" pintype="passive"/>
+      <node ref="VR2" pin="3" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(J1-P1)" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="OUT1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(J1-P2)" class="Default">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="OUT2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(J1-P3)" class="Default">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="OUT3" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(J1-P4)" class="Default">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="OUT4" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(J1-P5)" class="Default">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="OUT5" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(J1-P6)" class="Default">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="OUT6" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(J1-P7)" class="Default">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="OUT7" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(J1-P8)" class="Default">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="OUT8" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J2-P1)" class="Default">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="U4" pin="20" pinfunction="OUT1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(J2-P2)" class="Default">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="U4" pin="19" pinfunction="OUT2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J2-P3)" class="Default">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="U4" pin="18" pinfunction="OUT3" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J2-P4)" class="Default">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="OUT4" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(J2-P5)" class="Default">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="OUT5" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(J2-P6)" class="Default">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="U4" pin="15" pinfunction="OUT6" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(J2-P7)" class="Default">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="OUT7" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J2-P8)" class="Default">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="OUT8" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J3-P1)" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="U2" pin="20" pinfunction="OUT1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J3-P2)" class="Default">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="OUT2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J3-P3)" class="Default">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="OUT3" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(J4-B)" class="Default">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U5" pin="15" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(J5-B)" class="Default">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U5" pin="16" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(J6-B)" class="Default">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U5" pin="17" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(J7-B)" class="Default">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(J8-B)" class="Default">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(J9-B)" class="Default">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(J10-Pin_5)" class="Default">
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U5" pin="13" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(J10-Pin_6)" class="Default">
+      <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(J10-Pin_7)" class="Default">
+      <node ref="J10" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U5" pin="12" pinfunction="SCL" pintype="input"/>
+      <node ref="U6" pin="1" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(J10-Pin_8)" class="Default">
+      <node ref="J10" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(R9-Pad2)" class="Default">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="VR1" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(R12-Pad2)" class="Default">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="VR2" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(U2-IN1)" class="Default">
+      <node ref="U2" pin="1" pinfunction="IN1" pintype="passive"/>
+      <node ref="U6" pin="10" pinfunction="GP0" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Net-(U2-IN2)" class="Default">
+      <node ref="U2" pin="2" pinfunction="IN2" pintype="passive"/>
+      <node ref="U6" pin="11" pinfunction="GP1" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="Net-(U2-IN3)" class="Default">
+      <node ref="U2" pin="3" pinfunction="IN3" pintype="passive"/>
+      <node ref="U6" pin="12" pinfunction="GP2" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="Net-(U2-IN4)" class="Default">
+      <node ref="U2" pin="4" pinfunction="IN4" pintype="passive"/>
+      <node ref="U6" pin="13" pinfunction="GP3" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="Net-(U2-IN5)" class="Default">
+      <node ref="U2" pin="5" pinfunction="IN5" pintype="passive"/>
+      <node ref="U6" pin="14" pinfunction="GP4" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="Net-(U2-IN6)" class="Default">
+      <node ref="U2" pin="6" pinfunction="IN6" pintype="passive"/>
+      <node ref="U6" pin="15" pinfunction="GP5" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="Net-(U2-IN7)" class="Default">
+      <node ref="U2" pin="7" pinfunction="IN7" pintype="passive"/>
+      <node ref="U6" pin="16" pinfunction="GP6" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="Net-(U2-IN8)" class="Default">
+      <node ref="U2" pin="8" pinfunction="IN8" pintype="passive"/>
+      <node ref="U6" pin="17" pinfunction="GP7" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="Net-(U3-IN1)" class="Default">
+      <node ref="U3" pin="1" pinfunction="IN1" pintype="passive"/>
+      <node ref="U5" pin="21" pinfunction="GPA0" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="Net-(U3-IN2)" class="Default">
+      <node ref="U3" pin="2" pinfunction="IN2" pintype="passive"/>
+      <node ref="U5" pin="22" pinfunction="GPA1" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="Net-(U3-IN3)" class="Default">
+      <node ref="U3" pin="3" pinfunction="IN3" pintype="passive"/>
+      <node ref="U5" pin="23" pinfunction="GPA2" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="Net-(U3-IN4)" class="Default">
+      <node ref="U3" pin="4" pinfunction="IN4" pintype="passive"/>
+      <node ref="U5" pin="24" pinfunction="GPA3" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="Net-(U3-IN5)" class="Default">
+      <node ref="U3" pin="5" pinfunction="IN5" pintype="passive"/>
+      <node ref="U5" pin="25" pinfunction="GPA4" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="Net-(U3-IN6)" class="Default">
+      <node ref="U3" pin="6" pinfunction="IN6" pintype="passive"/>
+      <node ref="U5" pin="26" pinfunction="GPA5" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="Net-(U3-IN7)" class="Default">
+      <node ref="U3" pin="7" pinfunction="IN7" pintype="passive"/>
+      <node ref="U5" pin="27" pinfunction="GPA6" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="Net-(U3-IN8)" class="Default">
+      <node ref="U3" pin="8" pinfunction="IN8" pintype="passive"/>
+      <node ref="U5" pin="28" pinfunction="GPA7" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="Net-(U4-IN1)" class="Default">
+      <node ref="U4" pin="1" pinfunction="IN1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="GPB0" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="Net-(U4-IN2)" class="Default">
+      <node ref="U4" pin="2" pinfunction="IN2" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="GPB1" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="Net-(U4-IN3)" class="Default">
+      <node ref="U4" pin="3" pinfunction="IN3" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="GPB2" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="Net-(U4-IN4)" class="Default">
+      <node ref="U4" pin="4" pinfunction="IN4" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="GPB3" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="Net-(U4-IN5)" class="Default">
+      <node ref="U4" pin="5" pinfunction="IN5" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="GPB4" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="Net-(U4-IN6)" class="Default">
+      <node ref="U4" pin="6" pinfunction="IN6" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="GPB5" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="Net-(U4-IN7)" class="Default">
+      <node ref="U4" pin="7" pinfunction="IN7" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="GPB6" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="Net-(U4-IN8)" class="Default">
+      <node ref="U4" pin="8" pinfunction="IN8" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="GPB7" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(J10-Pin_1-Pad1)" class="Default">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(J10-Pin_2-Pad2)" class="Default">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(J10-Pin_3-Pad3)" class="Default">
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(J10-Pin_4-Pad4)" class="Default">
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(J10-Pin_10-Pad10)" class="Default">
+      <node ref="J10" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U2-FAULT-Pad9)" class="Default">
+      <node ref="U2" pin="9" pinfunction="FAULT" pintype="passive+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U2-OUT4-Pad17)" class="Default">
+      <node ref="U2" pin="17" pinfunction="OUT4" pintype="passive+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U2-OUT5-Pad16)" class="Default">
+      <node ref="U2" pin="16" pinfunction="OUT5" pintype="passive+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U2-OUT6-Pad15)" class="Default">
+      <node ref="U2" pin="15" pinfunction="OUT6" pintype="passive+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U2-OUT7-Pad14)" class="Default">
+      <node ref="U2" pin="14" pinfunction="OUT7" pintype="passive+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U2-OUT8-Pad13)" class="Default">
+      <node ref="U2" pin="13" pinfunction="OUT8" pintype="passive+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U3-FAULT-Pad9)" class="Default">
+      <node ref="U3" pin="9" pinfunction="FAULT" pintype="passive+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U4-FAULT-Pad9)" class="Default">
+      <node ref="U4" pin="9" pinfunction="FAULT" pintype="passive+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U5-INTA-Pad20)" class="Default">
+      <node ref="U5" pin="20" pinfunction="INTA" pintype="output+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U5-INTB-Pad19)" class="Default">
+      <node ref="U5" pin="19" pinfunction="INTB" pintype="output+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U5-NC@1-Pad11)" class="Default">
+      <node ref="U5" pin="11" pinfunction="NC@1" pintype="passive+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U5-NC@2-Pad14)" class="Default">
+      <node ref="U5" pin="14" pinfunction="NC@2" pintype="passive+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U6-INT-Pad8)" class="Default">
+      <node ref="U6" pin="8" pinfunction="INT" pintype="output+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U6-N/C-Pad7)" class="Default">
+      <node ref="U6" pin="7" pinfunction="N/C" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

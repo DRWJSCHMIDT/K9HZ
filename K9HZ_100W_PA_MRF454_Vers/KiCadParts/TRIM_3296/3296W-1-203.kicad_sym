@@ -1,0 +1,103 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "3296W-1-203" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "VR" (id 0) (at -5.08711 10.1742 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "3296W-1-203" (id 1) (at -5.09259 -5.09259 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "3296W-1-203:TRIM_3296W-1-203" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "05/16" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendation" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Bourns" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "3296W-1-203_0_0"
+      (polyline
+        (pts (xy -6.35 0.0) (xy -5.842 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -5.842 0.0) (xy -5.08 1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 1.016) (xy -3.81 -1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 -1.27) (xy -2.54 1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 1.016) (xy -1.27 -1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 -1.27) (xy 0.0 1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 1.016) (xy 1.27 -1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 -1.27) (xy 2.54 1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 1.016) (xy 3.81 -1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.81 -1.27) (xy 5.08 1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.842 0.0) (xy 5.08 1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.842 0.0) (xy 6.35 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 1.27) (xy -1.27 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 2.54) (xy 1.27 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 2.54) (xy 0.0 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts
+          (xy -1.27 2.54)
+          (xy 1.27 2.54)
+          (xy 0.0 1.27)
+          (xy -1.27 2.54)
+        )
+        (stroke (width 0.254)) (fill (type outline))
+      )
+      (pin passive line (at -8.89 0.0 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 8.89 0.0 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 5.08 270.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

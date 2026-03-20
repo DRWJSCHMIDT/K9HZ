@@ -1,0 +1,1428 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d569b62b-fa79-49f9-950f-c77e30808c2d")
+	(paper "USLetter")
+	(title_block
+		(title "KD0RC TeensyMaestro")
+		(date "2025-07-27")
+		(rev "v3.0")
+		(company "NV0E")
+		(comment 1 "Based on original design by KD0RC.")
+		(comment 3 "PCB design by NV0E")
+	)
+	(lib_symbols
+		(symbol "Connector_Generic:Conn_01x10"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x10"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x10_1_1"
+				(rectangle
+					(start -1.27 11.43)
+					(end 1.27 -13.97)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 10.287)
+					(end 0 10.033)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 7.747)
+					(end 0 7.493)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -7.493)
+					(end 0 -7.747)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -10.033)
+					(end 0 -10.287)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -12.573)
+					(end 0 -12.827)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 10.16 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 7.62 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 3.81)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -10.16 0)
+					(length 3.81)
+					(name "Pin_9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -12.7 0)
+					(length 3.81)
+					(name "Pin_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Switch:SW_Push"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 1.27 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "SW_Push"
+				(at 0 -1.524 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Push button switch, generic, two pins"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SW_Push_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(rectangle
+		(start 73.66 26.67)
+		(end 193.04 106.68)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid afc6eecb-b412-4b1d-ae90-4b01debfba6d)
+	)
+	(text "CW Message Switches (NOT ON PCB)"
+		(exclude_from_sim no)
+		(at 93.218 29.972 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "64794334-4811-4c51-9b63-08793acf7a07")
+	)
+	(junction
+		(at 151.13 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ecae1a3-641d-409b-a2e9-4548099bfc7b")
+	)
+	(junction
+		(at 113.03 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "908de276-59e5-4c41-9647-d1ce34438cce")
+	)
+	(junction
+		(at 151.13 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bfbafb8c-b9e7-47e4-a23f-406a7d9384d7")
+	)
+	(junction
+		(at 151.13 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d48fdf25-6ea8-4500-8cd4-2126084fd7f9")
+	)
+	(junction
+		(at 151.13 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d61e5137-1a35-41b7-b8d8-c8cf9aa8a2bf")
+	)
+	(junction
+		(at 151.13 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7e7b747-f770-4c58-8a46-3f6ecab14797")
+	)
+	(no_connect
+		(at 109.22 91.44)
+		(uuid "05400c08-d242-4da4-85c6-716011222f04")
+	)
+	(no_connect
+		(at 109.22 93.98)
+		(uuid "4b6b38a8-d337-4540-9d8b-b93426f500a5")
+	)
+	(wire
+		(pts
+			(xy 151.13 46.99) (xy 151.13 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00d978b1-d503-4269-aba5-3fc35657c83c")
+	)
+	(wire
+		(pts
+			(xy 151.13 36.83) (xy 151.13 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "102c1e1c-6b38-4166-8620-eabc764ed7b1")
+	)
+	(wire
+		(pts
+			(xy 133.35 36.83) (xy 115.57 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22484022-a9ac-440c-a229-15a03926f879")
+	)
+	(wire
+		(pts
+			(xy 151.13 57.15) (xy 143.51 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "271a688e-e1f4-4384-a882-c363e2dc1d75")
+	)
+	(wire
+		(pts
+			(xy 133.35 78.74) (xy 130.81 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cc8f23f-4111-4050-b1f9-932ded90b20e")
+	)
+	(wire
+		(pts
+			(xy 127 83.82) (xy 109.22 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e408601-0dcb-47ec-add6-b0f70aa8f897")
+	)
+	(wire
+		(pts
+			(xy 143.51 88.9) (xy 151.13 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ef310bc-444c-4839-ae21-6a6c526ed755")
+	)
+	(wire
+		(pts
+			(xy 109.22 96.52) (xy 113.03 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f51e633-4a03-420f-b05b-08de9e726192")
+	)
+	(wire
+		(pts
+			(xy 143.51 36.83) (xy 151.13 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45c840a2-38b4-4f79-8d74-86828e93026e")
+	)
+	(wire
+		(pts
+			(xy 109.22 73.66) (xy 113.03 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "499fbc63-ef03-43f6-b725-f21bcbf3e0e2")
+	)
+	(wire
+		(pts
+			(xy 151.13 78.74) (xy 151.13 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cf1a5ec-d000-474c-a8a5-1567c866fdbb")
+	)
+	(wire
+		(pts
+			(xy 113.03 73.66) (xy 113.03 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b5c7a68-c86e-4a9f-9eaa-4701f2c89308")
+	)
+	(wire
+		(pts
+			(xy 115.57 76.2) (xy 109.22 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e49a0a2-772e-4c0a-a94a-121cc3eaa129")
+	)
+	(wire
+		(pts
+			(xy 123.19 57.15) (xy 123.19 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60d04635-3ad4-4d5a-9ac3-c9664a80ba60")
+	)
+	(wire
+		(pts
+			(xy 143.51 78.74) (xy 151.13 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "767575be-1d4f-4f49-88d5-ff839cde40b4")
+	)
+	(wire
+		(pts
+			(xy 119.38 78.74) (xy 109.22 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87574b06-03ab-473f-a67d-5e951df379ce")
+	)
+	(wire
+		(pts
+			(xy 133.35 68.58) (xy 127 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99e71d7b-f4db-4aae-b141-5a466a9a9f92")
+	)
+	(wire
+		(pts
+			(xy 133.35 88.9) (xy 109.22 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3154b43-15dd-48e6-a292-52752b16bb4a")
+	)
+	(wire
+		(pts
+			(xy 127 68.58) (xy 127 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b74633a0-9cd5-4f95-969d-c2fe4a7cef13")
+	)
+	(wire
+		(pts
+			(xy 151.13 68.58) (xy 143.51 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc462eca-f234-4289-bd9b-fe0593334863")
+	)
+	(wire
+		(pts
+			(xy 151.13 68.58) (xy 151.13 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1ac2862-5e90-45c5-ba45-e189d845f46e")
+	)
+	(wire
+		(pts
+			(xy 130.81 78.74) (xy 130.81 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2a46b56-3591-471a-8142-f7fb3e28bfad")
+	)
+	(wire
+		(pts
+			(xy 113.03 96.52) (xy 151.13 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c39ef515-caa5-4056-8757-59fe8f8e0d22")
+	)
+	(wire
+		(pts
+			(xy 151.13 46.99) (xy 143.51 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd0e1774-6d0b-4d36-87ee-5c21671de0e3")
+	)
+	(wire
+		(pts
+			(xy 151.13 88.9) (xy 151.13 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd2d1233-681e-40b8-9812-b0bbea5729aa")
+	)
+	(wire
+		(pts
+			(xy 133.35 46.99) (xy 119.38 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d320cb5b-38b7-4489-a1e3-3c3d230de272")
+	)
+	(wire
+		(pts
+			(xy 115.57 36.83) (xy 115.57 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d353113b-4342-4277-9329-25ca53e6a4bc")
+	)
+	(wire
+		(pts
+			(xy 130.81 86.36) (xy 109.22 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d78a2d50-471d-42df-a1c0-eb4a4d9b2a70")
+	)
+	(wire
+		(pts
+			(xy 123.19 81.28) (xy 109.22 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db8d21d0-d7ef-49c9-b837-ce78a717ed67")
+	)
+	(wire
+		(pts
+			(xy 119.38 46.99) (xy 119.38 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea2e711b-4dd2-4b4e-ae61-41bf948adef6")
+	)
+	(wire
+		(pts
+			(xy 151.13 57.15) (xy 151.13 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea3cd739-4008-48b9-980a-ef604ee0eb8c")
+	)
+	(wire
+		(pts
+			(xy 133.35 57.15) (xy 123.19 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd56e040-e27e-4fd9-a563-ce9649ac9320")
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 138.43 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17eba869-5856-48d5-b30d-ea6208e2f1fc")
+		(property "Reference" "SW18"
+			(at 138.43 50.0845 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CW_MSG_3"
+			(at 138.43 52.5088 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f1b54853-e15a-473c-abd4-87f3194ba3b1")
+		)
+		(pin "2"
+			(uuid "926a9b8f-b28d-4615-9949-590d7295f3f0")
+		)
+		(instances
+			(project "Teensy Maestro-hw"
+				(path "/e84bf2c0-27d2-4c85-a522-f514b61cbcd4/24ef3873-51d5-41d5-a2b2-ed39ecdbf9d9"
+					(reference "SW18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 138.43 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5285f5ef-9cfc-435a-9e74-735c6d033305")
+		(property "Reference" "SW19"
+			(at 138.43 61.5145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CW_MSG_4"
+			(at 138.43 63.9388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "712117d1-2b16-4480-b6aa-bdcfe9205002")
+		)
+		(pin "2"
+			(uuid "b6bea7c9-5af3-4204-9c05-cb126ef26c60")
+		)
+		(instances
+			(project "Teensy Maestro-hw"
+				(path "/e84bf2c0-27d2-4c85-a522-f514b61cbcd4/24ef3873-51d5-41d5-a2b2-ed39ecdbf9d9"
+					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 138.43 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "73d58362-cd15-42de-bd12-57d76517c88d")
+		(property "Reference" "SW16"
+			(at 138.43 29.7645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CW_MSG_1"
+			(at 138.43 32.1888 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1ff1d6e1-af5e-465f-87e2-5b2b2c9df5ad")
+		)
+		(pin "2"
+			(uuid "0807b560-162d-43b4-939d-0de1b5b51d87")
+		)
+		(instances
+			(project "Teensy Maestro-hw"
+				(path "/e84bf2c0-27d2-4c85-a522-f514b61cbcd4/24ef3873-51d5-41d5-a2b2-ed39ecdbf9d9"
+					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 138.43 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98804cbd-c7eb-4d2e-97cf-0d9a75712c57")
+		(property "Reference" "SW17"
+			(at 138.43 39.9245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CW_MSG_2"
+			(at 138.43 42.3488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "89f14cad-fb33-4354-a36d-6fd12712ef0d")
+		)
+		(pin "2"
+			(uuid "e1d43c45-a36d-4a17-abc5-c359f5d1a2a8")
+		)
+		(instances
+			(project "Teensy Maestro-hw"
+				(path "/e84bf2c0-27d2-4c85-a522-f514b61cbcd4/24ef3873-51d5-41d5-a2b2-ed39ecdbf9d9"
+					(reference "SW17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 138.43 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a68f651b-effb-4204-aa2b-16f1b43dac48")
+		(property "Reference" "SW21"
+			(at 138.43 81.8345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CW_MSG_6"
+			(at 138.43 84.2588 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e09c063d-7478-40b8-bf7f-fd655af1e700")
+		)
+		(pin "2"
+			(uuid "11da6f23-00d1-4fa5-a25e-5f6d4dd90220")
+		)
+		(instances
+			(project "Teensy Maestro-hw"
+				(path "/e84bf2c0-27d2-4c85-a522-f514b61cbcd4/24ef3873-51d5-41d5-a2b2-ed39ecdbf9d9"
+					(reference "SW21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 138.43 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "d675e35e-9f38-4378-abda-b1089e18dfe0")
+		(property "Reference" "SW20"
+			(at 138.43 71.6745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CW_MSG_5"
+			(at 138.43 74.0988 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "68d8dea6-82b4-4fa0-bb50-17f052d5e94d")
+		)
+		(pin "2"
+			(uuid "bce2ce01-2de5-419b-8ec5-90b12d3b85f6")
+		)
+		(instances
+			(project "Teensy Maestro-hw"
+				(path "/e84bf2c0-27d2-4c85-a522-f514b61cbcd4/24ef3873-51d5-41d5-a2b2-ed39ecdbf9d9"
+					(reference "SW20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x10")
+		(at 104.14 83.82 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "e1fc481a-6636-4078-af1a-80479e72f36e")
+		(property "Reference" "J25"
+			(at 114.3 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x10"
+			(at 114.3 101.346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical"
+			(at 104.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 104.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 104.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "631e4177-e363-47da-8a73-37172018e698")
+		)
+		(pin "5"
+			(uuid "5fee59d8-b0c0-4292-88a4-45d8ae4a3a15")
+		)
+		(pin "3"
+			(uuid "40f400ba-78f1-4e8b-8bde-cacc63142ae9")
+		)
+		(pin "7"
+			(uuid "eb204c2d-bda3-4e4d-91ef-3cb6d9b386ab")
+		)
+		(pin "6"
+			(uuid "0f15ea01-c0f9-434d-bd75-2bc2381b5f57")
+		)
+		(pin "4"
+			(uuid "a6bc6a5a-8a63-4ca9-a7f5-c58b48e39594")
+		)
+		(pin "10"
+			(uuid "b3384084-c20c-423c-a61b-9b68f1f82377")
+		)
+		(pin "1"
+			(uuid "1cdf652b-378a-444a-b03c-107b0f2a7e90")
+		)
+		(pin "2"
+			(uuid "b9670e58-335c-40a4-9a61-72245777f845")
+		)
+		(pin "9"
+			(uuid "cd6ec9ba-e0ea-4095-b782-e94ba6a65066")
+		)
+		(instances
+			(project "Teensy Maestro-hw"
+				(path "/e84bf2c0-27d2-4c85-a522-f514b61cbcd4/24ef3873-51d5-41d5-a2b2-ed39ecdbf9d9"
+					(reference "J25")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

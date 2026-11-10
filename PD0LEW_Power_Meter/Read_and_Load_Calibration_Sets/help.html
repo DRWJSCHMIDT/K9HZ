@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Calibration Tool for Power and SWR Meter</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h1 {
+      text-align: center;
+      color: #004080;
+      margin-bottom: 0.1em;
+    }
+    hr {
+      border: none;
+      border-top: 2px solid #004080;
+      margin: 1em 0 2em;
+    }
+    p {
+      margin-bottom: 1em;
+    }
+    pre {
+      background-color: #eee;
+      border: 1px solid #ccc;
+      padding: 10px;
+      overflow-x: auto;
+      font-family: monospace;
+    }
+    .note {
+      background-color: #ffffcc;
+      border-left: 5px solid #ffcc00;
+      padding: 10px;
+      margin-bottom: 1em;
+    }
+    figure {
+      margin: 1.5em 0;
+      text-align: center;
+    }
+    figure img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    figcaption {
+      font-style: italic;
+      color: #555;
+      margin-top: 0.5em;
+      font-size: 0.9em;
+    }
+    footer {
+      margin-top: 3em;
+      font-style: italic;
+      text-align: center;
+      color: #555;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Calibration Tool for Power and SWR Meter</h1>
+  <hr />
+
+  <p>When using old firmware, you can make pictures from the debug screens or write down the values for all calibration sets if needed,
+     to use the values later in your calibration file.</p>
+  <p><strong>Notice:</strong> Notice: There are 8 calibration sets, for Coupler 1 (HF), Coupler 2 (HF), Coupler 1 (6M), 
+Coupler 2 (6M) etc.</p>
+
+  <div class="note">
+    Now you can create a text file. This is only needed if you have old firmware.<br />
+    File name must look like this: <code>PD0LEW_Calibration.txt</code> where <em>PD0LEW</em> is your call.
+  </div>
+
+  <p>Before you load new firmware, do a Reset to Default.</p>
+  <p>Load your new firmware which must be version <code>LJ2000M_6_3.ino.hex</code> or higher.</p>
+  <p>When loaded, go to the Config Menu and set your call sign.</p>
+  <p>If you came from an old version, you must adjust the calibration values in the text file (see below). This is for your meter and may look different from your screenshots!</p>
+
+  <h2>Example from Debug Screen</h2>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; max-width: 400px;">
+  <thead style="background-color: #004080; color: white;">
+    <tr>
+      <th>dBm</th>
+      <th>F:</th>
+      <th>R:</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>50.0</td>
+      <td>2.280</td>
+      <td>2.280</td>
+    </tr>
+    <tr>
+      <td>40.0</td>
+      <td>1.969</td>
+      <td>1.969</td>
+    </tr>
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  <h2>Example Calibration Values</h2>
+
+ 
+
+  <pre>
+50.0 2.280 2.280 40.0 1.969 1.969  HF coupler 1 
+40.0 2.452 2.452 10.0 1.702 1.702  HF coupler 2
+40.0 2.452 2.452 10.0 1.702 1.702  2M coupler 1
+40.0 2.452 2.452 10.0 1.702 1.702  2M coupler 2
+40.0 2.452 2.452 10.0 1.702 1.702  6M coupler 1
+40.0 2.452 2.452 10.0 1.702 1.702  6M coupler 2
+40.0 2.452 2.452 10.0 1.702 1.702  70CM coupler 1
+40.0 2.452 2.452 10.0 1.702 1.702  70CM coupler 2
+  </pre>
+
+  <h2>Real Data in the Text File (e.g. PD0LEW_Calibration.txt)</h2>
+  <pre>
+50.0 2.280 2.280 40.0 1.969 1.969
+40.0 2.452 2.452 10.0 1.702 1.702
+40.0 2.452 2.452 10.0 1.702 1.702
+40.0 2.452 2.452 10.0 1.702 1.702
+40.0 2.452 2.452 10.0 1.702 1.702
+40.0 2.452 2.452 10.0 1.702 1.702
+40.0 2.452 2.452 10.0 1.702 1.702
+40.0 2.452 2.452 10.0 1.702 1.702
+  </pre>
+
+  <footer>
+    Johan Holstein<br />
+    PD0LEW &copy; 2025
+  </footer>
+</body>
+</html>

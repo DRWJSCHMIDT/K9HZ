@@ -1,0 +1,1 @@
+esptool.exe --chip esp32c3 --port com3 --baud 115200 write_flash -z 0x0000 LJMon_7.2_wifi_ESP32C3.ino.bootloader.bin 0x8000 LJMon_7.2_wifi_ESP32C3.ino.partitions.bin 0x10000 LJMon_7.2_wifi_ESP32C3.ino.bin
